@@ -4,18 +4,22 @@
 
 This repository contains the controlling evidential record and a finite medico-legal formulation derived from it. It is not a catalogue of every possible theory.
 
-`00_PATIENT_GUIDING_STATEMENT.md` preserves the patient's experiential centre so that the clinical and legal analysis does not lose sight of the problem for which care was actually sought. It does not override the evidential record or decide diagnosis, breach or causation.
+`00_PATIENT_GUIDING_STATEMENT.md` preserves the patient's experiential centre so that the clinical and legal analysis does not lose sight of the problem for which care was actually sought. It does not override primary evidence or decide diagnosis, breach or causation.
+
+`01A_SOURCE_TO_CLIN_COMPLETENESS_AUDIT.md` records source-to-transcription checks and controls where a verified source document differs from the older CLIN transcription.
 
 ## Source hierarchy
 
-1. `01_COMPLETE_RECORD_LEGAL_CANONICAL.md` — evidential authority.
-2. `00_PATIENT_GUIDING_STATEMENT.md` — patient perspective and purpose; not an evidential substitute.
-3. `README.md` — controlling formulation and repository guide.
-4. `02_CASE_THEORY_AND_ARGUMENT_VAULT.md` — finite case architecture.
-5. `03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md` — proposition-to-CLIN map.
-6. `04_FINAL_EXPERT_QUESTION_REGISTER.md` — controlling expert instruction framework.
+1. **Original source document** — ultimate evidential authority where available.
+2. `01A_SOURCE_TO_CLIN_COMPLETENESS_AUDIT.md` — source-verified corrections and completeness status.
+3. `01_COMPLETE_RECORD_LEGAL_CANONICAL.md` — controlling working transcription where no source discrepancy has been identified.
+4. `00_PATIENT_GUIDING_STATEMENT.md` — patient perspective and purpose; not an evidential substitute.
+5. `README.md` — controlling formulation and repository guide.
+6. `02_CASE_THEORY_AND_ARGUMENT_VAULT.md` — finite case architecture.
+7. `03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md` — proposition-to-CLIN map.
+8. `04_FINAL_EXPERT_QUESTION_REGISTER.md` — controlling expert instruction framework.
 
-If an analytical document conflicts with the canonical record, the canonical record wins.
+A CLIN entry is not treated as more authoritative than the source from which it was transcribed. Where a source-to-CLIN discrepancy has been verified, the source wording and the correction register control.
 
 ## Controlling formulation
 
