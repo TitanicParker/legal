@@ -4,13 +4,16 @@
 
 This repository contains the controlling evidential record and a finite medico-legal formulation derived from it. It is not a catalogue of every possible theory.
 
+`00_PATIENT_GUIDING_STATEMENT.md` preserves the patient's experiential centre so that the clinical and legal analysis does not lose sight of the problem for which care was actually sought. It does not override the evidential record or decide diagnosis, breach or causation.
+
 ## Source hierarchy
 
 1. `01_COMPLETE_RECORD_LEGAL_CANONICAL.md` — evidential authority.
-2. `README.md` — controlling formulation and repository guide.
-3. `02_CASE_THEORY_AND_ARGUMENT_VAULT.md` — finite case architecture.
-4. `03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md` — proposition-to-CLIN map.
-5. `04_FINAL_EXPERT_QUESTION_REGISTER.md` — controlling expert instruction framework.
+2. `00_PATIENT_GUIDING_STATEMENT.md` — patient perspective and purpose; not an evidential substitute.
+3. `README.md` — controlling formulation and repository guide.
+4. `02_CASE_THEORY_AND_ARGUMENT_VAULT.md` — finite case architecture.
+5. `03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md` — proposition-to-CLIN map.
+6. `04_FINAL_EXPERT_QUESTION_REGISTER.md` — controlling expert instruction framework.
 
 If an analytical document conflicts with the canonical record, the canonical record wins.
 
