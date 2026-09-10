@@ -1,376 +1,267 @@
 # Final Expert Question Register
 
-**Repository:** `TitanicParker/legal`  
-**Canonical evidential source:** `01_COMPLETE_RECORD_LEGAL_CANONICAL.md`  
-**Companion documents:** `README.md`, `02_CASE_THEORY_AND_ARGUMENT_VAULT.md`, `03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md`  
-**Status:** Final expert instruction framework, subject to correction by new primary evidence or independent expert findings.
+## Status
+
+This is the controlling expert-instruction framework. It is designed to test the finite case, not invite new theories.
+
+The expert should read:
+
+- `01_COMPLETE_RECORD_LEGAL_CANONICAL.md`
+- `README.md`
+- `02_CASE_THEORY_AND_ARGUMENT_VAULT.md`
+- `03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md`
+
+The canonical record is the evidential authority.
 
 ## Governing instructions
 
-Please approach the record as an independent movement-disorders neurologist. Do not assume the repository theory is correct; test it.
+Approach the case as an independent movement-disorders neurologist. Do not assume the repository theory is correct.
 
-Keep the following distinctions explicit:
+For every answer:
 
-- assess July 2017 using contemporaneous information and reasonable practice at that time;
-- do not project later treatment response or 2026 genetics backward to determine the 2017 standard;
+- assess each historical decision using the information then available;
+- do not use later PRKN genetics to determine the 2017 standard of care;
 - accept that genuine structural foot pathology existed;
-- accept that Podiatry may have been entirely appropriate;
-- accept that “Not clear” may have been a proper endpoint if reached after adequate assessment;
-- give full weight to the substantial positive neurological examination evidence;
-- do not infer that an undocumented manoeuvre was not performed merely because it is absent from the surviving note;
-- treat the Protest only conditionally;
-- separate standard, factual sufficiency, breach, later reopening, harm and causation;
-- where the record is indeterminate, identify what additional evidence would materially change your opinion.
+- accept that Podiatry may have been appropriate for the structural component;
+- do not assume an undocumented examination did or did not occur;
+- distinguish what the record proves, what can reasonably be inferred, what remains clinically indeterminate, and what additional evidence would change your view;
+- separate reasonable practice, breach, medical causation and harm;
+- state confidence and important source limitations.
 
-The controlling proposition being tested is:
+The alleged pre-discharge Protest is disputed patient evidence. Address it only conditionally.
 
-> **A clinically important neurological lower-limb relationship was positively raised by the contemporaneous record. What remains unresolved is whether it was adequately characterised, integrated with genuine structural pathology, and later reconstructed when further evidence repeatedly crossed the boundary.**
+## Controlling formulation
 
----
+> **An integrated lower-limb problem entered Neurology. Neurology positively identified a dystonic-looking lower-limb phenomenon alongside genuine structural foot disease but left the painful foot relationship unresolved. Later neurological treatment demonstrated that the foot state was pharmacologically modifiable; the structural Podiatry stream ends in 2019; the feet later became increasingly disabling; and by 2023–2025 severe pain, OFF/dystonia reasoning, medication-state effects and profound relief after a formulation change made the treatment relationship clinically unavoidable. The central expert task is to determine whether that progression was adequately assessed, carried forward, treated and safeguarded, and what avoidable harm resulted from any failure.**
 
 # Question 1 — What did reasonable neurological practice require in July 2017?
 
-Given the integrated feet–gait–tone presentation and Neurology's own findings, what focused neurological assessment would reasonable practice in July 2017 have required before the lower-limb/foot symptoms could properly be left as structurally separate, neuropathic, mixed or “Not clear”?
+Given the integrated referral, severe very-young-onset Parkinsonism, dystonic-looking pseudo-footdrop phenomenon and structural foot abnormalities, what focused lower-limb assessment would reasonable neurological practice in 2017 have required before painful foot/lower-limb symptoms could properly be left structural/separate, neuropathic, mixed or “Not clear”?
 
-Please address specifically whether reasonable assessment required, and to what degree:
+Please address, insofar as clinically relevant:
 
 - distal lower-limb power;
-- sensory examination relevant to peripheral neuropathy;
-- ankle-specific reflex assessment;
+- sensory examination relevant to neuropathy;
+- ankle-specific reflexes;
 - fixed versus dynamic foot/toe posture;
-- passive correctability / range / contracture;
+- passive correctability/range/contracture;
 - patterned lower-limb dystonia phenomenology;
 - gait/loading mechanics;
-- relationship between pain, posture and movement;
-- any other bedside discriminator you regard as material.
+- relationship of pain to posture, movement and loading;
+- any other material discriminator.
 
-Please distinguish **essential**, **desirable but not mandatory**, and **not ordinarily required before discharge**.
+For each, distinguish essential, desirable but non-mandatory, and unnecessary.
 
-### Principal CLIN material
-
-- **CLIN-000020–000025**
-- **CLIN-000068–000073**
-- **CLIN-000851–000862**
-- **CLIN-000877–000884**
-- **CLIN-001085–001120**
-- **CLIN-001869**
-
-### Why it matters
-
-Defines historical neurological standard and the clinical work capable of resolving the competing mechanisms.
-
----
+**Key CLIN:** `000020–000025`; `000068–000073`; `000851–000884`; `001085–001120`.
 
 # Question 2 — Does the surviving July 2017 record demonstrate that the required discrimination occurred?
 
-Taking the July record fairly and as a whole, does the surviving documentation demonstrate assessment sufficient to support the later residual formulation that the foot/leg symptoms might be “completely separate,” perhaps neuropathic, and were “Not clear”?
-
-Please give full weight to:
-
-- direct gait observation;
-- video;
-- “NOT FOOT DROP”;
-- possible dystonic posture;
-- tone/reflex examination;
-- structural findings;
-- prolonged admission;
-- extensive investigation;
-- sophisticated very-young-onset / recessive reasoning.
+Review the July record as a whole, giving full weight to the detailed neurological examination, direct gait observation, video, “NOT FOOT DROP,” possible dystonic posture, tone/reflex findings, structural abnormalities, prolonged admission and sophisticated young-onset/PARK2 reasoning.
 
 Please identify:
 
-1. what is affirmatively documented;
-2. what may reasonably be inferred;
+1. what focused lower-limb examination is affirmatively documented;
+2. what additional work can reasonably be inferred;
 3. what cannot safely be inferred;
-4. whether the final lower-limb formulation was congruent with the examination demonstrated;
-5. whether your conclusion is **adequate, inadequate, or indeterminate**.
+4. whether the final lower-limb formulation is clinically congruent with the examination demonstrated;
+5. whether the record supports an overall conclusion of adequate, inadequate or indeterminate assessment.
 
-Please also address whether the exceptional comprehensiveness of the surviving specialist account changes the evidential significance of absent documentation of specific lower-limb discriminators, while keeping separate the proposition that absence of documentation is not proof of absence of examination.
+If indeterminate, identify the single most important missing fact/document.
 
-### Principal CLIN material
-
-- **CLIN-001084–001124**
-- **CLIN-001142–001149**
-- **CLIN-001429–001439**
-- **CLIN-001518–001525**
-- **CLIN-001869**
-- **CLIN-002214–002220**
-
-### Why it matters
-
-This is the principal July breach question and the main place where the strongest defence must be tested rather than assumed away.
-
----
+**Key CLIN:** `001084–001124`; `001142–001149`; `001429–001439`; `001518–001525`; `002214–002220`.
 
 # Question 3 — What did Podiatry resolve, and what remained neurological?
 
-Was referral to Podiatry a reasonable division of labour?
-
-If so, what neurological questions still required Neurology to answer, retain ownership of, or communicate as a defined question or return criterion?
-
-Please address:
+Was referral to Podiatry a reasonable division of labour for the structural component? If so, which questions nevertheless remained for Neurology to answer or retain ownership of, including:
 
 - true distal weakness versus pseudo-footdrop;
 - dystonic versus fixed/mechanical posturing;
-- neurological contribution to abnormal loading;
+- neurological contribution to loading;
 - objective support for neuropathy;
 - mixed structural/neurological mechanisms;
-- what feedback or return mechanism would ordinarily be expected if the relationship remained unresolved.
+- the need for a feedback or return mechanism if uncertainty persisted?
 
-### Principal CLIN material
-
-- **CLIN-000020–000025**
-- **CLIN-000238–000240**
-- **CLIN-001097–001120**
-- **CLIN-001142–001149**
-- **CLIN-002872–002876**
-- **CLIN-002907–002986**
-
-### Why it matters
-
-Tests whether Podiatry appropriately completed the structural pathway while leaving any neurological relationship question still requiring ownership.
-
----
+**Key CLIN:** July lower-limb findings plus `002907–002986`.
 
 # Question 4 — If the Protest occurred, what did reasonable closure require?
 
-Assume for this question only that before discharge the patient said, in substance:
+Assume only for this question that immediately before discharge the patient said, in substance, “you have not dealt with my feet.”
 
-> **“You have not dealt with my feet.”**
+If adequate discrimination had already occurred, what should reasonable closure have involved? If adequate discrimination had not occurred, what reassessment, senior review, movement-disorders input, clarification or follow-up would have been appropriate?
 
-Do not decide whether the event historically occurred. Address only its clinical significance if proved.
+Do not decide whether the Protest historically occurred.
 
-Please analyse separately:
+**Key CLIN:** contemporaneous July material plus `004612–004638`.
 
-### A. If adequate lower-limb discrimination had already occurred
+# Question 5 — What significance did the September 2017 PARK2 and early treatment evidence have?
 
-Would reasonable practice have required explanation, clarification of the residual uncertainty, explanation of the Podiatry/Neurology division of labour, a defined follow-up route, or any repeat assessment?
+By September 2017 an independent specialist thought the patient probably had PARK II and documented substantial improvement on procyclidine/rasagiline.
 
-### B. If adequate discrimination had not yet occurred
+Did that new contemporary information require renewed attention to the unresolved lower-limb phenotype, even if the July assessment had been reasonable?
 
-Would reasonable practice have required focused reassessment, senior review, subspecialty input, clarification or defined follow-up before closure?
+**Key CLIN:** `001518–001525`; `001742–001749`.
 
-### Principal CLIN material
+# Question 6 — Did the 2017–2018 anticholinergic treatment-state evidence require reopening?
 
-Contemporaneous context: **CLIN-000020–000025; CLIN-000068–000073; CLIN-000851–000862; CLIN-001085–001120.**
+Please address the significance of:
 
-Later patient account: **CLIN-004612–004638.**
+- October 2017 procyclidine withdrawal producing increased tension, restless feet and deterioration in walking together;
+- the later clinician-authored observation that the outside-left-foot phenomenon was the first thing changing rapidly during withdrawal, with greater shiftiness/unrelaxed state.
 
-### Why it matters
+Does this establish that the foot domain was clinically sensitive to neurological treatment state? If so, what reasonable reassessment or treatment-planning response was required, and when?
 
-Creates a distinct decision-after-notice route without rewriting the preceding admission.
+Do not treat treatment response as proof of one exclusive mechanism.
 
----
+**Key CLIN:** `001770–001784`; `001914–001918`.
 
-# Question 5 — What significance did the September 2017 PARK2 / Podiatry threshold have?
+# Question 7 — What was the significance of Podiatry ending in 2019?
 
-By September 2017, after the July admission and before the October withdrawal evidence:
+The complete Podiatry record ends in 2019, after repeated documentation of genuine focal mechanical pathology and after GP records again related feet, tone, gait and Parkinsonism.
 
-- Prof Daniel Healy wrote that he thought the patient **“probably has Park II”** and suggested testing PARK II first;
-- he recorded dramatic improvement in motor symptoms on procyclidine and rasagiline;
-- the first Podiatry attendance recorded that the gait had been very bad but was no longer so while simultaneously documenting a left fifth-MTPJ callus, bilateral toe-prop treatment and tight gastrocnemius/soleus.
+Once painful foot symptoms persisted or recurred after that point, what reasonable continuity arrangements should have existed for structural/mechanical reassessment?
 
-What clinical significance should be attached to that combination?
+In particular, should the 2022 morning “warm-up” phenomenon or the 2023 severe bilateral foot/lower-leg pain have triggered renewed Podiatry/biomechanical review as part of a mixed structural–neurological differential?
 
-Please address:
+If so, what would such review probably have assessed or changed?
 
-1. whether an independently favoured PARK2 hypothesis in this very-young-onset phenotype should have prompted renewed phenotype review;
-2. whether simultaneous neurological functional improvement and genuine mechanical pathology made a mixed/interacting mechanism more clinically salient;
-3. whether reasonable practice required reassessment, communication, testing or defined follow-up;
-4. whether the answer changes depending on whether July discrimination had already been adequate.
+**Key CLIN:** `002907–002986`; `003091`; `003101`; `002382–002386`; `002637–002641`.
 
-Do **not** use the 2026 result to determine this 2017 threshold.
+# Question 8 — By 2022–2025, was substantive neurological reconstruction required?
 
-### Principal CLIN material
+Please consider the cumulative significance of:
 
-- **CLIN-001742–001743**
-- **CLIN-001745**
-- **CLIN-001748–001749**
-- **CLIN-002872–002876**
+- 20–25 minute morning foot “warm-up”;
+- lower-limb cramping prompting ON/OFF dystonia reasoning;
+- leg pain and shuffling being treated as OFF-related;
+- pregabalin reducing pain while toe curling persisted;
+- feet improving when Sinemet took effect;
+- higher Sinemet being expected to provide some pain relief but limited by dyskinesia.
 
-### Why it matters
+At what point, if any, did reasonable movement-disorders practice require explicit reconstruction of the structural, dystonic, OFF-related, neuropathic and medication-related components rather than continued local management of separate branches?
 
-This is an independent contemporary threshold between July closure and the October dechallenge evidence.
+**Key CLIN:** `002382–002386`; `002425–002431`; `002574–002580`; `002700`; `002777–002790`.
 
----
+# Question 9 — Was neurological treatment adequately calibrated against the foot-pain burden?
 
-# Question 6 — Did the October 2017–April 2018 treatment-state evidence require reopening?
+The record contains a continuous pharmacological history in which the feet were sensitive to anticholinergic treatment state and later to dopaminergic dose/formulation.
 
-Irrespective of whether July was reasonable, what significance should be attached to the post-discharge observations in which feet, gait and tension changed together?
+Please address whether reasonable care required the known anticholinergic foot response to be carried forward when treatment strategy changed, and whether the later levodopa regimen was adequately calibrated against both motor control and severe foot pain.
 
-Please treat these as positive new clinical observations requiring interpretation. The question is whether they required formal reassessment, not whether they were clinically relevant at all.
+In particular, what significance should be attached to the later profound relief after Sinemet CR?
 
-Please address:
+Please distinguish:
 
-1. the October withdrawal report of rising tension, restless feet and deteriorating gait;
-2. the later clinician-authored observation that the outside-left-foot phenomenon was the first thing changing rapidly during withdrawal;
-3. whether either or both reasonably called for reconsideration of the earlier feet–neurology relationship;
-4. what assessment or management would reasonable practice have required if reopening was indicated.
+- proof of treatment-state dependence;
+- possible mechanisms of that dependence;
+- whether prior regimen/dose/formulation probably caused or materially aggravated pain;
+- whether different calibration would probably have reduced that pain earlier;
+- genuine treatment constraints, including dyskinesia.
 
-Please distinguish treatment-state association from proof of a single mechanism.
+**Key CLIN:** `001770–001784`; `001914–001918`; `002425–002431`; `002574–002580`; `002777–002790`; `003243`; `003247`; `003264–003269`.
 
-### Principal CLIN material
+# Question 10 — Did the later medication strategy cause or materially aggravate the severe foot-pain state?
 
-- **CLIN-001770–001775**
-- **CLIN-001782–001784**
-- **CLIN-001914–001918**
+Please address medical causation directly.
 
-### Why it matters
+Was the later severe foot-pain state, on the balance of medical probability:
 
-Independent reopening route even if the founding July assessment was adequate.
+- the natural course of structural foot disease;
+- part of PRKN/Parkinsonian/dystonic disease;
+- materially aggravated by medication state or regimen;
+- produced by altered loading/tone/posture under treatment;
+- a mixed phenomenon;
+- or not determinable?
 
----
+If medication materially aggravated the pain, identify:
 
-# Question 7 — At what later threshold, if any, did substantive reconstruction become reasonably required?
+1. the probable mechanism or mechanisms, if ascertainable;
+2. the earliest clinically material point;
+3. the management change that probably should have occurred;
+4. the degree of pain/function burden probably avoidable.
 
-From 2019 onward, and especially 2022–2025, the record contains repeated further crossings of the structural/neurological boundary, including affirmative clinician-generated interpretations.
+# Question 11 — Did severe pain materially contribute to psychological deterioration?
 
-Please assess the cumulative significance of:
+The record contains severe foot/lower-leg pain together with “death wish” language in 2023, “no quality of life,” later life-constriction language, and by March 2025 a statement that the patient was not willing to live this way with foot pain dominant. A subsequent change to Sinemet CR was associated with profound/categorical pain relief and improved walking.
 
-- 2019 GP framing of feet in relation to increased tone, abnormal gait and Parkinson's;
-- “clawing feet” and pain;
-- morning feet requiring time to “warm up”;
-- lower-limb cramping raising ON/OFF dystonia, with OFF dystonia considered more likely;
-- later assessment that leg pain and shuffling were OFF-related;
-- persistent toe curling despite improvement of pain with pregabalin;
-- acknowledged improvement in feet/pain once Sinemet takes effect;
-- further expected dopaminergic pain benefit constrained by dyskinesia.
+Please address whether, on the balance of medical probability, the severe pain state materially contributed to the later psychological deterioration.
 
-Please identify the earliest later point, if any, at which substantive movement-disorders reassessment or reformulation was reasonably indicated.
+If you conclude that medication materially aggravated the pain, please address whether the psychological deterioration forms part of the resulting iatrogenic harm chain.
 
-### Principal CLIN material
+**Key CLIN:** `002637–002641`; `002681–002684`; `002700`; `002777–002790`; `003243–003269` plus the relevant 2024 life-constriction material.
 
-- **CLIN-003091**
-- **CLIN-003101**
-- **CLIN-002382–002386**
-- **CLIN-002425–002431**
-- **CLIN-002574–002580**
-- **CLIN-002700**
-- **CLIN-002777–002790**
+# Question 12 — Was the 2023–2025 safety response adequate?
 
-### Why it matters
+On the complete Neurology record, no documented safeguarding or suicide-risk assessment has been identified in response to the sequence of severe pain and death-associated psychological language.
 
-Tests whether later current-state management was sufficient or whether the original lower-limb relationship required global reconstruction.
+What would reasonable neurological practice have required when confronted with that state?
 
----
+Please address, where relevant:
 
-# Question 8 — Was the 2023 state adequately recognised and managed as a safety object?
+- suicide/self-harm risk assessment;
+- safeguarding;
+- safety planning;
+- urgency of review;
+- communication with GP/family or other services;
+- mental-health referral or crisis input;
+- treatment review directed at the pain driving the distress;
+- follow-up and documentation.
 
-Assess 2023 independently of the founding allegation.
+This question stands independently of whether the medication caused the pain.
 
-Given severe bilateral foot/lower-leg pain, urgent GP concern, “causing death wish” language, “debilitating pain,” “no quality of life,” mobility/shuffling concerns and medication escalation, what did reasonable neurological practice require in terms of urgency, mobility/falls review, medication review, psychological/safeguarding assessment, multidisciplinary input and follow-up?
+# Question 13 — Counterfactual and avoidable harm
 
-Do not infer continuous suicidality beyond the words actually recorded.
+For every departure from reasonable practice you identify, please state separately:
 
-### Principal CLIN material
+1. the date or threshold;
+2. the information available then;
+3. what reasonable practice required;
+4. what probably would have been found or appreciated;
+5. what management probably would have changed;
+6. what pain, disability or psychological harm would probably have been avoided or reduced;
+7. what harm would probably have occurred anyway because of PRKN/Parkinsonian disease and genuine structural foot pathology;
+8. confidence and material uncertainty.
 
-- **CLIN-002637–002641**
-- **CLIN-002681–002684**
-- **CLIN-002425–002431**
-- **CLIN-002574–002580**
-- **CLIN-002472–002482**
+Do not leap from a missing examination to years of avoidable pain. Build the causal chain threshold by threshold.
 
-### Why it matters
+## PRKN safeguard
 
-Separate later duty/safety route which can stand even if 2017 care was reasonable.
+Later PRKN evidence may assist retrospective phenotype coherence and causation where appropriate. It must not be used to say that July 2017 clinicians should have known the molecular diagnosis, that every painful foot symptom was dystonia, or that structural pathology was caused by PRKN.
 
----
+Relevant: `003224–003228`; `006192–006202`; `006228`.
 
-# Question 9 — For every breach found, what is the medical counterfactual and what harm was probably avoidable?
+## Requested conclusion table
 
-For **each** departure from reasonable practice identified above, please analyse causation separately.
+Please conclude with a table containing these rows:
 
-For each route, state:
+- July 2017 initial assessment;
+- decision after Protest, if proved;
+- September 2017 PARK2 threshold;
+- 2017–2018 treatment-state reopening;
+- Podiatry/structural continuity after 2019;
+- 2022–2025 reconstruction;
+- medication calibration / iatrogenic pain;
+- psychological causation;
+- 2023–2025 safety/safeguarding.
 
-1. **date / threshold**;
-2. **information actually available at the time**;
-3. **required action**;
-4. **probable finding** had proper assessment occurred;
-5. **probable management change**;
-6. **avoidably increased pain, functional restriction, delay or other burden**, if any;
-7. **baseline harm** that would probably have occurred anyway because of PRKN/Parkinsonian disease and genuine structural pathology;
-8. **uncertainty**, where probability cannot be supported.
+Columns:
 
-Please do not treat later evidence as proof of earlier breach. It may inform only the counterfactual, later reopening, biological plausibility, treatment response or harm where medically appropriate.
+**Reasonable practice required | Adequate / inadequate / indeterminate | Earliest breach date | What should have happened | What would probably have changed | Avoidable harm | Confidence**
 
-### Principal causation material
+Where there is no breach, say so plainly. Where evidence is insufficient, identify the precise missing evidence.
 
-Early state: **CLIN-001770–001784; CLIN-001914–001918.**  
-Mechanical pathology: **CLIN-002872–002986.**  
-Later OFF/dystonia: **CLIN-002427; CLIN-002574–002580.**  
-Differential treatment response: **CLIN-002700; CLIN-002777–002790.**  
-Later PRKN context only: **CLIN-003227; CLIN-006192–006228.**
+## Questions deliberately excluded
 
-### Why it matters
+The expert is not asked to decide:
 
-Causation remains more cautious than breach. The record does not presently establish that all later pain or disability was avoidable.
-
----
-
-# Special instruction on PRKN genetics
-
-The later PRKN evidence may assist with:
-
-- retrospective disease-level phenotype coherence;
-- natural-history concordance;
-- biological plausibility;
-- later counterfactual reasoning where appropriate.
-
-It must **not** be used to say that:
-
-- July 2017 clinicians should have known the molecular diagnosis;
-- all painful foot features were dystonia;
-- structural pathology was caused by PRKN;
-- or later molecular confirmation proves historical breach.
-
-Relevant references:
-
-- **CLIN-001518–001525** — PRKN/PARK2 considered contemporaneously.
-- **CLIN-001742–001749** — “probably has Park II” independent 2017 opinion.
-- **CLIN-003227** — later clinical attribution of Parkinsonism and dystonia to Parkin mutations.
-- **CLIN-006192–006202** — pathogenic PRKN variants.
-- **CLIN-006228** — PARK2 description including lower-limb dystonia.
-
----
-
-# Requested conclusion format
-
-Please conclude with a structured answer for each potential route:
-
-| Route | Reasonable practice required | Adequate / inadequate / indeterminate | Earliest breach date if any | What should have happened | What would probably have changed | Avoidable harm, if any | Confidence |
-|---|---|---|---|---|---|---|---|
-| July 2017 initial assessment | | | | | | | |
-| Decision after Protest, if proved | | | | | | | |
-| Podiatry / inter-specialty ownership | | | | | | | |
-| September 2017 PARK2 / Podiatry threshold | | | | | | | |
-| October 2017–April 2018 reopening | | | | | | | |
-| Later 2019–2025 reconstruction | | | | | | | |
-| 2023 safety/reassessment | | | | | | | |
-
-Where you find no breach, say so plainly. Where the evidence is insufficient, identify the precise missing evidence that prevents a conclusion.
-
----
-
-# Questions deliberately excluded
-
-The expert is **not** being asked:
-
-- whether the patient “really had dystonia instead of Parkinson's”;
-- whether all foot pain had a single cause;
-- whether “Not clear” is negligent as a phrase;
-- whether structural foot pathology was genuine;
+- whether all foot pain was dystonia;
+- whether structural pathology was genuine;
 - whether Podiatry should never have been involved;
-- whether later genetics proves what should have happened in 2017;
-- whether the Protest historically occurred;
-- whether any clinician acted dishonestly or in bad faith;
-- or to endorse the repository theory.
+- whether “Not clear” was negligent as a phrase;
+- whether the 2017 Parkinsonism diagnosis was necessarily wrong;
+- whether later genetics proves historical breach;
+- whether the Protest happened;
+- whether any clinician acted dishonestly or in bad faith.
 
-The task is narrower:
+## Final expert programme
 
-> **Determine what reasonable neurological practice required at each identified threshold; what the surviving record demonstrates occurred; whether any clinically material departure resulted; and, for each departure found, what would probably have happened differently and what later harm would probably have been avoided or reduced.**
-
----
-
-# Final expert programme in one sentence
-
-> **Was the positively recognised feet–gait–tone relationship adequately discriminated when it first became a neurological problem; if not, what should have happened, and if July was initially reasonable, did the September PARK2 threshold and later treatment-state, mechanical and movement-state evidence create fresh duties to reconstruct it — with what probable consequence for subsequent pain and function?**
+> **Determine whether the feet–gait–tone relationship was adequately discriminated when first identified; whether later anticholinergic, mechanical, OFF/dystonia and dopaminergic evidence required the relationship to be reconstructed; whether the neurological treatment strategy caused or materially aggravated the later severe foot-pain state; whether that pain materially contributed to psychological injury; and whether the resulting safety state was adequately recognised and managed.**
