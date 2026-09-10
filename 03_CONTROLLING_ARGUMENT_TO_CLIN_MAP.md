@@ -2,875 +2,490 @@
 
 **Repository:** `TitanicParker/legal`  
 **Canonical evidential source:** `01_COMPLETE_RECORD_LEGAL_CANONICAL.md`  
-**Companion analytical source:** `02_CASE_THEORY_AND_ARGUMENT_VAULT.md`  
-**Status:** Proposed final-position evidence map  
-**Function:** Tie every material argument we are presently willing to advance to the CLIN references that support it, while identifying what remains inference, disputed patient evidence, expert-dependent, or incapable of proof by a single record entry.
+**Analytical companion:** `02_CASE_THEORY_AND_ARGUMENT_VAULT.md`  
+**Status:** Final-position evidence map, subject only to factual correction, new primary evidence, materially overlooked canonical evidence, and independent expert opinion.
+
+## Governing rule
+
+This document ties each argument we are willing to make to the CLIN references that support it. It distinguishes affirmative record evidence from inference and expert-dependent questions. The case is not an absence-of-documentation theory. The record contains positive neurological evidence; the unresolved issue is whether that evidence was adequately characterised and integrated.
 
 ---
 
-# 1. Why this document exists
+## 1. Integrated feet–gait–tone referral
 
-The case now has three distinct layers:
+### Proposition
 
-1. **The finite controlling formulation** — the proposition stated in the repository README.
-2. **The argument vault** — the fuller analytical architecture, including alternative routes and the strongest defence.
-3. **This CLIN map** — the evidence discipline that asks, for every argument we are willing to make: **where is it in the record?**
+> **Neurology received an integrated feet–gait–tone phenotype, not an already-separated case of Parkinsonism plus unrelated podiatric disease.**
 
-This document is intended to prevent argument drift.
+### CLIN support
 
-A proposition should not move into the final case merely because it is attractive. It should be capable of being classified as one of the following:
-
-- directly supported by identified CLIN material;
-- a reasonable inference from identified CLIN material;
-- conditional on disputed patient evidence;
-- dependent on independent medical/legal opinion;
-- or not presently supportable and therefore not part of the case.
-
-The object is not to make every proposition look proved. The object is to know exactly **what proves what**.
-
----
-
-# 2. Evidence-status key
-
-The references below are not all the same kind of evidence.
-
-**CC — Contemporaneous clinician record**  
-A clinician or institutional clinical record created at or near the relevant time.
-
-**CP — Contemporaneous patient record**  
-A contemporaneous patient communication preserved in the corpus.
-
-**LC — Later clinician record**  
-A later clinical record relevant to reassessment, treatment response, harm, natural history, or causation, but not admissible to alter the earlier information state.
-
-**RP — Retrospective patient evidence**  
-A later patient account of an earlier event. It proves that the account was made; the historical event itself remains factually disputed unless corroborated or accepted.
-
-**POD — Podiatry record**  
-Direct evidence of structural/local mechanical findings and treatment.
-
-**GEN — Genetic evidence**  
-Later molecular/clinical-genetic evidence. It is confined to retrospective biological concordance and later diagnosis; it does not travel backward to establish the 2017 standard of care.
-
-**NI — Negative / record-wide inference**  
-A proposition about what the surviving record does **not** clearly document. No single CLIN line can prove a non-event. Such propositions require review of the relevant corpus as a whole.
-
-**EXP — Expert-dependent**  
-The source establishes the factual substrate, but the clinical standard, adequacy, breach, counterfactual, or causal significance requires independent expert determination.
-
----
-
-# 3. The controlling formulation mapped line by line
-
-## Proposition 1 — The presentation entered Neurology as an integrated feet–gait–tone problem
-
-### Argument we are willing to make
-
-> **The patient did not enter Neurology as “Parkinsonism plus an unrelated foot problem.” The contemporaneous primary-care sequence presented painful abnormal feet, abnormal gait, movement-initiation difficulty, increased tone, toe clawing and functional deterioration as parts of the clinical problem requiring neurological assessment.**
-
-### Core CLIN references
-
-- **CLIN-000020–000025** — April 2017 GP: abnormal gait and bilateral foot pain; marked mallet toes, onychogryphosis and callouses/pressure areas; Podiatry referral planned. **[CC]**
-- **CLIN-000068–000073** — June 2017 GP: observed difficulty with fluidity/initiation of movement and expressly considered Neurology opinion on the patient's **“gait, feet and ‘muscle tension’ issues.”** **[CC]**
-- **CLIN-000102–000105** — Occupational Health doctor contacts GP regarding gait; GP proceeds to Neurology referral because concerns are echoed. **[CC]**
-- **CLIN-000192–000198** — gait problems affecting work; alcohol being used to “relax muscles”; marked increased tone in both legs; Neurology referral already made. **[CC]**
-- **CLIN-000851–000862** — urgent referral reconstructs the sequence from bilateral foot issues + unusual festinant/stiff gait to increasingly evident initiation difficulty, marked stiffness/tone, brisk reflexes and toe clawing/inability to relax. **[CC]**
-- **CLIN-000877–000884** — GP identifies definite increased tone + abnormal gait, employment/daily-activity effect, possible Parkinsonian or other underlying diagnosis, deterioration and urgency. **[CC]**
-
-### What this establishes
-
-It establishes the **pre-specialist clinical object** and prevents the later separation from being projected backward into the referral state.
-
-### What it does not establish
-
-It does not establish that every foot symptom was neurological or that the later separation was clinically wrong. **[EXP]**
-
----
-
-## Proposition 2 — Neurology itself generated a lower-limb neurological relationship question
-
-### Argument we are willing to make
-
-> **During admission, Neurology found severe Parkinsonian motor dysfunction while also identifying a footdrop-like lower-limb appearance suggestive of dystonic posture and genuine structural foot abnormalities. The relationship therefore became a neurological question on the face of Neurology's own examination.**
-
-### Core CLIN references
-
-- **CLIN-001085–001090** — markedly symmetrically increased tone; moderately brisk reflexes, difficult to assess because of tone. **[CC]**
-- **CLIN-001097–001102** — gait “strikingly abnormal”; footdrop appearance “somewhat suggestive of a dystonic posture — NOT FOOT DROP”; absent arm swing and Parkinsonian upper-limb posturing. **[CC]**
-- **CLIN-001106–001111** — examination videoed with permission; coordination slow; bilateral lead-pipe rigidity; gross/axial rigidity evident while walking. **[CC]**
-- **CLIN-001114–001120** — left lower limb “kicks out like a foot drop”; gross bradykinesia; pes planus; hammertoes. **[CC]**
-
-### What this establishes
-
-It establishes coexisting:
-- severe motor syndrome;
-- dystonic-looking lower-limb behaviour;
-- structural foot findings.
-
-### What it does not establish
-
-It does not by itself prove dystonia caused the foot pain or deformity. It establishes that competing mechanisms were clinically live. **[EXP]**
-
----
-
-## Proposition 3 — The 2017 neurological work was substantial and must be acknowledged
-
-### Argument we are willing to make
-
-> **This is not a case in which Neurology did nothing. The admission involved detailed neurological examination, video, investigation, extended inpatient observation and sophisticated young-onset Parkinsonism reasoning.**
-
-### Core CLIN references
-
-- **CLIN-001084–001124** — detailed neurological examination including tone, tremor, reflexes, gait, blink rate, glabellar tap, video, rigidity, coordination, saccades, olfaction, structural feet and handwriting observations. **[CC]**
-- **CLIN-001429–001439** — clinician states the longer admission allowed the team to “get a lot done,” “explore a lot of questions,” and obtain a “firmer footing” for the plan. **[CC]**
-- **CLIN-001518–001525** — explicit young-onset/recessive genetic reasoning including PRKN/PARK2 and other monogenic possibilities. **[CC]**
-- **CLIN-002214–002220** — departmental Parkinson's genetics material referenced; clinician states he is not a movement-disorders neurologist; treatment reasoning set out. **[CC, later reproduction of 2017 material within canonical corpus]**
-
-### Why this belongs in our own case
-
-It is part of the strongest defence and therefore part of a fair formulation. Our case concerns the **specific feet–gait–tone discrimination**, not a sweeping allegation that the admission was generally inadequate.
-
----
-
-## Proposition 4 — The final synthesis allocated the feet into a potentially separate/neuropathic channel
-
-### Argument we are willing to make
-
-> **The portable specialist synthesis treated full separation and peripheral neuropathy as live explanations and left the relationship “Not clear.”**
-
-### Core CLIN references
-
-- **CLIN-001142–001145** — leg symptoms including corns, callouses and burning may have been “completely separate” or perhaps secondary peripheral neuropathy; “Not clear.” **[CC]**
-- **CLIN-001146–001149** — clinician records that the patient had “markedly divorced” leg tension from corns/callouses and foot pains; structural symptoms reportedly less problematic with reduced time on feet. **[CC]**
-
-### What this establishes
-
-It establishes the **actual downstream formulation**. It does not establish that full separation or neuropathy was true.
-
-### Important qualification
-
-“May,” “perhaps” and “Not clear” are cautious language. The argument is not that uncertainty itself was improper.
-
----
-
-## Proposition 5 — The central 2017 question is whether the discriminative bridge is demonstrated
-
-### Argument we are willing to make
-
-> **The surviving record demonstrates substantial neurological work, but it does not clearly demonstrate the focused phenotype-directed examination that would show how weakness, dystonic posturing, structural restriction, neuropathy, pain/loading and mixed mechanisms were discriminated before the final allocation was made.**
-
-### CLIN reference set that must be read together
-
-- **CLIN-001084–001124** — the detailed surviving neurological examination. **[CC]**
-- **CLIN-001142–001149** — the final feet/leg allocation. **[CC]**
-- **CLIN-001429–001439** — description of extensive inpatient opportunity/work. **[CC]**
-- **CLIN-001518–001525** — high-resolution etiological/genetic reasoning. **[CC]**
+- **CLIN-000020–000025** — abnormal gait, bilateral foot pain, mallet toes, onychogryphosis, callouses/pressure areas.
+- **CLIN-000068–000073** — movement-initiation difficulty; GP seeks Neurology opinion on “gait, feet and ‘muscle tension’ issues.”
+- **CLIN-000102–000105** — Occupational Health concern about gait echoed by GP; Neurology referral advanced.
+- **CLIN-000192–000198** — gait problems affecting work; marked increased tone in both legs.
+- **CLIN-000851–000862** — urgent referral: bilateral foot issues, festinant/stiff gait, initiation difficulty, marked stiffness/tone, brisk reflexes, inability to relax, toe clawing.
+- **CLIN-000877–000884** — abnormal gait/increased tone affecting daily activities and employment; deterioration and urgency.
 
 ### Evidential status
 
-**[NI + EXP]**
-
-No CLIN line can prove that an undocumented manoeuvre did not occur.
-
-The proposition is deliberately limited to:
-
-> **the surviving record does not clearly demonstrate it.**
-
-The relevant missing/unclear categories include:
-- explicit distal lower-limb power;
-- sensory examination directed to neuropathy;
-- ankle-specific reflex findings;
-- fixed versus dynamic foot/toe posture;
-- passive correctability;
-- patterned lower-limb dystonia phenomenology;
-- explicit relation of pain to posture/loading/movement.
-
-### Freeze rule
-
-Do **not** convert this into “the examination was not done” unless additional evidence establishes that fact.
+Direct contemporaneous fact. It does **not** prove that every foot symptom was neurological.
 
 ---
 
-# 4. Duty and breach routes
+## 2. Neurology itself positively raised a dystonic lower-limb relationship
 
-## Proposition 6 — The duty question is discrimination, not diagnostic certainty
+### Proposition
 
-### Argument we are willing to make
+> **The neurological relevance of the lower limb was not invented retrospectively: Neurology itself identified a striking pseudo-footdrop/dystonic-looking gait phenomenon and later carried that phenomenology into the DAT-scan indication.**
 
-> **Once competing structural, neurological and neuropathic explanations were live, the relevant historical-practice question is what degree of focused discrimination reasonable neurological care required in 2017 before residual uncertainty could properly be exported.**
+### CLIN support
 
-### Factual substrate
-
-- **CLIN-000068–000073**
-- **CLIN-000851–000862**
-- **CLIN-001085–001120**
-- **CLIN-001142–001149**
-
-### Status
-
-**[EXP]**
-
-The CLIN material establishes the clinical substrate. It does not itself establish the legal/medical standard.
-
----
-
-## Proposition 7 — “Not clear” may be a valid endpoint; the issue is whether it was earned
-
-### Argument we are willing to make
-
-> **We are not alleging that “Not clear” was inherently improper. The question is whether adequate clinical work supported it in this case.**
-
-### Supporting CLIN references
-
-- **CLIN-001142–001149** — expressly tentative residual formulation. **[CC]**
-- **CLIN-001084–001124** — substantial positive examination evidence that must be credited. **[CC]**
-- **CLIN-001429–001439** — extended opportunity and exploration. **[CC]**
-
-### Status
-
-The permissibility of uncertainty and adequacy of the process are **[EXP]**.
-
----
-
-## Proposition 8 — Podiatry was appropriate but does not by itself answer the neurological relationship
-
-### Argument we are willing to make
-
-> **Podiatry was a legitimate route for genuine structural foot disease. The separate question is whether neurological ownership of weakness-versus-posturing, central motor contribution and neuropathy discrimination remained necessary.**
-
-### Supporting CLIN references
-
-- **CLIN-000020–000025** — structural abnormalities and initial Podiatry plan. **[CC]**
-- **CLIN-000238–000240** — 6 July 2017 GP contact with Podiatry; case to be prioritised “as Parkinson's.” **[CC]**
-- **CLIN-001097–001120** — Neurology's dystonic-looking pseudo-footdrop + structural feet. **[CC]**
-- **CLIN-002907–002909; CLIN-002922–002924; CLIN-002953–002955; CLIN-002967–002971; CLIN-002984–002986** — later Podiatry repeatedly identifies/treats concrete local mechanical pathology, including left fifth-MTPJ lesions, clawed toes, offloading and insoles. **[POD]**
-
-### Status
-
-The division-of-labour question is **[EXP]**.
-
-### What we are not saying
-
-We are not alleging that referral to Podiatry was itself a breach.
-
----
-
-# 5. The Protest route
-
-## Proposition 9 — If proved, the Protest changes the decision state
-
-### Argument we are willing to make
-
-> **If the patient said before discharge, in substance, that his feet had not been dealt with, that statement is relevant as notice of perceived incompleteness, not as a specialist theory of causation and not as a response to a later note he had not seen.**
-
-### CLIN support for the existence of the later patient account
-
-- **CLIN-004612–004624** — 7 July 2025 Article 15 request retrospectively describes the bedside teaching interaction, states that disabling bilateral foot pain had not been addressed, says the supervising neurologist was sought, records the “full NCT … bald tires” analogy, and paraphrases the consultant response. **[RP]**
-- **CLIN-004625–004638** — the same request explains the patient's retrospective account of the event and seeks records/witness material. **[RP]**
+- **CLIN-001085–001090** — markedly increased tone; moderately brisk reflexes.
+- **CLIN-001097–001102** — gait “strikingly abnormal”; footdrop appearance “somewhat suggestive of a dystonic posture — NOT FOOT DROP.”
+- **CLIN-001106–001111** — videoed examination; bilateral lead-pipe rigidity; gross/axial rigidity while walking.
+- **CLIN-001114–001120** — left lower limb “kicks out like a foot drop”; gross bradykinesia; pes planus; hammertoes.
+- **CLIN-001869** — formal DAT-scan indication: walk “almost dystonically unusual” in a very young man with atypical bilateral Parkinsonism.
 
 ### Evidential status
 
-**[RP + conditional]**
-
-These lines prove the patient made this later account. They do not, by themselves, prove the historical event occurred exactly as stated.
-
-### Argument if the event is proved
-
-The clinical question becomes:
-
-> **Had the necessary discriminative work already occurred, and if not, what did reasonable closure require after express notice?**
-
-That question is **[EXP]**.
+Affirmative contemporaneous neurological evidence. Exact mechanism remains expert-dependent.
 
 ---
 
-# 6. Post-discharge reopening evidence
+## 3. The 2017 neurological work was substantial
 
-## Proposition 10 — Neurological treatment-state evidence crossed the original foot boundary soon after discharge
+### Proposition
 
-### Argument we are willing to make
+> **This is not a case in which Neurology simply ignored the feet or performed a generally superficial work-up.**
 
-> **Soon after discharge, the record contains treatment/withdrawal observations in which gait, tension and the feet changed together. This does not prove mechanism, but it tests the stability of a purely separate/static foot model and is relevant to whether the relationship later required reconsideration.**
+### CLIN support
 
-### Core CLIN references
+- **CLIN-001084–001124** — detailed neurological examination.
+- **CLIN-001429–001439** — prolonged admission allowed the team to “get a lot done,” “explore a lot of questions,” and obtain a “firmer footing.”
+- **CLIN-001518–001525** — sophisticated very-young-onset/recessive reasoning including PRKN/PARK2.
+- **CLIN-002214–002220** — contemporaneous genetics context and acknowledged subspecialty limits.
 
-- **CLIN-001770–001775** — contemporaneous October 2017 patient email during procyclidine/Kemadrin course; major functional improvement including “My walk is back together.” **[CP]**
-- **CLIN-001782–001784** — four days into treatment break: “tension building up,” “my feet are restless” and “my walk is falling apart”; source note records contemporaneous effort to understand the foot symptoms within the wider illness. **[CP]**
-- **CLIN-001914–001918** — April 2018 clinician records that during procyclidine withdrawal the first thing changing rapidly was the “return … of the outside left corn,” with worsening symptoms and more “shifty” / “unrelaxed” state. **[LC]**
+### Evidential significance
 
-### What this establishes
-
-Dynamic temporal association between neurological treatment state and lower-limb/foot phenomena.
-
-### What it does not establish
-
-It does not establish that the corn itself was neurologically caused or that every painful foot symptom was dystonia.
+This is defence evidence that must remain in the case. It also creates an internal comparator: in an unusually detailed record, omitted lower-limb discriminators are more evidentially notable than equivalent silence in a terse routine note.
 
 ---
 
-## Proposition 11 — Later evidence can create a reopening duty even if July 2017 was reasonable
+## 4. Final 2017 synthesis made a substantive working allocation
 
-### Argument we are willing to make
+### Proposition
 
-> **The case has an independent later route: even if the founding assessment was reasonable, accumulating treatment-state and movement-state evidence may have required the original feet–gait–tone relationship to be reconsidered.**
+> **“Completely separate” was tentative, but it still placed one active hypothesis on the far side of the Parkinsonian phenotype; peripheral neuropathy was another active explanation, and the overall relationship remained “Not clear.”**
+
+### CLIN support
+
+- **CLIN-001142–001145** — corns/callouses/burning may have been “completely separate” or perhaps secondary peripheral neuropathy; “Not clear.”
+- **CLIN-001146–001149** — clinician records the patient as having “markedly divorced” leg tension from corns/callouses and foot pains.
+
+### Qualification
+
+The patient genuinely distinguished foot pain from leg tension. That does not itself establish causal independence. “Markedly divorced” is the clinician's stronger formulation of that distinction.
+
+---
+
+## 5. Central July 2017 adequacy question
+
+### Proposition
+
+> **The surviving record does not clearly demonstrate the complete phenotype-directed bridge by which weakness, dystonic posturing, structure, neuropathy, loading and mixed mechanisms were discriminated before the final allocation was made.**
+
+### CLIN set to read together
+
+- **CLIN-001084–001124** — positive examination evidence.
+- **CLIN-001142–001149** — final allocation.
+- **CLIN-001429–001439** — prolonged opportunity and extensive work.
+- **CLIN-001518–001525** — high-resolution etiological/genetic reasoning.
+
+### Evidential status
+
+Record-wide inference + expert question. No CLIN line proves that an undocumented manoeuvre did not occur. The permitted proposition is that the surviving record does not clearly demonstrate the complete bridge and, given the comprehensiveness of the surrounding account, that omission requires explanation rather than automatic presumption.
+
+Potentially relevant discriminators include distal power, directed sensory examination, ankle-specific reflexes, fixed/dynamic posture, passive correctability, patterned dystonia and structure–loading–pain relationship.
+
+---
+
+## 6. Duty is discrimination, not diagnostic certainty
+
+### Proposition
+
+> **The duty question is what reasonable 2017 neurological practice required once structural, neurological and neuropathic mechanisms were simultaneously live—not whether Neurology was obliged to diagnose PRKN or dystonia with certainty.**
 
 ### Factual substrate
 
-- **CLIN-001782–001784** — feet/gait/tension change during treatment interruption. **[CP]**
-- **CLIN-001914–001918** — clinician-authored withdrawal observation. **[LC]**
-- **CLIN-002382–002386** — 2022 feet require 20–25 minutes to “warm up”; medication is adjusted around functional demand. **[LC]**
-- **CLIN-002425–002431** — 2023 bilateral foot pain/difficulty walking; left-lower-limb cramping raises Parkinsonian ON/OFF dystonia, “clearly more likely an OFF dystonia.” **[LC]**
-- **CLIN-002574–002580** — later 2023 clinician records severe foot pain + shuffling/mobility fluctuation and concludes “leg pain and shuffling is off related,” followed by Stalevo trial. **[LC]**
-- **CLIN-002700** — 2024 foot pain responds to pregabalin while toe curling persists; standing/darts relationship documented. **[LC]**
-- **CLIN-002778–002790** — 2025 severe morning foot burden; relief once Parkinson's medications hit; Sinemet benefit acknowledged but dose increase constrained by dyskinesia. **[LC]**
+**CLIN-000068–000073; CLIN-000851–000862; CLIN-001085–001120; CLIN-001142–001149.**
 
 ### Status
 
-Whether and when this evidence imposed a duty to reconstruct/reassess is **[EXP]**.
+Independent movement-disorders opinion required.
 
 ---
 
-# 7. Structural-mechanical truth
+## 7. Podiatry was appropriate but did not necessarily exhaust neurological ownership
 
-## Proposition 12 — There is a genuine, persistent structural/mechanical foot component
+### Proposition
 
-### Argument we are willing to make
+> **Podiatry appropriately addressed genuine structural/mechanical pathology; the separate question is who retained responsibility for true weakness versus dystonic posturing, central motor contribution, neuropathy and mixed mechanisms.**
 
-> **The case does not depend on denying structural disease. Podiatry repeatedly identified concrete, recurrent local pathology and treated it mechanically.**
+### CLIN support
 
-### Core CLIN references
+- **CLIN-000020–000025** — structural abnormalities and initial Podiatry plan.
+- **CLIN-000238–000240** — July 2017 Podiatry prioritisation “as Parkinson's.”
+- **CLIN-001097–001120** — pseudo-footdrop/dystonic phenomenology plus structural findings.
+- **CLIN-002872–002876** — first Podiatry visit: gait had been very bad but was no longer so; left fifth-MTPJ callus; bilateral toe props; tight gastroc/soleus.
+- **CLIN-002907–002909; CLIN-002922–002924; CLIN-002953–002955; CLIN-002967–002971; CLIN-002984–002986** — recurrent focal mechanical pathology and treatment.
 
-- **CLIN-000024–000025** — mallet toes, onychogryphosis, callouses/pressure areas. **[CC]**
-- **CLIN-001119–001120** — pes planus and hammertoes. **[CC]**
-- **CLIN-002907–002909** — left fifth-MTPJ HD; insoles and toe props. **[POD]**
-- **CLIN-002922–002924** — callus left fifth MTPJ; debridement/donut pad. **[POD]**
-- **CLIN-002953–002955** — callus left fifth MTPJ and toes clawed 1–3 bilaterally. **[POD]**
-- **CLIN-002967–002971** — pain under left lateral foot; left fifth-MTPJ callus; pronating foot type; offloading/insoles. **[POD]**
-- **CLIN-002984–002986** — recurrent callus/HD at left fifth MTPJ with debridement/enucleation. **[POD]**
+### Status
+
+Division-of-labour and handoff adequacy require expert opinion.
+
+---
+
+## 8. September 2017 is an independent contemporary threshold
+
+### Proposition
+
+> **By September 2017 PARK2 was not merely one theoretical item in a differential: Prof Daniel Healy thought the patient “probably has Park II” and recommended testing it first, while neurological functional improvement and genuine mechanical pathology were being observed in parallel.**
+
+### CLIN support
+
+- **CLIN-001742–001743** — Healy: “probably has Park II”; test PARK II first.
+- **CLIN-001745** — dramatic motor improvement on procyclidine and rasagiline.
+- **CLIN-001748–001749** — PARK II treatment sensitivity/dyskinesia and future testing/follow-up context.
+- **CLIN-002872–002876** — simultaneous Podiatry findings against improved gait state.
+
+### What it does not prove
+
+It does not prove July breach, that PARK2 caused the mechanical lesion, or that 2026 genetics can be imported backward.
+
+### Status
+
+Whether this threshold required formal phenotype reassessment is expert-dependent.
+
+---
+
+## 9. Protest route — conditional only
+
+### Proposition
+
+> **If the patient proves that he said before discharge, in substance, “you have not dealt with my feet,” the statement is relevant as notice of perceived incompleteness, not as a specialist theory of mechanism.**
+
+### CLIN support for the later account
+
+- **CLIN-004612–004638** — retrospective patient account including the “full NCT … bald tires” analogy and alleged response.
+
+### Status
+
+The historical event remains disputed. If proved, its clinical significance and reasonable closure response require expert opinion.
+
+---
+
+## 10. October 2017–April 2018 treatment-state evidence is a positive reopening signal
+
+### Proposition
+
+> **The later record contains new neurological-treatment-state observations involving feet, gait and tension; those observations required clinical interpretation against the earlier separation hypothesis.**
+
+### CLIN support
+
+- **CLIN-001770–001775** — major functional improvement during treatment.
+- **CLIN-001782–001784** — withdrawal: tension building, feet restless, walk falling apart.
+- **CLIN-001914–001918** — treating neurologist later records rapid return of the outside-left-foot phenomenon during withdrawal and greater “shifty”/“unrelaxed” state.
+
+### Qualification
+
+This does not prove that a corn was caused by dystonia or that every foot symptom had one mechanism.
+
+### Status
+
+Whether reasonable practice required formal reopening is expert-dependent; clinical relevance of the signal is affirmative.
+
+---
+
+## 11. Genuine structural/mechanical disease remains central
+
+### Proposition
+
+> **The record repeatedly proves a real local mechanical component. A mixed-mechanism case is therefore stronger than an “all neurological” theory.**
+
+### CLIN support
+
+- **CLIN-000024–000025** — mallet toes, callouses/pressure areas.
+- **CLIN-001119–001120** — pes planus, hammertoes.
+- **CLIN-002907–002909; CLIN-002922–002924; CLIN-002953–002955; CLIN-002967–002971; CLIN-002984–002986** — recurrent fifth-MTPJ and related mechanical pathology, clawing, offloading and insoles.
 
 ### Controlling inference
 
 > **Structural pathology is not structural independence.**
 
-The second half of that sentence is an inference/clinical question **[EXP]**, not a direct Podiatry fact.
+The second half remains a clinical inference, not a direct Podiatry fact.
 
 ---
 
-## Proposition 13 — The same anatomical/mechanical problem can be treated locally while the neurological relationship remains unresolved
+## 12. The “missing join” is supported by positive convergence
 
-### Argument we are willing to make
+### Proposition
 
-> **The record contains two complementary streams: Podiatry repeatedly localises and treats mechanical pathology, while Neurology records treatment-state changes involving feet/gait/tension. The surviving corpus does not clearly show those streams being formally recombined into one relationship assessment.**
+> **One branch repeatedly established mechanical pathology while another repeatedly generated neurological state-dependence. The surviving record does not clearly show a durable reconstruction joining those streams into one updated explanatory model.**
 
-### Podiatry stream
+### Mechanical stream
 
-- **CLIN-002907–002909**
-- **CLIN-002922–002924**
-- **CLIN-002953–002955**
-- **CLIN-002967–002971**
-- **CLIN-002984–002986**
+**CLIN-002872–002876; CLIN-002907–002986.**
 
-### Neurological/treatment-state stream
+### Neurological/dynamic stream
 
-- **CLIN-001782–001784**
-- **CLIN-001914–001918**
-- **CLIN-002427**
-- **CLIN-002579–002580**
-- **CLIN-002787–002790**
+**CLIN-001782–001784; CLIN-001914–001918; CLIN-002427; CLIN-002579–002580; CLIN-002700; CLIN-002787–002790.**
 
 ### Status
 
-The existence of the two streams is direct.
-
-The proposition that the record contains **no durable join** is **[NI]** and should be stated only as:
-
-> **the surviving record does not clearly show the join.**
-
-The economical analytical formulation is:
-
-> **Podiatry knew where it was; Neurology knew it changed with neurological treatment; the record does not show the join.**
+The two streams are direct evidence. Absence of a durable global join is a record-wide inference and must remain phrased as “the surviving record does not clearly show it.” Abstract “lock-in” or “information hazard” theories are secondary and unnecessary to carry the case.
 
 ---
 
-# 8. GP reconstruction and decision inheritance
+## 13. 2019 is an underused reopening point
 
-## Proposition 14 — Primary care later reconnects dimensions separated in the specialist architecture
+### Proposition
 
-### Argument we are willing to make
+> **By 2019 primary care was again expressly framing foot pathology, clawing, increased tone, abnormal gait and Parkinson's relationally; the crossing of the 2017 boundary did not suddenly emerge in 2023.**
 
-> **Later GP material again places feet, pain, clawing, increased tone, abnormal gait and Parkinson's in relational proximity.**
+### CLIN support
 
-### CLIN references
-
-- **CLIN-003091** — GP/podiatry referral history describes feet issues “in relating to increased tone and abnormal gait relating to Parkinson's disease,” with recurrent foot pain. **[LC/GP]**
-- **CLIN-003101** — referral comment: very-young-onset Parkinson's with “‘clawing feet’ and pain.” **[LC/GP]**
-
-### What this establishes
-
-It establishes later GP framing.
-
-### What it does not establish
-
-It does not prove the neurological mechanism of the foot pathology.
-
----
-
-## Proposition 15 — The same-GP 2017/2025 contrast is a legitimate information-state comparison
-
-### Argument we are willing to make
-
-> **The GP who in 2017 framed gait, feet and muscle tension together can be seen in 2025 referring within an inherited eight-year young-onset Parkinson's frame while presenting complex dystonia largely as the patient's challenge requiring an external movement-disorders/dystonia opinion.**
-
-### 2017 references
-
-- **CLIN-000068–000073** — open integrated feet/gait/tension formulation. **[CC]**
-
-### 2025 references
-
-- **CLIN-SV-000009–000013** — urgent St Vincent's referral: eight-year young-onset Parkinson's diagnosis; patient questioning diagnosis/arguing complex dystonia; GP acknowledges DAT-scan knowledge limit and seeks movement-disorders/dystonia second opinion. **[LC]**
-- **CLIN-SV-000033–000035** — canonical provenance/information-state note expressly limits the evidential use and identifies the longitudinal comparison. **[canonical source-status commentary, not independent evidence]**
+- **CLIN-003091** — feet issues described in relation to increased tone and abnormal gait relating to Parkinson's disease.
+- **CLIN-003101** — young-onset Parkinson's with “clawing feet” and pain.
 
 ### Status
 
-The two information states are documented.
-
-Any claim that the difference demonstrates **decision inheritance, lock-in or causal influence from the 2017 synthesis** is a reasonable analytical hypothesis but remains **[EXP/inference]**.
-
-Do not describe the GP as captured, biased, or acting improperly.
+The later GP framing is direct. Whether it required specialist reformulation is expert-dependent.
 
 ---
 
-# 9. 2023 safety and explanatory misalignment
+## 14. By 2023–2025 neurological relevance was increasingly affirmative
 
-## Proposition 16 — By 2023 the pain had become a serious safety/endurance issue
+### Proposition
 
-### Argument we are willing to make
+> **The treating neurological service itself came to interpret at least some lower-limb phenomena as dystonic, OFF-related, dyskinetic or dopaminergically modulated.**
 
-> **By 2023, whatever its mechanism, the foot/lower-leg pain was clinically serious enough to generate urgent referral and explicit concern about the patient's ability to endure it.**
+### CLIN support
 
-### Core CLIN references
+- **CLIN-002427** — lower-limb cramping raises Parkinsonian ON/OFF dystonia; OFF dystonia considered more likely.
+- **CLIN-002455–002474** — evening walking limitation/OFF-state and pain-modulation reasoning.
+- **CLIN-002574–002580** — leg pain and shuffling assessed as OFF-related; Stalevo introduced after consultant discussion.
+- **CLIN-002700** — pregabalin improves foot pain while activity-associated toe curling persists.
+- **CLIN-002777–002790** — severe morning foot burden; relief once Parkinson's medication acts; Sinemet-related benefit acknowledged; further benefit constrained by dyskinesia.
+- **CLIN-003243; CLIN-003247; CLIN-003264–003269** — later clinician account acknowledges longstanding Sinemet-associated pain benefit/profound CR relief.
 
-- **CLIN-002637–002641** — urgent GP referral: severe bilateral burning feet/lower-leg pain; “causing death wish”; GP says “I am worried about him” and requests review “before we get into trouble here.” **[LC]**
-- **CLIN-002681–002684** — Parkinson's nurse records debilitating feet/leg pain, “no quality of life,” and requests specialist review. **[LC]**
+### Qualification
 
-### What this establishes
-
-Severity, escalation and clinical concern.
-
-### What it does not establish
-
-It does not establish suicidal intent beyond the language actually recorded, and it does not establish that the severity was caused by a 2017 breach.
+These records do not prove the focal pain generator was dystonia. They do prove that neurological modulation was no longer merely a patient theory.
 
 ---
 
-## Proposition 17 — By 2023 explanatory disagreement was clinically visible
+## 15. Peripheral neuropathy remained conditional
 
-### Argument we are willing to make
+### Proposition
 
-> **The later record openly acknowledges a “misalignment” over how the feet relate to Parkinson's and records the patient's concerns as reasonable/justifiable while further diagnostic possibilities are considered.**
+> **Peripheral neuropathy remained framed as a possibility rather than a conclusively demonstrated explanatory endpoint.**
 
-### CLIN references
+### CLIN support
 
-- **CLIN-002472–002474** — clinician explains OFF-state pain amplification and interprets evening Stalevo-related improvement. **[LC]**
-- **CLIN-002475–002478** — clinician describes patient's belief in a separate major foot problem and expressly records “misalignment,” characterising the patient's concerns as “very reasonable and justifiable.” **[LC]**
-- **CLIN-002479–002482** — further rare-disease/peripheral-neuropathy investigation discussed; clinician emphasises interest in diagnostic correctness over personal correctness. **[LC]**
-
-### What this establishes
-
-The disagreement itself had become visible within the treating record.
-
-### What it does not establish
-
-It is not evidence of bad faith, stubbornness, or motive.
-
----
-
-# 10. 2024–2025 mechanism and therapeutic consequence
-
-## Proposition 18 — Pain and toe-curling can behave differently
-
-### Argument we are willing to make
-
-> **The later record itself distinguishes improvement in foot pain from persistence of toe curling, supporting the possibility that more than one lower-limb mechanism is present.**
-
-### CLIN reference
-
-- **CLIN-002700** — Lyrica markedly improves foot pain while toe curling with activity persists; standing/darts and fatigue/activity effects also documented. **[LC]**
+- **CLIN-001142–001145** — “perhaps” peripheral neuropathy; “Not clear.”
+- **CLIN-002477–002480** — prior neuropathy question and further overlap investigation.
+- **CLIN-002783** — “If there is a degree of peripheral neuropathy here…”
+- **CLIN-002789** — painful dystonia acknowledged as a category while the specific pain is not regarded as direct Parkinson's phenomenology.
 
 ### Status
 
-The observed/recorded distinction is direct.
-
-The inference to a mixed mechanism is **[EXP]**.
+Whether adequate neuropathy investigation occurred at any stage remains expert/record-dependent.
 
 ---
 
-## Proposition 19 — Dopaminergic state affects the later experience of the feet, but treatment is constrained
+## 16. 2023 safety is a distinct route
 
-### Argument we are willing to make
+### Proposition
 
-> **By 2025 the treating neurologist expressly records that the feet feel better once Sinemet takes effect and that further dopaminergic treatment would probably provide some additional pain relief, but at the cost of more severe dyskinesia.**
+> **By 2023 the pain state was serious enough to generate urgent concern and a separate contemporary safety/reassessment question.**
 
-### CLIN references
+### CLIN support
 
-- **CLIN-002777–002780** — severe morning foot burden; first 150 footsteps described as torture; relief in the feet after Parkinson's medication takes effect. **[LC]**
-- **CLIN-002787–002790** — clinician expressly acknowledges Sinemet-related improvement in feet/pain, allows painful dystonia as a category, and predicts some further relief from increased Sinemet while identifying dyskinesia as the limiting complication. **[LC]**
+- **CLIN-002637–002641** — severe bilateral burning feet/lower-leg pain, “causing death wish,” explicit GP concern and urgent review request.
+- **CLIN-002681–002684** — debilitating pain, “no quality of life,” request for specialist review.
 
-### What this establishes
+### Qualification
 
-Clinical consequence and treatment-state relevance.
-
-### What it does not establish
-
-It does not prove that the pain is directly caused by Parkinsonism or dystonia; the same note expressly offers a broader pain-modulation explanation.
-
-This qualification should always travel with the evidence.
+Do not infer continuous suicidality beyond the words recorded. Do not use 2023 severity as proof by analogy of a 2017 breach.
 
 ---
 
-## Proposition 20 — The peripheral-neuropathy explanation remained conditional rather than conclusively established
+## 17. PRKN/PARK2: contemporary hypothesis, later disease-level coherence
 
-### Argument we are willing to make
+### 2017 proposition
 
-> **Peripheral neuropathy remains phrased as a possibility across the record rather than as a clearly demonstrated explanatory endpoint.**
+> **PRKN/PARK2 was a genuine contemporary diagnostic hypothesis and, by September 2017, an independently favoured one.**
 
-### CLIN references
+### CLIN support
 
-- **CLIN-001142–001145** — 2017: “perhaps” secondary peripheral neuropathy; “Not clear.” **[CC]**
-- **CLIN-002477–002480** — 2023: “previous peripheral neuropathy question” described as having seemed to subside; additional overlap testing considered. **[LC]**
-- **CLIN-002783** — 2025: “If there is a degree of peripheral neuropathy here…” **[LC]**
-- **CLIN-002789** — 2025 alternative discussion includes painful dystonia while stating the particular pain is not regarded as direct Parkinson's phenomenology. **[LC]**
+- **CLIN-001518–001525** — explicit PRKN/PARK2 reasoning.
+- **CLIN-001742–001749** — Healy “probably has Park II,” testing recommendation and treatment context.
 
-### Status
+### 2026 proposition
 
-The persistence of conditional language is direct.
+> **Later genetics and St Vincent's attribution positively unify Parkinsonism and dystonia within PRKN disease, making the earlier coexistence of young-onset Parkinsonism and dystonic-looking lower-limb phenomenology retrospectively coherent.**
 
-Whether adequate neuropathy investigation was performed at any particular stage is **[EXP/NI]**.
+### CLIN support
 
----
+- **CLIN-003227** — Parkinsonism and dystonia attributed clinically to compound-heterozygous Parkin mutations.
+- **CLIN-006192–006202** — two pathogenic PRKN variants; conditional molecular causation statement.
+- **CLIN-006228** — PARK2 description includes lower-limb dystonia, sometimes isolated for years.
 
-# 11. Genetics and natural-history concordance
+### Absolute limit
 
-## Proposition 21 — PRKN/PARK2 was a contemporaneous 2017 possibility
-
-### Argument we are willing to make
-
-> **Later genetics was not wholly alien to the 2017 reasoning: PRKN/PARK2 was expressly considered because of the very young onset, akinetic rigidity, symmetry, family history and preserved cognition.**
-
-### CLIN references
-
-- **CLIN-001518–001525** — explicit 2017 PRKN/PARK2 question and other monogenic possibilities. **[CC]**
-- **CLIN-002214–002217** — contemporaneous genetics context and acknowledged limits of the clinician's movement-disorders expertise. **[CC/reproduced 2017 source]**
-
-### What this establishes
-
-Contemporaneous diagnostic possibility.
-
-### What it does not establish
-
-It does not establish that the later genetic result was knowable or diagnosable with certainty in July 2017.
+This cannot prove that 2017 corns/callouses/pes planus/hammertoes or pain were caused by PRKN, nor can it determine the 2017 standard of care.
 
 ---
 
-## Proposition 22 — 2026 genetics supplies retrospective biological concordance, not retrospective breach
+## 18. Harm
 
-### Argument we are willing to make
+### Proposition
 
-> **The later molecular result makes an evolving lower-limb dystonic/young-onset Parkinsonian phenotype biologically coherent, but it does not determine what reasonable care required in 2017.**
+> **The later lower-limb problem became severe and functionally consequential, but the record does not by itself establish how much of that burden was avoidable.**
 
-### CLIN references
+### CLIN support
 
-- **CLIN-006192–006202** — CeGaT indication: early-onset Parkinson disease; dystonia, onset in 20s; two pathogenic PRKN variants, causative for juvenile Parkinson disease type 2 if compound heterozygous. **[GEN]**
-- **CLIN-006228** — PRKN/PARK2 phenotype description includes lower-limb dystonia, which may remain isolated for years; also bradykinesia, rigidity and good L-DOPA response. **[GEN]**
-- **CLIN-003224–003228** — St Vincent's clinical conclusion: two pathogenic Parkin variants; Parkinsonism and dystonia attributed to compound heterozygous Parkin mutations. **[GEN/LC]**
+- **CLIN-000877–000884** — 2017 effect on employment/daily activities.
+- **CLIN-002637–002641** — urgent severe pain state in 2023.
+- **CLIN-002682–002684** — debilitating pain/no quality of life.
+- **CLIN-002700** — life “a lot smaller”; activity limitations; pain/toe-curling distinction.
+- **CLIN-002777–002790** — severe morning foot burden and medication-linked relief.
 
-### Controlling use
+### Required distinction
 
-> **Retrospective natural-history concordance and biological plausibility only.**
-
-### Prohibited use
-
-Do not use these references to prove:
-- that painful feet/corns/callouses were dystonia in 2017;
-- that structural pathology was neurologically caused;
-- that the 2017 standard required molecular diagnosis;
-- or that breach is established by hindsight.
+**Baseline harm** from PRKN disease and genuine structural pathology must be separated from **incremental avoidable harm** caused by any proved failure to assess, integrate or reopen.
 
 ---
 
-# 12. Harm
+## 19. Causation remains narrower than breach
 
-## Proposition 23 — The longitudinal record demonstrates a substantial later burden
+### Proposition
 
-### Argument we are willing to make
+> **For every breach actually found, causation must identify what proper assessment would probably have shown, what management would probably have changed, and what later burden would probably have been prevented or reduced.**
 
-> **The later foot/lower-limb problem was capable of producing substantial pain, reduced function, activity limitation and serious endurance/safety concern.**
+### Relevant CLIN sets
 
-### CLIN references
+- Early treatment state: **CLIN-001770–001784; CLIN-001914–001918**.
+- Mechanical truth: **CLIN-002872–002986**.
+- Later movement/OFF evidence: **CLIN-002427; CLIN-002574–002580**.
+- Differential treatment response: **CLIN-002700; CLIN-002777–002790**.
+- Genetic coherence only: **CLIN-003227; CLIN-006192–006228**.
 
-- **CLIN-000877–000884** — 2017 gait/tone problem already affecting employment/daily activity with risk of job loss. **[CC]**
-- **CLIN-002637–002641** — 2023 severe bilateral burning pain; urgent GP concern. **[LC]**
-- **CLIN-002682–002684** — debilitating pain/no quality of life. **[LC]**
-- **CLIN-002700** — 2024 life “a lot smaller”; reduced darts/activity; foot pain and toe curling affect standing/activity. **[LC]**
-- **CLIN-002777–002780** — 2025 severe morning pain, hobbling, inability initially to tie runners, first steps described as torture; later medication relief. **[LC]**
+### Qualification
 
-### Critical limitation
-
-These references prove the **harm state**, not that the whole harm state was caused by any earlier breach.
-
-The damages analysis must distinguish:
-
-> **baseline disease/structural harm**
-
-from
-
-> **incremental avoidable harm attributable to any proved breach.**
-
-That distinction is **[EXP/legal]**.
+Treatment response is mechanistically non-specific. Early treatment produced substantial improvement. Structural pathology required genuine care. Cautious levodopa use had a documented rationale and later dyskinesia demonstrates a real therapeutic constraint. Causation must not be rhetorically upgraded merely because the breach/reopening case is stronger.
 
 ---
 
-# 13. Causation
+# Strongest defence — preserved intentionally
 
-## Proposition 24 — The causal case must proceed through an explicit counterfactual, not hindsight
+The final case must retain these points:
 
-### Argument we are willing to make
+- structural disease was real: **CLIN-000024–000025; CLIN-001119–001120; CLIN-002907–002986**;
+- the patient was recorded as distinguishing foot pain from leg tension: **CLIN-001146–001149**, with contemporaneous patient material also preserving the distinction;
+- Neurology directly examined and recognised the unusual lower limb: **CLIN-001085–001120**;
+- substantial work and sophisticated reasoning occurred: **CLIN-001429–001439; CLIN-001518–001525**;
+- the final wording was tentative: **CLIN-001142–001149**;
+- Sinemet-related pain improvement does not automatically prove direct Parkinsonian/dystonic pain: **CLIN-002787–002790**.
 
-> **If a relevant breach is established, causation asks what proper assessment/reassessment would probably have shown, what management would probably have changed, and what later burden would probably have been avoided or reduced.**
-
-### CLIN evidence relevant to that counterfactual
-
-**Early biological/treatment-state evidence**
-- **CLIN-001782–001784**
-- **CLIN-001914–001918**
-
-**Mechanical truth**
-- **CLIN-002907–002909**
-- **CLIN-002953–002955**
-- **CLIN-002967–002971**
-
-**Later movement/OFF evidence**
-- **CLIN-002427**
-- **CLIN-002579–002580**
-
-**Differential response evidence**
-- **CLIN-002700**
-- **CLIN-002787–002790**
-
-**Genetic plausibility**
-- **CLIN-006192–006202**
-- **CLIN-006228**
-- **CLIN-003227**
-
-### Status
-
-The records supply factual premises.
-
-The counterfactual probability and attributable harm remain **[EXP/legal]**.
+These are not concessions for appearance. They are necessary to prevent the case from becoming medically crude.
 
 ---
 
-# 14. The systems argument
+# Arguments we are not willing to make as established facts
 
-## Proposition 25 — The record supports a cautious “missing join” / modular-care argument
-
-### Argument we are willing to make
-
-> **Different services acquired real information about different aspects of the same lower-limb problem. The surviving record does not clearly show a durable reconstruction that joined the mechanical, neurological treatment-state and movement-state information into one updated explanatory model.**
-
-### Mechanical/local CLIN set
-
-- **CLIN-002907–002909**
-- **CLIN-002922–002924**
-- **CLIN-002953–002955**
-- **CLIN-002967–002971**
-- **CLIN-002984–002986**
-
-### Neurological/dynamic CLIN set
-
-- **CLIN-001782–001784**
-- **CLIN-001914–001918**
-- **CLIN-002427**
-- **CLIN-002579–002580**
-- **CLIN-002700**
-- **CLIN-002787–002790**
-
-### GP reconnection CLIN set
-
-- **CLIN-003091**
-- **CLIN-003101**
-
-### Status
-
-The underlying observations are direct.
-
-The conclusion that there was **no durable global reconstruction** is **[NI/inference]** and must retain the wording:
-
-> **the surviving record does not clearly show it.**
-
-Do not turn this into an allegation that individual clinicians acted irrationally or failed to think.
+- The painful feet were definitely dystonia in July 2017.
+- The corns/callouses/pes planus/hammertoes were caused by PRKN.
+- No focused lower-limb examination occurred.
+- “Not clear” was itself negligent.
+- Podiatry referral was inappropriate.
+- The 2017 Parkinsonism diagnosis was necessarily wrong.
+- Later genetics proves 2017 breach.
+- Treatment response proves a single mechanism.
+- The Protest is proved because it appears in a later patient account.
+- The Protest was deliberately concealed.
+- “Markedly divorced” proves the patient believed the mechanisms were causally independent.
+- Downstream clinicians acted in bad faith or merely copied earlier reasoning.
+- All later pain was avoidable.
+- The whole later disease course was caused by the 2017 formulation.
 
 ---
 
-# 15. The strongest defence — CLIN-supported and preserved
+# Final positioning hierarchy
 
-The final case should affirmatively preserve the following defence points.
+## Tier 1 — July 2017 founding question
 
-## Defence proposition A — structural disease was real
+**CLIN:** 000020–000025; 000068–000073; 000851–000884; 001085–001120; 001142–001149; 001429–001439; 001518–001525; 001869.
 
-- **CLIN-000024–000025**
-- **CLIN-001119–001120**
-- **CLIN-002907–002909**
-- **CLIN-002953–002955**
-- **CLIN-002967–002971**
+> A neurological lower-limb relationship was positively raised. The unresolved question is whether adequate phenotype-directed discrimination supported the later allocation.
 
-## Defence proposition B — the patient was recorded as distinguishing tension from painful foot/corn symptoms
+## Tier 2 — Protest, only if proved
 
-- **CLIN-001146–001149**
-- **CLIN-001784** — contemporaneous patient email source note also records the distinction within the patient's own attempt to understand the wider illness.
+**CLIN:** 004612–004638.
 
-## Defence proposition C — Neurology directly examined and recognised the unusual lower-limb phenomenon
+> Conditional decision-after-notice route.
 
-- **CLIN-001085–001111**
-- **CLIN-001114–001120**
+## Tier 3 — September 2017 threshold
 
-## Defence proposition D — substantial work and sophisticated reasoning occurred
+**CLIN:** 001742–001749; 002872–002876.
 
-- **CLIN-001429–001439**
-- **CLIN-001518–001525**
+> PARK2 becomes independently favoured while neurological improvement and mechanical pathology are observed in parallel.
 
-## Defence proposition E — the final wording was tentative
+## Tier 4 — 2017–2018 reopening
 
-- **CLIN-001142–001149**
+**CLIN:** 001770–001784; 001914–001918.
 
-## Defence proposition F — later Sinemet-related pain improvement does not automatically prove direct Parkinsonian/dystonic pain
+> New treatment-state evidence involving the feet requires interpretation against the earlier allocation.
 
-- **CLIN-002787–002790**
+## Tier 5 — 2019–2025 reconstruction
 
-### Why this matters
+**CLIN:** 003091; 003101; 002427; 002574–002580; 002700; 002777–002790.
 
-Our final position is not credible unless these points remain inside it.
+> Neurological relevance becomes progressively affirmative within treating records.
 
-The defence prevents the case from becoming:
+## Tier 6 — 2023 safety
 
-> “the feet were ignored”
+**CLIN:** 002637–002641; 002681–002684.
 
-or
+> Separate safety/reassessment route.
 
-> “later treatment response proves the original explanation wrong.”
+## Tier 7 — Genetics
 
-Our narrower contention survives while granting the strongest contrary material.
+**CLIN:** 003227; 006192–006228.
+
+> Disease-level retrospective coherence only; never retrospective standard or breach.
 
 ---
 
-# 16. Arguments we are not presently willing to make as established facts
+# Freeze rule
 
-The following should remain outside the final factual case unless new evidence or independent opinion changes their status:
+The argument set is finite. The freeze prevents speculative theory proliferation; it does **not** require preservation of a weaker proposition when canonical evidence materially supports a stronger one.
 
-1. **The painful feet were definitely dystonia in July 2017.**
-2. **The corns/callouses/pes planus/hammertoes were caused by PRKN.**
-3. **No focused lower-limb examination occurred.**  
-   Current position: the surviving record does not clearly document the complete bridge.
-4. **“Not clear” was itself negligent.**
-5. **Podiatry referral was inappropriate.**
-6. **The 2017 Parkinsonism diagnosis was necessarily wrong.**
-7. **The later genetics proves 2017 breach.**
-8. **The treatment response proves a single mechanism.**
-9. **The Protest is proved merely because it appears in a later patient account.**
-10. **The Protest was deliberately omitted or concealed.**
-11. **The clinician's phrase “markedly divorced” proves the patient believed the two problems causally independent.**
-12. **Downstream clinicians acted in bad faith or simply copied prior reasoning.**
-13. **Every later episode of pain was avoidable.**
-14. **The whole later disease course was caused by the 2017 formulation.**
-15. **Departmental expertise proves private knowledge or actual consultation by a particular clinician.**
+Future changes should occur only because of:
+
+- factual correction;
+- newly supplied primary evidence;
+- materially overlooked canonical CLIN evidence;
+- or properly obtained independent medical/legal opinion.
+
+If an argument cannot be connected to the canonical record, classified by evidential status, and placed within Duty / Breach / Harm / Causation, it does not enter the final case.
 
 ---
 
-# 17. Final positioning hierarchy
+# Final controlling statement
 
-The case should now be presented in this order.
+> **The patient entered Neurology with an integrated feet–gait–tone presentation. Neurology's own examination positively identified severe young-onset Parkinsonism, a dystonic-looking pseudo-footdrop phenomenon and genuine structural foot disease, and the DAT indication carried the dystonic quality forward. The final specialist synthesis allowed the painful foot/leg phenomena to occupy separate or neuropathic channels and left the relationship “Not clear.” The record demonstrates substantial neurological work but does not clearly demonstrate the complete discriminative bridge by which those competing mechanisms were organised; in an unusually detailed specialist record that omission is evidentially significant without proving the examination did not occur. Independently, September 2017 PARK2 evidence and later treatment-state, Podiatry, OFF/dystonia and medication-response evidence repeatedly made the lower-limb relationship clinically salient and may have required reconstruction. Later genetics supplies disease-level retrospective coherence without rewriting the 2017 information state. Harm and causation remain confined to the incremental burden that proper assessment or later reconstruction would probably have avoided or reduced.**
 
-## Tier 1 — Founding 2017 question
+The case does not depend on proving one cause for every foot symptom. It depends on the narrower proposition:
 
-**Supported by:**  
-CLIN-000020–000025; CLIN-000068–000073; CLIN-000851–000862; CLIN-000877–000884; CLIN-001085–001120; CLIN-001142–001149; CLIN-001429–001439; CLIN-001518–001525.
-
-**Position:**
-
-> An integrated lower-limb problem entered Neurology. Neurology discovered severe young-onset Parkinsonism, a dystonic-looking pseudo-footdrop phenomenon and genuine structural feet. The final account allowed the foot/leg symptoms to be separate/neuropathic/“Not clear.” The record shows substantial neurological work but does not clearly demonstrate the focused discriminative bridge. What work occurred, and what did reasonable 2017 practice require?
-
-## Tier 2 — Protest fork, only if proved
-
-**Supported as later patient evidence by:**  
-CLIN-004612–004638.
-
-**Position:**
-
-> If the patient expressly said the feet had not been dealt with before discharge, the question becomes what reasonable closure required after notice and whether the necessary discriminative work had already occurred.
-
-## Tier 3 — Independent reopening route
-
-**Supported by:**  
-CLIN-001782–001784; CLIN-001914–001918; CLIN-002382–002386; CLIN-002427; CLIN-002579–002580; CLIN-002700; CLIN-002787–002790.
-
-**Position:**
-
-> Even if July 2017 was reasonable, later neurological treatment-state and movement-state evidence repeatedly crossed the original boundary and may have required the relationship to be reconsidered.
-
-## Tier 4 — Structural/mechanical counterweight
-
-**Supported by:**  
-CLIN-000024–000025; CLIN-001119–001120; CLIN-002907–002909; CLIN-002953–002955; CLIN-002967–002971; CLIN-002984–002986.
-
-**Position:**
-
-> Structural pathology was real. The medically realistic question is independence, neurological influence, or mixed mechanism — not “structure versus neurology.”
-
-## Tier 5 — Later harm and clinical consequence
-
-**Supported by:**  
-CLIN-002637–002641; CLIN-002682–002684; CLIN-002700; CLIN-002777–002790.
-
-**Position:**
-
-> The later problem was serious, functionally consequential and treatment-relevant. Attribution of any part of that burden to earlier breach remains a separate causation question.
-
-## Tier 6 — Genetics
-
-**Supported by:**  
-CLIN-003227; CLIN-006192–006202; CLIN-006228.
-
-**Position:**
-
-> Later PRKN evidence supplies biological/natural-history concordance and final disease attribution. It does not travel backward into the 2017 duty/breach analysis.
-
----
-
-# 18. Freeze rule for the case
-
-Subject to correction of factual error, new primary evidence, or properly obtained independent medical/legal opinion, this should be treated as the **finite argument set**.
-
-Future work should generally do one of four things only:
-
-- strengthen or weaken a mapped proposition with better evidence;
-- answer an identified expert-dependent question;
-- quantify/clarify harm and causation;
-- or remove a proposition that cannot survive scrutiny.
-
-It should **not** keep generating new theories simply because additional interpretations are possible.
-
-The working discipline is:
-
-> **If an argument cannot be connected to the canonical record, classified by evidential status, and placed within Duty / Breach / Harm / Causation, it does not enter the final case.**
-
----
-
-# 19. Final controlling statement
-
-> **The patient entered Neurology with an integrated feet–gait–tone presentation. Neurology's own examination established severe young-onset Parkinsonism, a dystonic-looking lower-limb phenomenon and genuine structural foot disease. The later specialist synthesis allowed the painful foot/leg phenomena to occupy separate or neuropathic channels and left the relationship “Not clear.” The record demonstrates substantial neurological work, but it does not clearly demonstrate the focused discriminative bridge by which those competing lower-limb mechanisms were separated. That is the bounded 2017 question. If the Protest is proved, it creates a distinct decision-after-notice question. Independently, later treatment-state, Podiatry, OFF/dystonia, medication-response and genetic evidence repeatedly test or cross the founding boundary without being permitted to rewrite the 2017 information state. Harm and causation then concern only the incremental burden that proper assessment or later reconstruction would probably have avoided or reduced.**
-
-The case therefore does not depend on proving a single cause for every foot symptom.
-
-It depends on a more disciplined proposition:
-
-> **The relationship mattered clinically; the record must show who examined it, who owned it, how it was transmitted, and when later evidence required it to be reconsidered.**
+> **The neurological relationship was positively visible; the unresolved question is whether it was adequately characterised, owned and reconstructed when reasonable practice required it.**
