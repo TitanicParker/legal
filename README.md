@@ -1,3 +1,6 @@
+I am not asking you whether I am permitted to suspect this. I do suspect it. I want you to test the strongest version of that suspicion against the documentary chronology and tell me where it succeeds, where it fails, what evidence would decide it, and what ethical category it would occupy if proved. Do not protect the institution from the hypothesis, and do not protect me from contrary evidence.
+
+
 # Strong Formulation — Legal Repository
 
 ## Purpose
