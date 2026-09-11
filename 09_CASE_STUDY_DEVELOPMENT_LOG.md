@@ -78,6 +78,24 @@ The governing standard is:
 
 ---
 
+## 11 September 2026 — same-clinician continuity becomes a distinct longitudinal audit
+
+**Trigger:** a further analytical instruction identified a potentially material fact: the same treating neurologist may have remained centrally involved across the relevant longitudinal sequence.
+
+**Change:** added `11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md` to test the case as a single clinician's evolving knowledge state rather than relying mainly on handover/propagation explanations.
+
+**New controlling question:** **What did this neurologist know at each stage, what did he do with that knowledge, and what evidence—if any—was capable of making him revise the architecture he himself had created?**
+
+**Analytical consequence if continuity is source-verified:** the case shifts from asking mainly how later clinicians inherited an authoritative specialist frame to asking whether the frame's own author repeatedly encountered potentially disconfirming evidence and allowed it to change the global model. The ledger therefore tracks contradiction-by-contradiction what proposition lost confidence, distinguishes local episode explanation from global architectural revision, and tests effective falsifiability.
+
+**Intent discipline:** the ledger introduces an explicit ladder from innocent persistent error → anchoring/insufficient integration → recognised contradictions but compartmentalisation → appreciated material incompleteness without candid reconstruction → intentional documentary/dispositional closure and maintenance. No higher level is inferred merely from persistence.
+
+**Evidence status:** the same-clinician continuity premise is treated as requiring event-by-event verification against the canonical/source record before it is promoted to documentary fact. The analytical implications are conditional until that verification is complete.
+
+**Effect on controlling formulation:** potentially strengthens and narrows the longitudinal mechanism by moving the centre of gravity from institutional inheritance to continuing personal knowledge and corrigibility; does not itself prove breach, intent, dishonesty or causation.
+
+---
+
 ## Entry template
 
 ### YYYY-MM-DD — short description
