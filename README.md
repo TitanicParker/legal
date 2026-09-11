@@ -51,9 +51,34 @@ This repository has two simultaneous purposes: to establish the case with docume
 8. `03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md` — proposition-to-record map and evidential status.
 9. `07_GPT_A_INTEGRATED_FORMULATION.md` — current synthesis layer; GPT agreement is not evidence.
 10. `08_THE_NEUROLOGY_NEUROPATHY_ILLUSION.md` — compact active documentary-mechanism formulation and strongest current provenance-dependent hypothesis.
-11. `04_FINAL_EXPERT_QUESTION_REGISTER.md` — controlling movement-disorders expert questions.
-12. `09_CASE_STUDY_DEVELOPMENT_LOG.md` — material changes, corrections and hypothesis-status changes.
-13. `10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md` — future tailored submissions, responses and their actual evidential effect.
+11. `11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md` — same-clinician longitudinal custody, contradiction handling, model revision and falsifiability audit.
+12. `04_FINAL_EXPERT_QUESTION_REGISTER.md` — controlling movement-disorders expert questions.
+13. `09_CASE_STUDY_DEVELOPMENT_LOG.md` — material changes, corrections and hypothesis-status changes.
+14. `10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md` — future tailored submissions, responses and their actual evidential effect.
+
+## Three-stage analytical architecture
+
+The current longitudinal suspicion must be tested in three distinct stages. They are related, but none proves the next.
+
+### 1. Construction
+
+Did the final 2017 specialist account convert an unfinished integrated feet–gait–tone problem into an authoritative disposition in which structural disease, possible neuropathy and Parkinsonian disease could travel through partly separate explanatory and service pathways? The key questions are whether the uncertainty was medically earned, when the consequential wording was created, and what the Protest—if proved—changed about the duty to reopen or candidly preserve incompleteness.
+
+### 2. Maintenance / continuing stewardship
+
+The stronger longitudinal issue is not simply whether unrelated downstream clinicians inherited somebody else's frame. If the same neurologist created the founding architecture and remained responsible for the patient, the audit becomes one of **continuing stewardship of a potentially misleading information state by its originating author**.
+
+The question is whether repeated boundary-crossing observations—neurological treatment-state effects on the feet, the rapid return of an outside-left-foot phenomenon during procyclidine withdrawal, later Parkinsonian classification of a footdrop-like phenomenon, OFF-related pain/shuffling, Sinemet-related pain benefit and profound relief after controlled-release Sinemet—caused the governing formulation itself to change, or were instead absorbed as local episode-specific updates.
+
+This is the repository's **local updating versus global reconstruction** test. The fact that Neurology continued to treat the patient does not by itself answer it. The event-by-event extent of the same clinician's authorship, personal observation, receipt of information and opportunity to revise must be source-mapped rather than assumed.
+
+### 3. Retrospective validation
+
+If the founding formulation shaped later terminology, referrals, medication choices, investigations, clinical summaries and the patient's own explanatory vocabulary, the accumulated record is not automatically eight years of independent confirmation. Some of it may be endogenous to the original information state.
+
+The question is therefore whether the original formulation helped generate the longitudinal history later relied upon to demonstrate that the original formulation had been reasonable. Any suggestion that the clinician later “benefited” from that history is used here only in an **epistemic and institutional** sense: the coherence and continuity of the record may operate as evidence in favour of the earlier approach. It is not a financial-benefit or motive allegation.
+
+`11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md` is the active audit for the maintenance/stewardship stage. It requires the record to show, contradiction by contradiction, what the clinician knew, what changed, what proposition lost confidence, and what evidence was capable of falsifying his own earlier model.
 
 ## Historical / developmental analyses retained deliberately
 
@@ -62,18 +87,24 @@ This repository has two simultaneous purposes: to establish the case with docume
 
 These files are not being deleted or silently consolidated because they preserve how the case changed under analysis. Where they conflict with verified primary/native evidence or later controlling work, the stronger source hierarchy governs.
 
-## The clinical sequence
+## The clinical and case-study sequence
 
-For orientation, the principal clinical architecture remains:
+For orientation, the present architecture is:
 
-> **original integrated problem → specialist record and founding disposition → later boundary-crossing evidence → local updating versus global reconstruction → treatment calibration and harm → safeguarding.**
+> **integrated presentation → Protest, if proved → possible documentary/dispositional closure → same-clinician longitudinal custody → repeated boundary-crossing evidence → local updating without global reconstruction, if proved → severe pain → safeguarding endpoint → complaint/review → possible use of the accumulated record as retrospective validation.**
 
-Safeguarding remains at the end of the longitudinal clinical sequence. It is analytically separable where necessary, but it is also the human endpoint of the case: severe pain, functional loss and death-associated distress create a safety question regardless of whether the earlier documentary or treatment-causation hypotheses are ultimately proved.
+Safeguarding remains at the end of the longitudinal clinical sequence. It is analytically separable where necessary, but it is also the human endpoint of the case: severe pain, functional loss and death-associated distress create a safety question regardless of whether the earlier documentary, stewardship or treatment-causation hypotheses are ultimately proved.
 
 ## What remains unproved
 
-The repository does not presently treat as established fact that the July assessment was negligent; that the Protest is independently proved; that `leg pain` or `burning` was inserted improperly; that the neuropathy branch was deliberately constructed after the Protest; that any clinician acted dishonestly; that later clinicians merely copied rather than reassessed; or that one mechanism explains all foot pain.
+The repository does not presently treat as established fact that the July assessment was negligent; that the Protest is independently proved; that `leg pain` or `burning` was inserted improperly; that the neuropathy branch was deliberately constructed after the Protest; that any clinician acted dishonestly; that persistence of the framework proves improper intention; that later evidence disproved every structural or neuropathic mechanism; that one mechanism explains all foot pain; or that continuity of care itself proves adequate global reconstruction.
 
-The strongest present suspicion turns materially on **provenance and authorship time**. Evidence that the consequential terminology and neuropathy reasoning clearly pre-dated the Protest and arose from identifiable clinical evidence would weaken the intentional documentary/dispositional-closure route. Evidence that those elements first arose after the Protest, lacked an identifiable contemporaneous source, resolved the precise documentary problem raised by the Protest, and then materially shaped downstream information flow would strengthen it.
+The same-clinician refinement also requires granular source discipline. Broad continuity does not establish that the neurologist personally authored, observed or received every later item at the same time. Those knowledge states must be reconstructed threshold by threshold.
 
-The repository therefore exists to make both outcomes visible rather than to guarantee either one.
+The strongest present construction suspicion turns materially on **provenance and authorship time**. Evidence that the consequential terminology and neuropathy reasoning clearly pre-dated the Protest and arose from identifiable clinical evidence would weaken the intentional documentary/dispositional-closure route. Evidence that those elements first arose after the Protest, lacked an identifiable contemporaneous source, resolved the precise documentary problem raised by the Protest, and then materially shaped later information flow would strengthen it.
+
+The maintenance suspicion turns on a different evidential question: **what later evidence actually reached the originating clinician, what did it require him to reconsider, and what change—if any—occurred in the governing formulation?**
+
+The retrospective-validation suspicion requires a third proof structure: later observations must be separated into genuinely independent evidence, interpretive propositions and inherited narrative descendants before longitudinal repetition can be counted as corroboration.
+
+The repository therefore exists to make all three stages—and the strongest competing explanations—visible rather than to guarantee any one conclusion.
