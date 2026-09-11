@@ -58,6 +58,23 @@ That proposition is **not yet established**. It is a live forensic limb being te
 
 ---
 
+# The repository now operates as an evidential engine
+
+The front-page formulation is only the entry point. The case is now controlled through four operational layers:
+
+- **`19_LIVE_SUSPICION_STATUS_LEDGER.md`** — current status of every material limb: established, strong inference, live suspicion, expert-dependent, forensically unresolved, weakened or defeated.
+- **`20_PROPOSITION_PROOF_LEDGER.md`** — stable proposition IDs tied to source, permitted inference and decisive contrary evidence.
+- **`21_DOCUMENTARY_FORENSIC_ACQUISITION_PLAN.md`** — exactly what documentary/provenance evidence is needed and what each possible result would do to the suspicion.
+- **`22_EVIDENCE_ACQUISITION_PRIORITY_QUEUE.md`** — ranked missing evidence by expected ability to strengthen, narrow or defeat the suspicion.
+
+The rule is:
+
+> **new evidence changes the status ledger first, the proof ledger second, the development log third, and only then the narrative.**
+
+That prevents prose from outrunning proof.
+
+---
+
 # Why the suspicion survives without the construction limb
 
 The suspicion does not depend on proving that the Protest occurred or that the document was altered after it.
@@ -121,15 +138,7 @@ The case must be followed through transformations:
 
 Every later object therefore has a genealogy.
 
-A later statement may be:
-
-- new primary evidence;
-- independent clinical observation;
-- interpretation;
-- descendant narrative;
-- independent re-evaluation;
-- governance output;
-- or a provenance/data-rights intervention.
+A later statement may be new primary evidence, independent clinical observation, interpretation, descendant narrative, independent re-evaluation, governance output, or a provenance/data-rights intervention.
 
 Repetition is not automatically independent confirmation.
 
@@ -142,7 +151,9 @@ See `12_WHOLE_CASE_EVIDENTIAL_GENEALOGY.md`.
 ## 1. Governing suspicion and merits
 
 - **`README.md`** — front-door suspicion and present centre.
-- **`01_AFFIRMATIVE_CASE.md`** — the suspicion-led affirmative merits route, without constant self-rebuttal.
+- **`01_SUSPICION_LED_MERITS.md`** — controlling suspicion-led merits route.
+- **`19_LIVE_SUSPICION_STATUS_LEDGER.md`** — current status of every material limb.
+- **`20_PROPOSITION_PROOF_LEDGER.md`** — proof spine.
 - **`00_PATIENT_GUIDING_STATEMENT.md`** — the patient's experiential centre.
 
 ## 2. Primary chronology and founding evidence
@@ -160,15 +171,17 @@ See `12_WHOLE_CASE_EVIDENTIAL_GENEALOGY.md`.
 
 ## 4. Same-clinician longitudinal stewardship
 
-- **`11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md`** — what the originating clinician knew, what changed, and whether the governing formulation changed.
+- **`11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md`** — knowledge → contradiction → proposition losing confidence → local/global revision.
 - **`14_REAL_WORLD_TEAM_AND_RESPONSIBILITY_MAP.md`** — real-world knowledge opportunity, participation and responsibility boundaries.
 - **`03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md`** — proposition-to-record anchors.
 - **`07_GPT_A_INTEGRATED_FORMULATION.md`** — integrated synthesis layer.
 - **`08_THE_NEUROLOGY_NEUROPATHY_ILLUSION.md`** — active documentary-mechanism formulation.
 
-## 5. Expert testing
+## 5. Expert and forensic testing
 
-- **`04_FINAL_EXPERT_QUESTION_REGISTER.md`** — movement-disorders questions that determine medical duty, adequacy and threshold consequences.
+- **`04_FINAL_EXPERT_QUESTION_REGISTER.md`** — movement-disorders questions determining medical duty and threshold consequences.
+- **`21_DOCUMENTARY_FORENSIC_ACQUISITION_PLAN.md`** — provenance evidence capable of changing the construction and validation limbs.
+- **`22_EVIDENCE_ACQUISITION_PRIORITY_QUEUE.md`** — ranked next evidence.
 
 ## 6. Defence and falsification — after the centre is understood
 
@@ -179,7 +192,7 @@ These files protect evidential integrity. They do **not** govern the repository 
 
 ## 7. Development and external testing
 
-- **`15_LIFE_OF_THE_SUSPICION_LEDGER.md`** — how the suspicion changed under evidence; a development history, not the primary merits route.
+- **`15_LIFE_OF_THE_SUSPICION_LEDGER.md`** — how the suspicion changed under evidence; development history rather than the primary merits route.
 - **`09_CASE_STUDY_DEVELOPMENT_LOG.md`** — material changes and corrections.
 - **`10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md`** — external submissions, responses and independence questions.
 - **`13_LIVE_DATA_GOVERNANCE_AND_PROVENANCE_TRACK.md`** — Article 15/16/18, DPC and current provenance/corrigibility work.
