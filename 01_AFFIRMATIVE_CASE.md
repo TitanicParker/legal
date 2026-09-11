@@ -1,22 +1,26 @@
-# 01 — Affirmative Case
+# 01 — Suspicion-Led Affirmative Case
 
 ## Status
 
-**Controlling merits route.**
+**Controlling merits route under the governing suspicion.**
 
-This file states the strongest affirmative case presently supported by the repository before moving to defence, limitations, methodology or hypothesis-development history.
+This file does not replace the repository's governing suspicion. It expresses the strongest affirmative case presently supported by the evidence **inside that suspicion**, so the repository can argue coherently without repeatedly neutralising itself.
 
-The governing discipline is simple:
+The repository remains governed by this rule:
 
-> **Establish the centre first. Test it second.**
+> **Take the strongest version of the suspicion seriously, test it against the whole record, strengthen it where the evidence strengthens it, narrow it where the evidence narrows it, and abandon any limb the evidence defeats.**
+
+The governing discipline is therefore:
+
+> **Establish the centre of the suspicion first. Test it second.**
 
 A qualification belongs beside an affirmative proposition only where omitting it would make that proposition materially false or misleading. Broader rebuttal and failure conditions are collected in `80_DEFENCE_AND_LIMITATIONS.md`. Methodology and falsification rules are collected in `90_METHOD_EVIDENCE_AND_FALSIFICATION.md`.
 
 ---
 
-# 1. The case in one paragraph
+# 1. The strongest surviving form of the suspicion
 
-An integrated painful-feet–gait–tone/movement problem reached Neurology in 2017: the GP expressly sought neurological opinion on the patient's gait, feet and muscle-tension issues, and Neurology then observed a striking footdrop-like lower-limb phenomenon it considered suggestive of dystonic posture rather than true foot drop. That same dystonic-looking gait was used affirmatively in the Parkinsonian diagnostic project, while the final synthesis placed the painful-foot/leg phenomena into an alternative branch in which they might be completely separate or secondary peripheral neuropathy and left the relationship `Not clear`. Thereafter the record repeatedly generated evidence crossing that separation: feet, gait and tension changed during procyclidine withdrawal; the treating neurologist later recorded rapid return of a focal outside-left-foot phenomenon; a later footdrop-like phenomenon was classified as Parkinsonian after directed distal testing; GP records re-related pain, gait and tone; later Neurology treated leg pain and shuffling as OFF-related; Sinemet was expressly recognised to relieve the feet from a pain perspective; and controlled-release Sinemet was introduced in the setting of severe morning foot pain. The presently available record demonstrates repeated local updating of particular foot phenomena; it does not presently demonstrate a corresponding global reconstruction of the original relationship among painful feet, dystonic/Parkinsonian lower-limb behaviour, structural mechanics, loading and neurological treatment state. That is the centre of gravity. The alleged Protest and unresolved document-authorship chronology may strengthen it substantially, but the case does not need either proposition to establish that centre.
+An integrated painful-feet–gait–tone/movement problem reached Neurology in 2017: the GP expressly sought neurological opinion on the patient's gait, feet and muscle-tension issues, and Neurology then observed a striking footdrop-like lower-limb phenomenon it considered suggestive of dystonic posture rather than true foot drop. That same dystonic-looking gait was used affirmatively in the Parkinsonian diagnostic project, while the final synthesis placed the painful-foot/leg phenomena into an alternative branch in which they might be completely separate or secondary peripheral neuropathy and left the relationship `Not clear`. Thereafter the record repeatedly generated evidence crossing that separation: feet, gait and tension changed during procyclidine withdrawal; the treating neurologist later recorded rapid return of a focal outside-left-foot phenomenon; a later footdrop-like phenomenon was classified as Parkinsonian after directed distal testing; GP records re-related pain, gait and tone; later Neurology treated leg pain and shuffling as OFF-related; Sinemet was expressly recognised to relieve the feet from a pain perspective; and controlled-release Sinemet was introduced in the setting of severe morning foot pain. The presently available record demonstrates repeated local updating of particular foot phenomena; it does not presently demonstrate a corresponding global reconstruction of the original relationship among painful feet, dystonic/Parkinsonian lower-limb behaviour, structural mechanics, loading and neurological treatment state. That is the strongest presently established centre of the suspicion. The alleged Protest and unresolved document-authorship chronology may strengthen it substantially and may support a graver construction limb, but the suspicion does not need either proposition to survive at its narrower integration/stewardship core.
 
 ---
 
@@ -28,7 +32,11 @@ The apparent wrongs are best understood as stages of one mechanism:
 
 > **inadequate integration → documentary disposition/closure → loss or diffusion of ownership → failure adequately to reopen globally when crossing evidence accumulated → continuing stewardship of the resulting information state → later reliance on that accumulated state.**
 
-Premature documentary construction after the Protest may ultimately support a graver separate allegation if native authorship/version evidence establishes it. It should not presently displace the integration/stewardship case as the principal centre.
+The stronger documentary suspicion remains active:
+
+> **If native authorship/version evidence shows that consequential language or explanatory routing was introduced or materially reformulated after the Protest, the case may move from inadequately integrated closure to deliberate or knowing documentary construction of closure.**
+
+That graver limb remains under test. It is not displaced by the narrower integration/stewardship case merely because the latter is already better supported.
 
 ---
 
@@ -125,7 +133,7 @@ The later record does show genuine reassessment.
 
 Individual phenomena were reclassified; OFF relationships were considered; neuropathy and other causes were reconsidered; treatment was adjusted; mixed mechanisms were entertained.
 
-The case therefore is not that Neurology did nothing after 2017.
+The suspicion therefore should not be expressed as “Neurology did nothing after 2017.”
 
 The stronger proposition is:
 
@@ -159,7 +167,7 @@ That matters because the later history cannot be analysed only as downstream cli
 
 The originating clinician remained substantially involved while evidence accumulated that crossed the original explanatory separation.
 
-The case therefore becomes one of:
+The suspicion therefore becomes one of:
 
 > **continuing stewardship of a founding information state by a clinician with repeated opportunities to observe what later evidence did to it.**
 
@@ -186,7 +194,7 @@ The affirmative proposition is therefore limited but important:
 
 ---
 
-# 4. Ten evidential propositions that should carry the case
+# 4. Ten evidential propositions that should carry the suspicion
 
 ## 1. Integrated referral
 
@@ -252,7 +260,7 @@ The affirmative proposition is therefore limited but important:
 
 # 5. Cumulative inference
 
-The case should not be analysed by requiring every event independently to prove breach.
+The suspicion should not be tested by requiring every event independently to prove the entire case.
 
 Read cumulatively:
 
@@ -266,17 +274,17 @@ The reasonable cumulative inference is:
 
 # 6. The Protest and document-construction limb
 
-The alleged pre-discharge Protest is not required to establish the affirmative centre above.
+The alleged pre-discharge Protest is not required for the narrower integration/stewardship centre of the suspicion to survive.
 
-If accepted as historical fact, it materially strengthens the case by converting unfinished integration into a **decision-after-notice** problem immediately before closure.
+If accepted as historical fact, it materially strengthens the suspicion by converting unfinished integration into a **decision-after-notice** problem immediately before closure.
 
-The separate construction suspicion asks whether consequential wording — including `leg pain`, `burning`, possible secondary peripheral neuropathy, alcohol linkage and `Not clear` — already existed before the Protest or was first added or materially reformulated afterwards.
+The construction suspicion asks whether consequential wording — including `leg pain`, `burning`, possible secondary peripheral neuropathy, alcohol linkage and `Not clear` — already existed before the Protest or was first added or materially reformulated afterwards.
 
 That question is important because it may show not merely incomplete integration but post-notice documentary construction of the pathway by which the unresolved problem became portable.
 
 At present that graver limb remains dependent on native authorship/version/provenance evidence.
 
-It is therefore an aggravating or potentially independent documentary limb, not the load-bearing premise of the merits case.
+It remains active because the repository is governed by the suspicion. It is not discarded simply because the narrower case can already be argued without it.
 
 ---
 
@@ -306,18 +314,18 @@ Independent movement-disorders expertise is required to answer the medical duty 
 
 ---
 
-# 9. Controlling proposition
+# 9. Controlling suspicion
 
-> **An integrated painful-feet–gait–tone problem entered Neurology in 2017. Neurology identified the lower-limb abnormality as potentially dystonic and used that feature within the Parkinsonian diagnostic work-up, while the final specialist synthesis placed the painful-foot phenomena into a potentially separate structural/peripheral-neuropathy branch and left the relationship unresolved. The surviving record does not presently demonstrate the full relationship-directed clinical work by which that partition was established. Over the following years, the same treating system — and substantially the same originating neurologist — repeatedly encountered evidence crossing that partition: treatment-state foot change, a focal foot phenomenon rapidly returning during withdrawal, later Parkinsonian classification of a footdrop-like phenomenon, OFF-related pain/shuffling, Sinemet-related pain benefit and further dopaminergic responsiveness. Those observations produced repeated local reassessment and treatment, but the presently available record does not demonstrate a corresponding global reconstruction of the original relationship among neurological state, abnormal lower-limb posture/gait, structural mechanics, loading and pain. If independent expert evidence establishes that reasonable neurological care required such integration or reconstruction at one or more of those thresholds, that failure — not an allegation that every foot symptom was neurological or that the Parkinsonian diagnosis was wrong — is the central alleged breach.**
+> **An integrated painful-feet–gait–tone problem entered Neurology in 2017. Neurology identified the lower-limb abnormality as potentially dystonic and used that feature within the Parkinsonian diagnostic work-up, while the final specialist synthesis placed the painful-foot phenomena into a potentially separate structural/peripheral-neuropathy branch and left the relationship unresolved. The surviving record does not presently demonstrate the full relationship-directed clinical work by which that partition was established. Over the following years, the same treating system — and substantially the same originating neurologist — repeatedly encountered evidence crossing that partition: treatment-state foot change, a focal foot phenomenon rapidly returning during withdrawal, later Parkinsonian classification of a footdrop-like phenomenon, OFF-related pain/shuffling, Sinemet-related pain benefit and further dopaminergic responsiveness. Those observations produced repeated local reassessment and treatment, but the presently available record does not demonstrate a corresponding global reconstruction of the original relationship among neurological state, abnormal lower-limb posture/gait, structural mechanics, loading and pain. If independent expert evidence establishes that reasonable neurological care required such integration or reconstruction at one or more of those thresholds, that failure is the presently strongest established centre of the suspicion. If provenance evidence further establishes post-Protest documentary construction or material reformulation of the explanatory pathway, the suspicion becomes more serious rather than different in kind.**
 
 ---
 
 # 10. Reading next
 
-After this affirmative case:
+After this suspicion-led merits route:
 
 1. read `REPAIRED_CANONICAL_V2.md` and the focused source audits;
 2. read `80_DEFENCE_AND_LIMITATIONS.md` for the strongest genuine defence and what it actually rebuts;
 3. read `04_FINAL_EXPERT_QUESTION_REGISTER.md` for the expert-dependent medical questions;
 4. read `90_METHOD_EVIDENCE_AND_FALSIFICATION.md` for evidential controls and failure conditions;
-5. use `15_LIFE_OF_THE_SUSPICION_LEDGER.md` and `09_CASE_STUDY_DEVELOPMENT_LOG.md` as hypothesis-development history, not as the primary merits route.
+5. use `15_LIFE_OF_THE_SUSPICION_LEDGER.md` and `09_CASE_STUDY_DEVELOPMENT_LOG.md` to track how the suspicion changed under evidence, not to replace the suspicion with methodological neutrality.
