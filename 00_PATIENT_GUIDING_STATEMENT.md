@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This statement records the patient's experiential centre and personal reason for pursuing the case. It is not a substitute for the canonical clinical record and it does not decide diagnosis, breach or causation. Where it refers to events capable of objective verification, those propositions must be tested against `01_COMPLETE_RECORD_LEGAL_CANONICAL.md`.
+This statement records the patient's experiential centre and personal reason for pursuing the case. It is not a substitute for the canonical clinical record and it does not decide diagnosis, breach or causation. Where it refers to events capable of objective verification, those propositions must be tested against `REPAIRED_CANONICAL_V2.md`.
 
 Its purpose is simpler: to prevent the case from becoming so clinically elaborate that it loses sight of what the patient was actually seeking help for.
 

@@ -40,10 +40,25 @@
     .subtitle { margin: 0 0 28px; color: var(--muted); font-size: 1.05rem; }
     .notice {
       padding: 14px 16px;
-      margin: 0 0 28px;
+      margin: 0 0 20px;
       border: 1px solid var(--line);
       border-radius: 10px;
       background: var(--accent);
+    }
+    .start {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 0 0 28px;
+    }
+    .start a {
+      display: inline-block;
+      padding: 9px 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      text-decoration: none;
+      font-weight: 650;
     }
     .toolbar { display: flex; gap: 12px; margin: 0 0 18px; }
     input[type="search"] {
@@ -56,7 +71,7 @@
       display: block; padding: 14px 16px; border: 1px solid var(--line); border-radius: 10px;
       background: var(--panel); color: var(--text); text-decoration: none;
     }
-    .files a:hover, .files a:focus { border-color: var(--link); outline: none; }
+    .files a:hover, .files a:focus, .start a:hover, .start a:focus { border-color: var(--link); outline: none; }
     .name { font-weight: 700; overflow-wrap: anywhere; }
     .meta { display: block; margin-top: 3px; color: var(--muted); font-size: .9rem; }
     .status { color: var(--muted); margin-top: 18px; }
@@ -67,10 +82,17 @@
 <body>
   <main>
     <h1>Strong Formulation</h1>
-    <p class="subtitle">Legal repository — HTML reading index</p>
+    <p class="subtitle">Developing case study — legal and documentary repository</p>
 
     <div class="notice">
       This site is a reading layer over the repository. The Markdown/source record remains the controlling material; HTML rendering does not alter evidential status, wording, hierarchy, or provenance.
+    </div>
+
+    <div class="start" aria-label="Recommended starting documents">
+      <a href="viewer.html?file=README.md">Start with the current suspicion</a>
+      <a href="viewer.html?file=00_PATIENT_GUIDING_STATEMENT.md">Patient guiding statement</a>
+      <a href="viewer.html?file=01_CASE_STUDY_CHARTER.md">Case study charter</a>
+      <a href="viewer.html?file=REPAIRED_CANONICAL_V2.md">Working canonical record</a>
     </div>
 
     <div class="toolbar">
@@ -94,13 +116,20 @@
 
     const fallbackFiles = [
       '00_PATIENT_GUIDING_STATEMENT.md',
+      '01_CASE_STUDY_CHARTER.md',
       '02_CASE_THEORY_AND_ARGUMENT_VAULT.md',
       '03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md',
       '04_FINAL_EXPERT_QUESTION_REGISTER.md',
       '05_JULY_2017_FEET_ASSESSMENT_AND_DOCUMENTARY_DISPOSITION.md',
+      '06_TERMINOLOGY_PROVENANCE_AUDIT.md',
       '07_GPT_A_INTEGRATED_FORMULATION.md',
+      '08_THE_NEUROLOGY_NEUROPATHY_ILLUSION.md',
+      '09_CASE_STUDY_DEVELOPMENT_LOG.md',
+      '10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md',
       'README.md',
-      'REPAIRED_CANONICAL_V2.md'
+      'REPAIRED_CANONICAL_V2.md',
+      'THE_NEUROLOGY_NEUROPATHY_ILLUSION.md',
+      'suspicion.md'
     ];
 
     let documents = [];
