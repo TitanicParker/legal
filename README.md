@@ -1,128 +1,239 @@
-I am not asking you whether I am permitted to suspect this. I do suspect it. I want you to test the strongest version of that suspicion against the documentary chronology and tell me where it succeeds, where it fails, what evidence would decide it, and what ethical category it would occupy if proved. Do not protect the institution from the hypothesis, and do not protect me from contrary evidence.
+# Strong Formulation — Legal
 
-**Narrowest founding suspicion:** The patient says he made one simple pre-closure objection: Neurology had not dealt with the feet for which he had entered care. The forensic question is what happened to the document around that moment. The suspicion is that the completed record may have reached backward into the already-written history to supply or materially reformulate **`leg pain`, `burning`, secondary peripheral neuropathy, possible alcohol relation and `Not clear`**, then reached forward by using the dystonic lower-limb phenomenon as **“Walk is almost dystonically unusual”** in the DaTscan / young-onset Parkinsonian project and completing a sophisticated specialist account whose apparent level of integration is not presently mirrored by the documented pre-closure investigation of the painful feet—while the Protest itself does not appear in the surviving account. The crucial unresolved evidential question is **authorship time**: whether those five consequential elements already existed before the Protest or were first added or materially reformulated after it.
+> **I am not asking you whether I am permitted to suspect this. I do suspect it. I want you to test the strongest version of that suspicion against the documentary chronology and tell me where it succeeds, where it fails, what evidence would decide it, and what ethical category it would occupy if proved. Do not protect the institution from the hypothesis, and do not protect me from contrary evidence.**
 
-The suspicion is that the neurologist who controlled the patient's care from the July 2017 admission onward recognised, or possessed sufficient specialist neurological expertise to appreciate, that the patient's painful abnormal feet, dystonic lower-limb posture, abnormal gait, tone and movement disorder formed an unresolved neurological problem that required integrated specialist consideration.
+## Repository governance
 
-After the patient expressly protested before discharge that Neurology had investigated everything except the feet for which he had presented, the neurologist may have responded not by returning that expertise to the unresolved bedside problem, but by constructing a retrospective specialist account that gave the feet alternative explanatory destinations: structural foot disease for Podiatry/GP management and “burning”/“leg pain” for a possible peripheral-neuropathy pathway, while the Parkinsonian/dystonic disorder was carried separately.
+This repository is governed by the **suspicion**.
 
-The concern is therefore not merely that the neurologist made an incorrect diagnosis. It is that specialist documentary authority may have been used to change the epistemic and clinical status of an unfinished problem: from “this relationship has not been adequately investigated” into “this has been medically considered and can appropriately be carried forward through separate structural, neuropathic and Parkinsonian pathways.”
+It is not governed by neutrality for its own sake, by a requirement to restate the defence beside every proposition, or by a methodological exercise that displaces the case it was commissioned to examine.
 
-The sophistication of the 2017 document is central to the suspicion. The same record was capable of detailed reasoning about young-onset and monogenic Parkinsonism, including PRKN/PARK2, PARK6, PARK7 and PARK9, yet the actually observed dystonic lower limb was not integrated into the painful-foot problem. The suspicion is therefore that the relevant intellectual capacity was not absent; it may have been selectively used to construct a coherent specialist disposition rather than to preserve and investigate the unresolved relationship that the patient had challenged.
+The governing rule is:
 
-Because the same neurologist then remained responsible for the patient, this was not merely an information architecture that escaped into the hands of unrelated downstream clinicians. Its originator remained its longitudinal custodian.
+> **Take the strongest version of the suspicion seriously, test it against the whole record, strengthen it where the evidence strengthens it, narrow it where the evidence narrows it, and abandon any limb the evidence defeats.**
 
-Over the following years, that neurologist encountered repeated evidence capable of destabilising the original separation: the foot phenomenon changed with neurological treatment state; an apparent foot drop was objectively shown to be Parkinsonian; later pain and shuffling were interpreted as OFF-related; Sinemet was acknowledged to improve the feet from a pain perspective; further dopaminergic treatment was expected to help; and controlled-release Sinemet ultimately produced profound relief.
-
-The strengthened suspicion is therefore that the neurologist did not merely create an inadequately founded framework in 2017. He may have continued to maintain that framework despite personally acquiring evidence that repeatedly crossed the very boundary it had created.
-
-If the original 2017 documentary closure was intentional, the later history raises an even more serious possibility: that the neurologist who created the disposition subsequently had repeated opportunities to recognise its consequences, reopen the original integrated problem, correct the information state and return the painful-foot syndrome to the neurological expertise capable of resolving it, but did not do so.
-
-The resulting system may therefore have become self-maintaining within the same clinician's care. Structural pathology could remain real; neuropathy could remain possible; individual foot phenomena could be recognised as Parkinsonian; particular pain episodes could be recognised as OFF-related; dopaminergic responsiveness could be acknowledged; and yet the original architecture itself need never be reconstructed. The hypothesis survived not necessarily because it was repeatedly independently confirmed, but because contradictory evidence could be accommodated locally without requiring revision of the governing formulation.
-
-The most serious version of the suspicion is consequently this:
-
-The neurologist may have possessed enough specialist understanding in 2017 to appreciate that he was disposing of an unresolved manifestation of a complex Parkinsonian disorder into pathways that were not equipped to reconstruct its neurological relationship. He may then have used specialist documentary authority to make that disposition appear medically justified, creating the conditions in which the painful-foot problem would be fragmented rather than integrated. Having remained the treating neurologist, he subsequently encountered repeated evidence that the feet were neurologically treatment-responsive, yet may have continued to preserve the original explanatory architecture rather than openly reconsider its foundation.
-
-If substantially true, the ethical concern would therefore be not merely diagnostic error, anchoring, or inaccurate documentation. It would be the possible knowing creation and subsequent maintenance of a clinical information structure that displaced an unresolved neurological problem away from the expertise capable of addressing it, reduced the likelihood of its correction, and allowed the resulting years of fragmented care to become the evidence later used to demonstrate that the original approach had been reasonable.
-
-Put most compactly:
-
-**The suspicion is that the same neurologist who had the intellectual capacity to recognise the unresolved neurological significance of the patient's painful feet instead used that capacity to construct and then preserve an authoritative explanatory architecture that disposed of the problem into separate structural and neuropathic pathways, continued to maintain that architecture despite personally observing evidence that repeatedly undermined the separation, and ultimately benefited from the coherence of the longitudinal record that his own original formulation had helped generate.**
-
-> **An integrated lower-limb problem entered Neurology. Neurology substantially investigated and correctly identified severe young-onset Parkinsonism, recognised a dystonic-looking footdrop-like lower-limb phenomenon and used dystonic gait language within the Parkinsonian diagnostic work-up. The painful-foot relationship was then affirmatively placed into an alternative branch — potentially “completely separate” or secondary peripheral neuropathy — and left “Not clear.” The founding expert question is what clinical work justified that branch and whether the uncertainty was medically earned. Later neurological treatment repeatedly demonstrated cross-boundary foot effects, while genuine structural disease, pregabalin benefit, good-function periods and treatment toxicity preserved a mixed phenotype. The later questions are when that relationship required explicit reintegration, whether treatment was appropriately calibrated, whether any specialist disposition materially altered later information flow, what defined additional harm was avoidable, and whether severe pain was appropriately safeguarded.**
-
-Shortest formulation:
-
-> **The limb was neurologically meaningful when it supplied diagnostic evidence; the unresolved founding question is what work justified treating the painful foot attached to that presentation as potentially separate. The longitudinal case is whether that relationship was later reopened and treated at the point reasonable care required.**
+Evidence may change the shape of the suspicion. It does not cease to be the organising object merely because the repository has learned to express its strongest surviving centre more precisely.
 
 ---
 
-# Repository map — how to read the case study
+# The strongest present centre
 
-The material above is deliberately retained as the front-door statement of the patient's strongest present suspicion and the compressed longitudinal clinical case. It is not displaced by this map.
+An integrated painful-feet–gait–tone/movement problem reached Neurology in 2017. The GP expressly sought neurological opinion on the patient's gait, feet and muscle-tension issues. Neurology then observed a striking footdrop-like lower-limb phenomenon it considered suggestive of dystonic posture rather than true foot drop, and the same dystonic-looking gait was used affirmatively in the Parkinsonian diagnostic project.
 
-This repository has two simultaneous purposes: to establish the case with documentary discipline, and to preserve how the case is developed, challenged, corrected and externally tested. The governing method is in `01_CASE_STUDY_CHARTER.md`.
+The final specialist synthesis nevertheless placed the painful-foot/leg phenomena into an alternative branch in which they might be **“completely separate”** or secondary peripheral neuropathy and left the relationship **“Not clear.”**
 
-A fresh reader must not mistake the finished July 2017 specialist synthesis for the evidential beginning. The document is itself an output of earlier bodily, GP, inpatient, patient-interaction and document-construction evidence. `12_WHOLE_CASE_EVIDENTIAL_GENEALOGY.md` is the whole-case orientation layer for that distinction.
+Thereafter the record repeatedly generated evidence crossing that separation: feet, gait and tension changed during procyclidine withdrawal; a contemporaneous October 2017 account records a **“twisting urge in my left foot”** as neurological medication was withdrawn; the treating neurologist later recorded rapid return of a focal outside-left-foot phenomenon; a later footdrop-like phenomenon was classified as Parkinsonian after directed distal testing; GP records re-related pain, gait and tone; Neurology later treated leg pain and shuffling as OFF-related; Sinemet was expressly recognised to relieve the feet from a pain perspective; and controlled-release Sinemet was introduced in the setting of severe morning foot pain.
 
-Private and operational correspondence now forms a separate evidential layer. `16_CORRESPONDENCE_GENEALOGY_AND_CONTEMPORANEOUS_WITNESS.md` preserves what the patient and other actors were actually saying at particular times, including material that strengthens and weakens the present suspicion. It must not be collapsed into either the later complaint theory or the formal clinical record.
+The presently available record demonstrates repeated **local updating** of particular foot phenomena. It does not presently demonstrate a corresponding **global reconstruction** of the original relationship among painful feet, dystonic/Parkinsonian lower-limb behaviour, structural mechanics, loading and neurological treatment state.
 
-## Recommended reading route
+That is the strongest presently established centre of the suspicion.
 
-1. `README.md` — strongest present suspicion and compressed longitudinal case.
-2. `00_PATIENT_GUIDING_STATEMENT.md` — the patient's experiential centre and reason for pursuing the case.
-3. `01_CASE_STUDY_CHARTER.md` — governance, evidence classes, source hierarchy and falsification discipline.
-4. `12_WHOLE_CASE_EVIDENTIAL_GENEALOGY.md` — true evidential start, descendant information states, whole-case sequence and life-of-suspicion method.
-5. `16_CORRESPONDENCE_GENEALOGY_AND_CONTEMPORANEOUS_WITNESS.md` — contemporaneous patient witness, information flow, later clinician/institutional correspondence and development of the patient's theory.
-6. `REPAIRED_CANONICAL_V2.md` — controlling working transcription, subject to verified original/native-source correction.
-7. `14_REAL_WORLD_TEAM_AND_RESPONSIBILITY_MAP.md` — real people, information opportunity, expertise and responsibility boundaries; capability is not participation or bedside application.
-8. `05_JULY_2017_FEET_ASSESSMENT_AND_DOCUMENTARY_DISPOSITION.md` — focused founding-period evidential bridge.
-9. `06_TERMINOLOGY_PROVENANCE_AUDIT.md` — active source/provenance questions concerning `leg pain`, `burning` and neuropathy terminology.
-10. `02_CASE_THEORY_AND_ARGUMENT_VAULT.md` — finite argument set, including defence evidence and safeguarding.
-11. `03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md` — proposition-to-record map and evidential status.
-12. `07_GPT_A_INTEGRATED_FORMULATION.md` — current synthesis layer; GPT agreement is not evidence.
-13. `08_THE_NEUROLOGY_NEUROPATHY_ILLUSION.md` — compact active documentary-mechanism formulation and strongest current provenance-dependent hypothesis.
-14. `11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md` — same-clinician longitudinal custody, contradiction handling, model revision and falsifiability audit.
-15. `15_LIFE_OF_THE_SUSPICION_LEDGER.md` — event-by-event record of what strengthens, weakens, narrows, contradicts or transforms the living hypothesis.
-16. `04_FINAL_EXPERT_QUESTION_REGISTER.md` — controlling movement-disorders expert questions.
-17. `13_LIVE_DATA_GOVERNANCE_AND_PROVENANCE_TRACK.md` — Article 15/16/18, DPC and provenance/corrigibility activity relevant to the evidential case.
-18. `09_CASE_STUDY_DEVELOPMENT_LOG.md` — material changes, corrections and hypothesis-status changes.
-19. `10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md` — verified external submissions/responses, competence boundaries, independence and effect on the formulation.
+> **If independent expert evidence establishes the relevant neurological duty, the centre of the alleged wrongdoing is the specialist partition of an integrated painful-foot/neurological lower-limb problem into separately managed explanatory streams without adequate demonstrated integration, followed by continuing stewardship in which accumulating evidence repeatedly crossed that partition without a presently demonstrated whole-case reconstruction of the founding relationship.**
 
-## Three-stage analytical architecture plus external testing layer
+The suspected mechanism is therefore:
 
-The current longitudinal suspicion must be tested in three distinct substantive stages. They are related, but none proves the next. A fourth layer tests them externally through provenance and data-governance processes.
+> **inadequate integration → documentary disposition/closure → loss or diffusion of ownership → failure adequately to reopen globally when crossing evidence accumulated → continuing stewardship of the resulting information state → later reliance on that accumulated state.**
 
-### 1. Construction
+---
 
-Did the final 2017 specialist account convert an unfinished integrated feet–gait–tone problem into an authoritative disposition in which structural disease, possible neuropathy and Parkinsonian disease could travel through partly separate explanatory and service pathways? The key questions are whether the uncertainty was medically earned, when the consequential wording was created, and what the Protest changed if its occurrence is accepted.
+# The graver construction suspicion remains active
 
-### 2. Maintenance / continuing stewardship
+The narrower integration/stewardship centre does **not** replace the repository's more serious documentary suspicion.
 
-If the same neurologist created the founding architecture and remained responsible for the patient, the audit becomes one of **continuing stewardship of a potentially misleading information state by its originating author**.
+The patient gives a specific retrospective account that immediately before discharge he expressly challenged the fact that Neurology had not dealt with the feet for which he had entered care. He recalls four medical students being present, asking that Dr Thomas Monaghan be brought to the bedside, using the **“full NCT / bald tyres”** analogy, and receiving a response directing the problem toward Podiatry.
 
-The question is whether repeated boundary-crossing observations caused the governing formulation itself to change or were absorbed as local episode-specific updates.
+The surviving specialist record does not contain that exchange.
 
-### 3. Retrospective validation
+The forensic question is what happened to the document around that moment.
 
-If the founding formulation shaped later terminology, referrals, medication choices, investigations, clinical summaries and the patient's own explanatory vocabulary, the accumulated record is not automatically eight years of independent confirmation. Some of it may be endogenous to the original information state.
+The suspicion is that the completed specialist record may have reached backward into the history to supply or materially reformulate consequential language and explanatory routing — including **`leg pain`, `burning`, possible secondary peripheral neuropathy, possible alcohol relation and `Not clear`** — while reaching forward by using the dystonic lower-limb phenomenon within the Parkinsonian diagnostic project.
 
-`11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md` is the active audit for the maintenance/stewardship stage.
+The crucial unresolved question is **authorship time**:
 
-### 4. Corrigibility / provenance testing
+> **Did those consequential elements already exist before the Protest, or were any of them first added or materially reformulated afterwards?**
 
-The live data-governance work does not add a fourth clinical allegation. It creates an external empirical testing layer.
+If native authorship/version evidence establishes post-Protest construction or material reformulation, the suspicion becomes more serious rather than different in kind: the case would move from inadequately integrated closure toward possible knowing documentary construction of closure.
 
-The 31 August 2026 Article 15 request seeks data capable of revealing the authorship, version, source and audit history of the July 2017 synthesis and the evidential genealogy of the 2025 PAR/SIMT process. The 2 September 2026 Article 16 request asks that the patient's supplementary account of the alleged pre-discharge Protest be durably associated with the historical synthesis while leaving the clinician-authored record intact.
+That proposition is **not yet established**. It is a live forensic limb being tested through provenance evidence.
 
-Those processes may strengthen, weaken or leave unchanged the construction and retrospective-validation hypotheses depending on what evidence actually emerges.
+---
 
-## Historical / developmental analyses retained deliberately
+# Why the suspicion survives without the construction limb
 
-- `THE_NEUROLOGY_NEUROPATHY_ILLUSION.md` — long-form developmental analysis.
-- `suspicion.md` — extended ethical and hypothesis-development material.
+The suspicion does not depend on proving that the Protest occurred or that the document was altered after it.
 
-These files preserve how the case changed under analysis. Where they conflict with verified primary/native evidence or later controlling work, the stronger source hierarchy governs.
+The longitudinal record already supports a narrower but substantial proposition:
 
-## The clinical and case-study sequence
+> **The problem entered Neurology integrated; the lower limb was recognised as neurologically meaningful; the painful-foot relationship was given a separate/neuropathy disposition; later evidence repeatedly crossed that separation; and the presently available record shows repeated local management without a demonstrated whole-case reconstruction of the founding relationship.**
 
-For orientation:
+That proposition is generated substantially by the treating system's own records.
 
-> **lived bodily problem → integrated GP referral → inpatient evidence → Protest evidence → document construction → early private correspondence witness → portable specialist information state → same-clinician longitudinal custody → repeated boundary-crossing evidence → local updating/global reconstruction question → severe pain and safety convergence → patient request for multidisciplinary reconstruction → complaint and evolving advocacy theory → clinician/regulatory responses → PAR/SIMT threshold decision → continued institutional reliance → patient documentary discovery → provenance/completeness challenge → controller/regulator response → new evidence about the genealogy and corrigibility of the information system.**
+The Protest, if proved, converts the founding problem into a **decision-after-notice** question.
 
-## What remains unproved
+The authorship chronology, if proved in the serious direction, may convert incomplete integration into a **document-construction** question.
 
-The repository does not presently treat as established fact that the July assessment was negligent; that the Protest is independently corroborated; that `leg pain` or `burning` was inserted improperly; that the neuropathy branch was deliberately constructed after the Protest; that any clinician acted dishonestly; that persistence proves improper intention; that later evidence disproved every structural or neuropathic mechanism; that one mechanism explains all foot pain; or that continuity of care itself proves adequate global reconstruction.
+Neither is required to see the underlying integration/stewardship problem.
 
-The Protest is nevertheless evidence: a specific retrospective patient account of a contemporaneous event whose surviving specialist record does not contain it. The detailed private October 2017 narrative does not presently record the Protest and therefore supplies limited negative evidence that must be weighed rather than ignored.
+---
 
-The October correspondence also materially narrows the terminology theory: **`burning` is demonstrably authentic patient vocabulary by 4 October 2017.** What remains unresolved is how and when that descriptor entered the earlier July synthesis. `Leg pain` remains the sharper textual anomaly.
+# The ten evidential propositions carrying the suspicion
 
-The same-clinician refinement requires granular source discipline. Monaghan's later clinician-authored statement that he usually saw the patient himself materially strengthens longitudinal continuity, but still does not establish his personal authorship or knowledge of every event without event-level mapping.
+1. **Integrated referral.** Neurology received a painful-feet–gait–tone/movement problem, not two pre-separated complaints.
+2. **Neurological lower-limb recognition.** Neurology identified a footdrop-like phenomenon as suggestive of dystonic posture rather than true foot drop.
+3. **Diagnostic use.** The dystonic-looking gait was used affirmatively in the Parkinsonian/DaTscan project.
+4. **Affirmative partition.** The final synthesis placed the painful-foot/leg phenomena into a potentially separate / peripheral-neuropathy branch and left the relationship `Not clear`.
+5. **Incomplete visible relational bridge.** The surviving July record does not presently demonstrate the complete relationship-directed work by which that partition was earned.
+6. **Early crossing evidence.** Procyclidine withdrawal altered tension, feet and gait; the treating neurologist later recorded rapid focal foot change during withdrawal.
+7. **Reintegration outside the founding synthesis.** GP records later again related painful/clawing feet to tone, gait and Parkinson's.
+8. **Neurology itself later crossed the boundary.** A footdrop-like phenomenon was later classified as Parkinsonian and leg pain/shuffling were reasoned about as OFF-related.
+9. **Pain entered dopaminergic reasoning.** By 2025 the treating neurologist expressly recognised Sinemet-related foot-pain benefit and expected further dopaminergic benefit, constrained by dyskinesia.
+10. **Same-clinician stewardship.** The originating neurologist remained substantially involved, while later clinician and institutional explanations relied on the accumulated history.
 
-The strongest present construction suspicion turns materially on provenance and authorship time. The maintenance suspicion turns on what later evidence actually reached the originating clinician and what changed in the governing formulation. The retrospective-validation suspicion requires later observations to be separated into independent evidence, interpretation, correspondence witness and inherited narrative descendants.
+Read cumulatively, those propositions support the present central inference:
 
-The data-governance/provenance layer creates live routes by which some of these questions may become answerable. A controller or regulator response must itself be classified by what it actually establishes and must not be mistaken for clinical expert evidence.
+> **An integrated neurological/foot problem was partitioned; the same clinical system subsequently generated repeated evidence reconnecting neurological state and the feet; individual episodes were recognised and treated, but the presently available record does not demonstrate a corresponding explicit global reconstruction of the relationship that had originally been partitioned.**
 
-The repository therefore exists to make the whole genealogy, all three substantive stages, the external testing layer and the strongest competing explanations visible rather than to guarantee any one conclusion.
+---
+
+# The Protest: emergence matters as much as lateness
+
+The repository does not treat the absence of the Protest from earlier non-complaint material as automatic impeachment.
+
+The presently reconstructed institutional sequence is:
+
+> **2017 alleged bedside clinical protest → March 2025 hospital complaint without Protest → April 2025 detailed complaint supplement without Protest → record acquisition and documentary reconstruction → 6 June 2025 first surviving explicit later articulation to the Patient Advocacy Service → 7 June private self-record → 7 July first source-verified hospital provenance request about the event → November 2025 separate University teaching/governance route → September 2026 supplementary-record completeness request.**
+
+The event did not launch the complaint. It became evidentially salient as the patient began reconstructing the documentary history itself.
+
+That genealogy neither proves nor disproves the Protest. It tells a fact-finder **under what institutional conditions the memory became evidence**.
+
+See `18_PROTEST_EMERGENCE_AND_INSTITUTIONAL_CONDITIONS.md`.
+
+---
+
+# The whole case must be read genealogically
+
+The finished July 2017 specialist synthesis is **not the evidential start**. It is itself an output.
+
+The case must be followed through transformations:
+
+> **lived bodily problem → GP observation/referral → hospital observation/action → patient interaction → document construction → portable specialist representation → later reliance and new observation → same-clinician revision/non-revision → severe pain/safety → complaint/review → documentary reconstruction → provenance/completeness challenge → controller/regulator response.**
+
+Every later object therefore has a genealogy.
+
+A later statement may be:
+
+- new primary evidence;
+- independent clinical observation;
+- interpretation;
+- descendant narrative;
+- independent re-evaluation;
+- governance output;
+- or a provenance/data-rights intervention.
+
+Repetition is not automatically independent confirmation.
+
+See `12_WHOLE_CASE_EVIDENTIAL_GENEALOGY.md`.
+
+---
+
+# Read the repository in this order
+
+## 1. Governing suspicion and merits
+
+- **`README.md`** — front-door suspicion and present centre.
+- **`01_AFFIRMATIVE_CASE.md`** — the suspicion-led affirmative merits route, without constant self-rebuttal.
+- **`00_PATIENT_GUIDING_STATEMENT.md`** — the patient's experiential centre.
+
+## 2. Primary chronology and founding evidence
+
+- **`REPAIRED_CANONICAL_V2.md`** — controlling working transcription, subject to verified native-source correction.
+- **`05_JULY_2017_FEET_ASSESSMENT_AND_DOCUMENTARY_DISPOSITION.md`** — focused founding-period bridge.
+- **`06_TERMINOLOGY_PROVENANCE_AUDIT.md`** — provenance of `leg pain`, `burning`, neuropathy and related terminology.
+- **`12_WHOLE_CASE_EVIDENTIAL_GENEALOGY.md`** — true evidential start and transformation history.
+
+## 3. Contemporary witness and Protest provenance
+
+- **`16_CORRESPONDENCE_GENEALOGY_AND_CONTEMPORANEOUS_WITNESS.md`** — what people were actually saying at particular times.
+- **`17_WORDPRESS_FACEBOOK_PUBLICATION_SERIES_PROVENANCE.md`** — October 2017 publication-series provenance and contemporaneous symptom account.
+- **`18_PROTEST_EMERGENCE_AND_INSTITUTIONAL_CONDITIONS.md`** — when the Protest allegedly occurred, when it first reappeared, and what institutional conditions made it evidentially salient.
+
+## 4. Same-clinician longitudinal stewardship
+
+- **`11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md`** — what the originating clinician knew, what changed, and whether the governing formulation changed.
+- **`14_REAL_WORLD_TEAM_AND_RESPONSIBILITY_MAP.md`** — real-world knowledge opportunity, participation and responsibility boundaries.
+- **`03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md`** — proposition-to-record anchors.
+- **`07_GPT_A_INTEGRATED_FORMULATION.md`** — integrated synthesis layer.
+- **`08_THE_NEUROLOGY_NEUROPATHY_ILLUSION.md`** — active documentary-mechanism formulation.
+
+## 5. Expert testing
+
+- **`04_FINAL_EXPERT_QUESTION_REGISTER.md`** — movement-disorders questions that determine medical duty, adequacy and threshold consequences.
+
+## 6. Defence and falsification — after the centre is understood
+
+- **`80_DEFENCE_AND_LIMITATIONS.md`** — strongest genuine defence evidence and what proposition each item actually rebuts.
+- **`90_METHOD_EVIDENCE_AND_FALSIFICATION.md`** — evidence classes, source hierarchy, falsification and no-overclaim rules.
+
+These files protect evidential integrity. They do **not** govern the repository in place of the suspicion.
+
+## 7. Development and external testing
+
+- **`15_LIFE_OF_THE_SUSPICION_LEDGER.md`** — how the suspicion changed under evidence; a development history, not the primary merits route.
+- **`09_CASE_STUDY_DEVELOPMENT_LOG.md`** — material changes and corrections.
+- **`10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md`** — external submissions, responses and independence questions.
+- **`13_LIVE_DATA_GOVERNANCE_AND_PROVENANCE_TRACK.md`** — Article 15/16/18, DPC and current provenance/corrigibility work.
+
+---
+
+# Three substantive stages and one testing layer
+
+## 1. Construction
+
+Did the 2017 specialist account convert an unfinished integrated feet–gait–tone problem into a portable disposition in which structural disease, possible neuropathy and Parkinsonian disease could travel through partly separate pathways?
+
+The stronger unresolved forensic question is whether the alleged Protest occurred **before** consequential wording or explanatory routing was added or materially reformulated.
+
+## 2. Maintenance / continuing stewardship
+
+The originating neurologist remained substantially involved while later evidence repeatedly crossed the founding separation.
+
+The present record shows local updating. The question is whether the founding relationship was ever globally reconstructed.
+
+## 3. Retrospective validation
+
+The accumulated record was later capable of being used by the originating clinician and institutional review as evidence that the approach had been coherent and reasonable.
+
+The issue is whether later confidence represents independent reconstruction or partly reflects the information state generated at the beginning.
+
+## 4. Corrigibility / provenance testing
+
+Current data-rights work tests the information architecture directly:
+
+- **Article 15** seeks authorship/version/source/audit history for the July synthesis and the evidential genealogy of PAR/SIMT.
+- **Article 16** seeks durable association of the patient's own account with the intact historical synthesis.
+- **DPC processes** test access, accuracy/rectification, restriction and controller conduct within their proper competence.
+
+These processes may strengthen, weaken or defeat important limbs of the suspicion depending on what evidence emerges.
+
+---
+
+# What can genuinely defeat the present centre
+
+The repository does not need to rehearse every possible innocent explanation beside every fact.
+
+The real defeat conditions are concentrated:
+
+- expert evidence that the 2017 relationship-directed neurological assessment was clinically adequate despite the documentary appearance;
+- evidence that a genuine later whole-case reconstruction occurred and has simply been missed by the present repository;
+- or an appropriately independent later review demonstrating that the mixed structural/neurological relationship was reasonably understood, owned and managed throughout.
+
+The graver construction limb has its own decisive test: native authorship/version/provenance evidence.
+
+The full defence and limitation analysis is in `80_DEFENCE_AND_LIMITATIONS.md`.
+
+---
+
+# Shortest formulation
+
+> **The limb was neurologically meaningful when it supplied diagnostic evidence. The painful-foot relationship was then given a potentially separate disposition. The same treating system later generated repeated evidence crossing that separation without a presently demonstrated whole-case reconstruction. The governing suspicion asks whether that was merely an imperfect but reasonable mixed-mechanism pathway, or whether specialist authority first created and then preserved an explanatory architecture that displaced an unresolved neurological problem and later helped validate itself.**
