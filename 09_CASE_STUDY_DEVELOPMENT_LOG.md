@@ -96,6 +96,47 @@ The governing standard is:
 
 ---
 
+## 11 September 2026 — whole-case evidential genealogy becomes a required orientation layer
+
+**Trigger:** recognition that the case cannot responsibly be understood by beginning with the finished July 2017 specialist synthesis, because that synthesis is itself a downstream output of earlier bodily, GP, inpatient, patient-interaction and document-construction evidence.
+
+**Change:** added `12_WHOLE_CASE_EVIDENTIAL_GENEALOGY.md`.
+
+**New governing rule:** **The final specialist record is not the start of the case. It is itself an output.** Every material later item should be classified by whether it is primary patient-state evidence, independent clinical observation, interpretive proposition, documentary output, descendant narrative statement, independent re-evaluation, governance/review output or data-rights/provenance intervention.
+
+**Analytical consequence:** the repository is now required to distinguish the true evidential start from the later documentary object that may have functioned as the apparent start for downstream readers. This prevents later repetition from being miscounted as independent corroboration and makes the life of the suspicion visible as new evidence enters the world.
+
+**Life-of-suspicion rule:** at every material threshold ask what the suspicion looked like immediately before the event, what the event strengthens or weakens, what innocent explanation it preserves, what proposition should lose confidence, and whether the response was local updating or global reconstruction.
+
+**Effect on controlling formulation:** method strengthened and broadened; no underlying allegation promoted in evidential status.
+
+---
+
+## 11 September 2026 — live GDPR/DPC activity becomes an evidential testing layer
+
+**Trigger/source:** live Gmail review of recent hospital DPO and Data Protection Commission activity, including the 31 August 2026 Article 15 provenance request, 2 September 2026 Article 16 supplementary-statement request, 31 August DPC procedural response, and 8 September transfer of a separate University of Galway complaint to CAERU.
+
+**Change:** added `13_LIVE_DATA_GOVERNANCE_AND_PROVENANCE_TRACK.md` and backfilled `10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md` with current verified data-governance/external-review activity.
+
+**Key distinction:** the new Article 15 and Article 16 requests do different evidential work.
+
+- Article 15 asks **what the historical information objects were made from**: authorship, source, versions, audit history, finalisation, distribution, and the evidential genealogy of the 2025 PAR/SIMT review.
+- Article 16 asks **what information should accompany the historical synthesis now**: preservation of the original clinician-authored record alongside a durable supplementary patient account of the alleged pre-discharge Protest.
+
+**Protest status:** the 2 September supplementary statement particularises the patient's retrospective evidence of the alleged 10 July 2017 interaction, including the claimed presence of four medical students and the NCT/bald-tyres exchange. It remains patient evidence of a disputed historical event, not contemporaneous documentary proof.
+
+**Regulatory separation:** HSE/GUH controller activity, DPC complaint C-25-7-2074 and the separate University of Galway complaint DPC0826812075 must not be collapsed into one process.
+
+**What strengthened or weakened:** no underlying clinical allegation is proved by the existence of the requests. The case becomes more externally testable because the construction and retrospective-validation limbs now have live evidence-acquisition routes. The Article 16 process also creates an empirical test of documentary corrigibility/completeness.
+
+**What remains unresolved:** whether responsive July 2017 version/audit data exist; what the controller will disclose; whether PAR/SIMT independently reconstructed the founding evidence; whether the supplementary statement will be durably associated with the historical synthesis; the legal merits of the respective GDPR positions.
+
+**Effect on controlling formulation:** expanded from construction → maintenance → retrospective validation to include **corrigibility/provenance testing** as an external empirical layer. This is a testing mechanism, not a fourth allegation.
+
+**Related submission/response:** see `10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md` and `13_LIVE_DATA_GOVERNANCE_AND_PROVENANCE_TRACK.md`.
+
+---
+
 ## Entry template
 
 ### YYYY-MM-DD — short description
