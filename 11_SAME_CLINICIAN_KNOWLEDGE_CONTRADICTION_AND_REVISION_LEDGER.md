@@ -2,241 +2,265 @@
 
 ## Status and purpose
 
-**Active longitudinal audit.** This document tests the significance of the current case premise that the same treating neurologist remained centrally involved across the relevant longitudinal sequence.
+**Active longitudinal audit.**
 
-That premise must be source-checked against the canonical record for each event before it is treated as a documentary fact. Where a later observation or decision was made by another clinician, the ledger must say so rather than forcing continuity.
+The same-clinician continuity premise is now materially stronger than when this ledger was first created.
 
-If same-clinician continuity is verified, the explanatory centre of the case changes materially. Persistence can no longer be explained mainly through handover, copied assumptions, fragmented responsibility or later clinicians innocently trusting another specialist's judgment.
+In his 29 July 2025 Medical Council response, Dr Thomas Monaghan gives a longitudinal account of the patient's care and states that he **usually saw the patient himself** over the relevant years. That is direct clinician evidence of substantial continuity.
 
-The controlling question becomes:
+It does **not** prove that Monaghan personally authored, observed or received every later item at the time it arose. Event-level knowledge and authorship still require source mapping.
+
+The controlling question is:
 
 > **What did this neurologist know at each stage, what did he do with that knowledge, and what evidence—if any—was capable of making him revise the architecture he himself had created?**
 
-This does not prove anchoring, bad faith, concealment, dishonesty or intentional documentary closure. It creates a more exact way to test them.
+This does not prove anchoring, bad faith, concealment, dishonesty or intentional documentary closure.
 
 ---
 
 # 1. Reconstruct knowledge state, not merely chronology
 
-For every significant threshold, identify separately:
+For every significant threshold identify separately:
 
-- what the neurologist personally knew by that date;
+- what Monaghan personally knew by that date;
 - what he personally observed;
 - what the patient told him;
-- what he had previously written;
-- what treatment responses he had already witnessed or had reported to him;
-- what interpretations he had already adopted;
-- what unresolved question was therefore before him;
+- what he had previously written or approved;
+- what treatment responses he had witnessed or had reported to him;
+- what interpretations he had adopted;
+- what unresolved question was before him;
 - what new evidence arrived;
 - what proposition, if any, lost confidence;
-- what changed in examination, diagnosis, treatment, documentation or follow-up as a result.
+- what changed in examination, diagnosis, treatment, documentation or follow-up.
 
-The unit of analysis is therefore not simply:
+The unit of analysis is:
 
-> **2017 admission → 2020 review → 2023 pain → 2025 treatment**
-
-but:
-
-> **By date X, the same clinician knew A + B + C. What conclusion did he draw, and what did he reconsider?**
+> **By date X, what did the same clinician actually know, from what source, and what did he reconsider?**
 
 ---
 
 # 2. Founding 2017 architecture
 
-The 2017 reconstruction must remain unusually precise.
+Track with unusual precision:
 
-Track:
-
-1. the patient's original integrated painful-feet–gait–tone problem;
-2. the observed dystonic-looking lower-limb abnormality;
-3. what distal neurological examination is affirmatively documented;
-4. the patient's recorded distinction between foot pain and leg tension;
+1. original integrated painful-feet–gait–tone problem;
+2. observed dystonic-looking lower-limb abnormality;
+3. documented distal neurological examination;
+4. patient's recorded distinction between foot pain and leg tension;
 5. when `leg pain` first appeared;
 6. when `burning` first appeared;
 7. when possible peripheral neuropathy became an explanatory branch;
-8. what clinical evidence supported that branch;
-9. the Protest, if proved, and its timing;
-10. what changed in the documentary account before and after the Protest;
-11. when the high-resolution PRKN/PARK2/PARK6/PARK7/PARK9 reasoning was written;
+8. what evidence supported that branch;
+9. the patient's later evidence of the Protest and its timing;
+10. what changed in the documentary account before and after that alleged event;
+11. when high-resolution PRKN/PARK2/PARK6/PARK7/PARK9 reasoning was written;
 12. who authored or amended each consequential part of the final synthesis.
 
-The specialist sophistication of the final account matters here as a capability comparator, but not because sophistication proves intent.
+### Correspondence correction
 
-The specific audit question is:
+A private 4 October 2017 email now proves that `burning` was genuinely part of the patient's own vocabulary by that date. That materially weakens any theory that `burning` could only have been clinician-generated.
 
-> **What work was the clinician's intellect doing in the final document, and what problem was that work solving?**
+It does not answer how the same descriptor entered the earlier July synthesis.
 
-Was it returning specialist capacity to the unresolved feet–gait–tone relationship, or was it primarily producing a coherent specialist disposition while that relationship remained insufficiently resolved? The answer is evidential and expert-dependent.
+The October narrative also does not presently record the alleged Protest. That omission is limited negative evidence which must be weighed rather than ignored.
 
----
+The founding audit is therefore narrower:
 
-# 3. Contradiction-and-revision ledger
-
-Every later observation capable of challenging the founding separation must be placed against the clinician's response.
-
-| Threshold | Potentially architecture-changing evidence | What the clinician then knew | What proposition should be tested for loss of confidence | What changed in the model? | Source status |
-|---|---|---|---|---|---|
-| Oct 2017 | Procyclidine withdrawal: tension building + feet restless + walk deteriorating | Founding July disposition + early treatment response | Feet can remain treated as substantially separate from neurological treatment state | To be reconstructed | Canonical source check required |
-| Apr 2018 | Rapid return of outside-left-foot phenomenon during withdrawal | Founding disposition + withdrawal co-variation | Original foot/neurological relationship may require reopening | To be reconstructed | Canonical source check required |
-| 2020 | Foot-throw/footdrop-like appearance examined with normal dorsiflexion, plantarflexion, inversion and eversion and classified as Parkinsonian | Prior foot history + treatment-state evidence | Similar lower-limb appearances may be Parkinsonian rather than peripheral weakness | To be reconstructed | Canonical source check required |
-| 2023 | Severe pain/shuffling interpreted as OFF-related; OFF/dystonia reasoning appears | Prior treatment-state evidence + later foot findings | Neurological state may materially contribute to painful lower-limb episodes | To be reconstructed | Canonical source check required |
-| 2025 | Sinemet acknowledged to improve feet/pain; more Sinemet expected to help but constrained by dyskinesia | Earlier anticholinergic response + OFF reasoning | Pain must be integrated into dopaminergic treatment planning | To be reconstructed | Canonical source check required |
-| 2025 CR | Profound relief after Sinemet CR | Full prior chronology | Earlier explanatory weighting and treatment calibration may require retrospective reconsideration | To be reconstructed | Canonical source check required |
-
-For each row the key question is:
-
-> **What proposition lost confidence because of this evidence?**
-
-If the answer is repeatedly **none**, that becomes a material finding about the process of revision—not proof of intent, but evidence relevant to whether the model was genuinely being tested.
+> **What work justified the July separation, when did the consequential wording enter the document, and what did the clinician know at the point of closure?**
 
 ---
 
-# 4. Falsifiability test
+# 3. Specialist consultation in 2017 — participation is now partly source-verified
 
-The most important model-level question is:
+Monaghan's 2025 Medical Council response states that the patient's case was discussed at the Neurology Department weekly **Complex Case** meeting and that Prof Timothy Counihan advised him, particularly regarding caution with levodopa in a very young patient.
+
+Monaghan also says Counihan had no further formal or informal management involvement.
+
+Counihan's own April/May 2025 letter says **“As I have not been involved in your care…”** and forwards the complaint to Monaghan.
+
+The disciplined reading is:
+
+- relevant specialist capability existed;
+- according to Monaghan, specialist advice entered this patient's case;
+- ongoing Counihan management is not established and is positively disclaimed in the later accounts;
+- bedside application of that expertise to the unresolved painful-foot/dystonic lower-limb relationship remains unproved.
+
+Thus the return-loop question becomes more concrete:
+
+> **After specialist expertise entered the case, did it return to the body and test the unresolved feet–gait relationship?**
+
+---
+
+# 4. Contradiction-and-revision ledger
+
+| Threshold | Potentially architecture-changing evidence | Knowledge/source question | Proposition to test for loss of confidence | Current significance |
+|---|---|---|---|---|
+| Oct 2017 | Procyclidine withdrawal: tension building + feet restless + walk deteriorating | Patient reported directly in contemporaneous private communication; determine what reached Monaghan contemporaneously | Feet can remain substantially separate from neurological treatment state | Early reopening pressure |
+| Apr 2018 | Rapid return of outside-left-foot phenomenon during withdrawal | Recorded by treating neurologist | Original foot/neurological relationship may require reopening | Strong same-clinician threshold |
+| 2020 | Footdrop-like appearance with normal distal power classified as Parkinsonian | Treating Neurology record; identify personal author/examiner | Similar lower-limb phenomena may be neurological rather than peripheral weakness | Directed discrimination occurs |
+| 2023 | Severe pain/shuffling interpreted as OFF-related; OFF/dystonia reasoning | Identify which observations Monaghan personally saw/received | Neurological state may materially contribute to painful lower-limb episodes | Local/global revision question |
+| 2025 | Sinemet acknowledged to improve feet/pain; more expected to help but dyskinesia constrains | Treating service / later Monaghan explanation | Pain must be integrated into dopaminergic planning | Neurological relevance explicit |
+| 2025 CR | Marked relief after controlled-release Sinemet | CR was already prescribed within treating plan before later complaint theory hardened | Earlier explanatory weighting may require reconsideration | Strong challenge, not single-mechanism proof |
+
+For every row:
+
+> **What proposition actually lost confidence because of this evidence?**
+
+If the answer is repeatedly **none**, that becomes evidence about the process of revision—not proof of intent, but relevant to effective falsifiability.
+
+---
+
+# 5. Important counterweights from contemporaneous correspondence
+
+The same-clinician hypothesis must absorb evidence that weakens broader allegations.
+
+## September–October 2017
+
+The patient privately described a “proper diagnosis and suitable medication”, called himself a “new man”, and gave strongly positive accounts of the treatment effect.
+
+This weakens any reconstruction of the entire 2017 episode as an obvious contemporaneous clinical failure.
+
+## October 2017
+
+The patient was already reinterpreting the feet through Parkinsonism and simultaneously reporting medication-state effects, treatment toxicity and active Podiatry/Physiotherapy care.
+
+This supports a mixed, evolving information state rather than a simple imposed narrative.
+
+## March 2025
+
+Before complaint theory expanded, the patient himself sent his GP a mixed model involving mechanical pressure, possible neurological contribution, neuropathic treatment, Sinemet timing and an existing nighttime CR option. He requested multidisciplinary reconstruction.
+
+This weakens later hindsight claims that one mechanism was obvious or that Sinemet CR was wholly outside clinical thinking.
+
+The maintenance question survives in a narrower form:
+
+> **Was the mixed problem globally reconstructed, or were multiple true local explanations managed without revisiting the founding relationship?**
+
+---
+
+# 6. Falsifiability test
+
+The central model-level question is:
 
 > **What evidence would have caused the original structural/neuropathy separation to be judged materially incomplete?**
 
-Test candidate disconfirming events one by one:
+Candidate disconfirming events include:
 
 - neurological treatment-state dependence of the feet;
 - rapid return of a focal foot phenomenon during procyclidine withdrawal;
-- a later footdrop-like phenomenon being clinically classified as Parkinsonian;
+- later classification of a footdrop-like phenomenon as Parkinsonian;
 - OFF/dystonia reasoning involving lower-limb symptoms;
-- pain/shuffling being described as OFF-related;
-- Sinemet-related foot-pain benefit;
-- expectation that more Sinemet would relieve pain;
-- profound relief after Sinemet CR.
+- pain/shuffling described as OFF-related;
+- Sinemet-related pain benefit;
+- expectation that additional Sinemet would relieve pain;
+- marked benefit after Sinemet CR.
 
-None of these alone proves that peripheral neuropathy or structural pathology was absent. The question is whether any of them changed the **weight** or **scope** of the founding architecture.
+None alone proves structural pathology or neuropathy absent.
 
-If no identifiable observation was capable of reducing that architecture's authority, then the relevant concern is not merely that it was wrong. It may have become **effectively non-falsifiable**.
+The question is whether any changed the **weight, scope or architecture** of the earlier formulation.
 
 ---
 
-# 5. Global versus local use of evidence
-
-Audit for asymmetry.
+# 7. Global versus local use of evidence
 
 ### Evidence supporting structural disease / neuropathy
 
-Ask whether it:
-
-- changed the overall formulation;
-- altered referrals or treatment;
-- entered the durable longitudinal narrative;
-- became a standing explanation for future symptoms.
+Ask whether it changed the overall formulation, altered referrals/treatment, entered the durable narrative or became a standing explanation.
 
 ### Evidence supporting neurological integration
 
-Ask whether it:
+Ask whether it changed the overall formulation or remained local:
 
-- changed the overall formulation; or
-- was treated only as a local exception, for example:
-  - `this foot throw is Parkinsonian`;
-  - `this episode is OFF-related`;
-  - `Sinemet helps the pain`.
+- this foot throw is Parkinsonian;
+- this episode is OFF-related;
+- Sinemet helps the pain;
+- this treatment-state change alters the feet.
 
-The controlling asymmetry question is:
+The asymmetry question is:
 
-> **Why was evidence in one direction architecture-changing, while evidence in the other direction merely episode-explaining?**
+> **Why was evidence in one direction architecture-changing, while evidence in the other direction may have remained episode-explaining?**
 
-This is a testable selective-reasoning question. It is not itself an allegation of deliberate selectivity.
-
----
-
-# 6. Later complaint response as a separate epistemic event
-
-If the same neurologist later explained or defended his own earlier care, the response must not be treated as independent validation merely because it is longitudinally detailed.
-
-The potential evidential structure is:
-
-> **original formulation + subsequent observations + subsequent documentation + subsequent treatment decisions → later explanation of the same longitudinal record**
-
-The clinician is entitled to explain his own care. The specific issue is independence.
-
-If the allegation is that the original framework influenced how later evidence was interpreted and recorded, later continuity inside that same clinician-generated record cannot by itself independently prove that the original framework remained sound.
-
-Independent review should therefore reconstruct the underlying observations and their provenance rather than count continuity of interpretation as corroboration.
+This is a selective-reasoning question, not by itself an allegation of deliberate selectivity.
 
 ---
 
-# 7. Three evidential categories
+# 8. Monaghan's 2025 Medical Council response as a separate epistemic event
 
-Classify every relevant later item as:
+The 29 July 2025 response materially changes the evidence available to this project.
 
-1. **Independent observation** — an observation whose evidential existence does not depend on the earlier theory, such as examination findings, treatment withdrawal effects, normal distal power, timing of pain relative to OFF state, or treatment response.
-2. **Interpretive proposition** — a clinical explanation such as `neuropathic`, `Parkinsonian`, `structural` or `OFF-related`.
-3. **Inherited narrative statement** — a proposition repeated because it had already entered the record, including symptom terminology whose provenance still requires establishment.
+It supplies clinician-authored evidence about:
+
+- his belief that management was appropriate while accepting he might be wrong;
+- levodopa caution and dyskinesia/behavioural risk;
+- prior dopaminergic treatment;
+- Sinemet use and pain benefit;
+- March 2025 CR prescribing;
+- Counihan's one-off 2017 Complex Case advice;
+- Healy's external involvement;
+- his own substantial longitudinal continuity;
+- the drafting history of the 2025 response itself.
+
+These points strengthen legitimate defence explanations and correct over-broad patient allegations.
+
+But the response also has a distinct epistemic structure:
+
+> **original formulation + subsequent observations + subsequent documentation + treatment decisions → later explanation by the same clinician using that accumulated record.**
+
+The clinician is entitled to explain his care. The forensic question is independence.
+
+If the allegation is that the original framework influenced how later evidence was interpreted and recorded, the later same-clinician synthesis of that history cannot by itself independently prove the original framework sound.
+
+---
+
+# 9. Evidence categories for later items
+
+Classify later material as:
+
+1. **Independent observation** — examination, treatment withdrawal effect, objective power testing, timing, response.
+2. **Interpretive proposition** — neuropathic, Parkinsonian, structural, OFF-related, etc.
+3. **Inherited narrative statement** — repeated proposition or terminology substantially descending from earlier record.
+4. **Contemporaneous correspondence witness** — time-stamped patient or operational communication preserving what was understood outside the formal note.
+5. **Retrospective clinician explanation** — later account of earlier care by a participant.
 
 This prevents repetition from masquerading as corroboration.
 
-> **Ten later references to neuropathy are not ten independent confirmations if they substantially descend from one founding formulation.**
-
 ---
 
-# 8. Intent ladder
+# 10. Intent ladder
 
-Do not jump from persistence to dishonesty. Test the evidence against a graded ladder:
+Do not jump from persistence to dishonesty.
 
 ### Level 1 — innocent but persistent error
-
-The clinician formed a reasonable or understandable hypothesis that later proved incomplete.
+Reasonable/understandable hypothesis later proves incomplete.
 
 ### Level 2 — anchoring / insufficient integration
+Contrary evidence accumulates without adequate whole-case reconstruction.
 
-Contrary evidence accumulated, but the clinician failed to reconstruct the whole relationship.
+### Level 3 — recognised contradictions but compartmentalised
+Conflicting evidence is noticed but handled as local exceptions.
 
-### Level 3 — recognised contradictions but compartmentalised them
-
-The clinician noticed conflicting neurological evidence but treated it as local exceptions rather than allowing it to alter the founding model.
-
-### Level 4 — appreciated material incompleteness but did not candidly reconstruct it
-
-Evidence supports that the clinician understood the earlier architecture had become materially inadequate but continued to present it without adequate qualification or revision.
+### Level 4 — appreciated material incompleteness without candid reconstruction
+Evidence would need to show the clinician understood the earlier architecture had become materially inadequate but continued presenting it without adequate qualification.
 
 ### Level 5 — intentional documentary/dispositional closure and maintenance
+Would require substantially stronger proof that the clinician understood from the founding period that the relationship remained unresolved, deliberately created closure, and later knowingly maintained it despite evidence requiring reopening.
 
-Evidence supports that the clinician understood from the founding period that the painful-foot/abnormal-lower-limb relationship remained neurologically unresolved, deliberately created documentary/dispositional closure after the Protest, and later maintained that architecture despite evidence that should have reopened it.
-
-The repository must state explicitly **how far up this ladder the evidence actually permits the case to go**. A higher level must never be inferred merely because lower levels remain possible.
-
----
-
-# 9. Central longitudinal question
-
-The most revealing question is:
-
-> **When did this neurologist first acquire enough evidence to realise that the original separation of the painful feet from the Parkinsonian/dystonic disorder was materially inadequate—and what did he do when he acquired that knowledge?**
-
-That is different from asking when the final diagnosis should have been known or whether neuropathy was impossible.
-
-It asks when the clinician's **own accumulating observations** required him to reconsider his **own earlier architecture**.
-
-If same-clinician continuity is verified, this becomes the principal continuing-responsibility audit.
+No higher level follows merely from persistence.
 
 ---
 
-# 10. Relationship to the wider repository
+# 11. Central longitudinal question
 
-This ledger does not displace:
+> **When did Monaghan first acquire enough patient-specific evidence to require material reconsideration of the original separation of the painful feet from the Parkinsonian/dystonic disorder, and what did he actually do when that threshold was reached?**
 
-- `06_TERMINOLOGY_PROVENANCE_AUDIT.md` for authorship/wording provenance;
-- `05_JULY_2017_FEET_ASSESSMENT_AND_DOCUMENTARY_DISPOSITION.md` for the founding clinical/documentary bridge;
-- `08_THE_NEUROLOGY_NEUROPATHY_ILLUSION.md` for the broader active mechanism;
-- `04_FINAL_EXPERT_QUESTION_REGISTER.md` for independent movement-disorders questions;
-- `10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md` for outside testing.
-
-It adds a missing longitudinal dimension:
-
-> **If one clinician repeatedly encountered the evidence, did his own explanatory model remain corrigible?**
+This is different from asking whether neuropathy was impossible or whether one final diagnosis should have been obvious.
 
 ---
 
-# 11. Current control proposition
+# 12. Current control proposition
 
-> **If the same neurologist created the founding specialist information state and remained centrally involved as the feet repeatedly crossed back into neurological treatment state, the longitudinal case cannot be explained mainly as propagation of another person's frame. It becomes a history of one clinician's accumulating knowledge and of whether evidence capable of challenging his original architecture actually changed that architecture. The proper audit is therefore contradiction-by-contradiction: what he knew, what changed, what proposition lost confidence, and how far the resulting conduct can defensibly be placed on a ladder from innocent persistent error through anchoring and compartmentalisation to, only if independently proved, knowing documentary/dispositional closure.**
+> **Same-clinician continuity is now supported not only by longitudinal record inference but by Monaghan's own later statement that he usually saw the patient himself over the relevant years. The maintenance case must therefore be tested as a history of an originating clinician's accumulating information, while still proving event by event what he personally observed, received and authored. Correspondence and later clinician explanation materially weaken several broader allegations: the diagnosis and treatment were strongly valued by the patient in 2017, `burning` was authentic patient vocabulary by October, Counihan's role appears advisory rather than ongoing, and Sinemet CR was already within the March 2025 plan. The surviving question is narrower and more exact: whether repeated boundary-crossing evidence caused genuine global reconstruction of the painful-feet/gait/tone relationship or was repeatedly accommodated within an otherwise persistent explanatory architecture.**
 
 Shortest form:
 
-> **The question is no longer only who inherited the frame. It is whether its author allowed his own frame to be falsified.**
+> **The question is no longer only who inherited the frame. It is what its author allowed to change it.**
