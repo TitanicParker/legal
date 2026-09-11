@@ -2,233 +2,286 @@
 
 ## Purpose
 
-This register records how the developing case study is presented to external bodies and what those bodies do with it. It is designed to prevent later summaries from collapsing distinct questions, audiences, controllers and responses into one undifferentiated complaint history.
+This register records how the developing case study was and is presented to external bodies and what those bodies actually do with it. It prevents later summaries from collapsing distinct questions, audiences, controllers and responses into one undifferentiated complaint history.
 
-The repository will not use one universal submission for every audience. Each recipient should be asked only questions within its competence, and the record should preserve exactly what material was supplied and what was actually answered.
+For every material process ask:
 
-For every submission or response, record:
+> **recipient → competence → question asked → material supplied → response → source basis → what was independently examined → what was inherited → effect on the controlling formulation.**
 
-> **recipient → question asked → material supplied → date → response → what the response resolved → what it failed to address → effect on controlling formulation**
-
-A response is not treated as independent validation merely because it agrees with an earlier conclusion. Its evidential weight depends on what sources and questions it independently examined.
-
-This register is retrospective as well as prospective. Historic entries added later must preserve the original date of the underlying correspondence and identify where the present register does not yet contain the complete primary bundle.
+A response is not independent validation merely because it agrees with an earlier conclusion.
 
 ---
 
 ## Status labels
 
-Use one or more of:
-
-- **DRAFT** — package not yet sent;
+- **DRAFT** — not sent;
 - **SUBMITTED** — sent, awaiting response;
-- **PARTIAL RESPONSE** — response received but material questions remain unanswered;
-- **COMPLETE RESPONSE** — recipient has answered the questions within its competence;
-- **FOLLOW-UP REQUIRED** — clarification, missing source or further question required;
+- **PARTIAL RESPONSE** — response received but material questions remain;
+- **COMPLETE RESPONSE** — questions within competence answered;
+- **FOLLOW-UP REQUIRED** — missing source/clarification required;
 - **CLOSED** — no further action presently planned;
-- **SUPERSEDED** — later submission replaces an earlier one, which remains preserved historically;
-- **UNDER ASSESSMENT** — regulator/reviewer has confirmed an active assessment but no substantive determination has yet issued.
+- **SUPERSEDED** — later submission replaces earlier one historically preserved;
+- **UNDER ASSESSMENT** — active regulator/reviewer assessment without substantive determination yet.
 
 ---
 
-# Current verified register
+# Verified register
 
-## SUB-2025-001 — GUH / clinical complaint and later PAR-SIMT review
+## SUB-2025-001 — GUH / initial clinical complaint
 
-**Status:** PARTIAL RESPONSE / institutional review completed; evidential genealogy remains to be reconstructed.
+**Status:** hospital complaint response received; later governance escalation followed.
 
-**Recipient:** Galway University Hospitals / Quality & Patient Safety / relevant Neurology service.
+**Recipient:** Galway University Hospitals / Quality & Patient Safety / Neurology.
 
-**Competence / purpose:** complaint handling, patient safety, clinical-governance review.
+**Date submitted:** 19 March 2025.
 
-**Underlying period:** 2025 complaint and subsequent Preliminary Assessment Report / SIMT process.
+**Purpose:** challenge the longitudinal management of the foot-pain problem and seek explanation/review.
 
-**What occurred:** the patient's complaint about neurological care was considered through hospital complaint/governance processes. The later SIMT outcome concluded that treatment decisions were appropriate and that there was no deficit in care.
+**Important genealogy:** the complaint follows the patient's March 2025 pre-complaint GP brief, which was still expressly mixed and multidisciplinary in its reasoning. Later April submissions became broader and more accusatory; those later formulations must not be projected backwards into the 19 March information state.
 
-**What the response actually resolved:** it records the institution's conclusion about the care and therefore constitutes material contrary evidence to the patient's suspicion.
+**Response:** hospital/QPS correspondence and a clinician response followed; the patient subsequently sought to supplement the complaint and escalated the matter through governance and external routes.
 
-**What it did not itself establish:** the current repository does not yet contain the complete provenance package showing precisely what primary material, clinician inputs, review questions, drafts, evidence matrices or independent specialist evidence generated the PAR/SIMT conclusions.
-
-**Independent examination or inherited reliance:** presently unresolved. This is now the subject of the 31 August 2026 Article 15 Object B provenance request.
-
-**Effect on controlling formulation:** weakens any theory that no institutional reconsideration occurred; leaves open whether the founding/document-authorship and same-clinician contradiction questions were independently reconstructed.
-
-**Required follow-up:** obtain and source-map the PAR/SIMT evidential genealogy.
+**Effect:** created a new information-producing process. The complaint itself is evidence of what was alleged, not proof of the underlying allegations.
 
 ---
 
-## SUB-2025-002 — GUH / Article 16 clinical-data and QPS rectification activity
+## SUB-2025-002 — Patient Advocacy Service / complaint and Incident Management support
 
-**Status:** historic controller decisions; later renewed requests and DPC complaint activity followed.
+**Status:** process support completed / historic.
 
-**Recipient:** GUH/HSE data-protection and related hospital functions.
+**Recipient:** Patient Advocacy Service.
 
-**Competence / purpose:** accuracy, rectification/completion and related processing questions concerning clinical and governance records.
+**Purpose:** independent advocacy support concerning hospital complaint and patient-safety/Incident Management Framework questions.
 
-**What occurred:** the patient pursued Article 16 rectification/completion issues during 2025. Hospital decisions dated 6 September 2025 refused rectification requests concerning clinical data and QPS material.
+**Verified process evidence:** correspondence shows an Advocacy Officer escalated the case internally when the patient-safety/IMF dimension exceeded the officer's role; the later Advocate sought clarity about the Preliminary Assessment Report, SIMT and whether a further review would occur.
 
-**What the response actually resolved:** it records the controller's then position on rectification and historical record accuracy.
+**What it establishes:** how the review pathway was understood while it was unfolding.
 
-**What it did not resolve:** whether later supplementary information should be durably associated with the historical record; the underlying authorship/provenance of the 2017 synthesis; or whether a later review independently reconstructed the disputed history.
-
-**Independent examination or inherited reliance:** to be source-mapped from the primary correspondence and decision material.
-
-**Effect on controlling formulation:** demonstrates documentary resilience and the institutional importance attached to preserving historical professional opinions; does not prove that those opinions were clinically correct or legally unrectifiable in every respect.
-
-**Required follow-up:** backfill the primary Article 16/18 chronology from original correspondence where needed.
+**What it does not establish:** the clinical merits or that the Advocacy Service independently investigated specialist neurological care.
 
 ---
 
-## SUB-2025-003 — GUH / Article 18 restriction activity
+## SUB-2025-003 — GUH / Preliminary Assessment Report and SIMT
 
-**Status:** historic dispute / DPC complaint material.
+**Status:** preliminary assessment completed; SIMT decided no further review required.
 
-**Recipient:** GUH/HSE data-protection functions.
+**Recipient/process:** GUH governance / Serious Incident Management Team.
 
-**Competence / purpose:** restriction of processing during an accuracy dispute.
+**Verified chronology:** a **Preliminary Assessment Report (PAR)** was prepared and presented to SIMT on **27 August 2025**. The outcome communicated on 3 September states that SIMT considered the care appropriate, concluded there was **“no deficit in the care provided”**, and did not initiate a further review.
 
-**What occurred:** the patient invoked Article 18 in connection with disputed accuracy and subsequent processing. Later correspondence and DPC submissions raised whether processing continued while restriction was asserted and whether the request was properly classified/handled.
+**Correct characterisation:**
 
-**What the response actually resolved:** the correspondence establishes that a restriction issue was raised and became part of the later data-protection dispute.
+> **PAR prepared → PAR presented to SIMT → SIMT threshold/outcome decision that no further review was required.**
 
-**What remains unresolved in this register:** the complete controller-side implementation history, including what flags, warnings or annotations actually accompanied the patient's data in operational systems and during PAR/SIMT processing.
+Do not describe this as a full independent re-investigation unless the PAR and its source genealogy demonstrate that level of work.
 
-**Effect on controlling formulation:** relevant to information-state corrigibility and governance; not proof of unlawful processing merely because the patient alleged it.
+**What the outcome establishes:** a real institutional conclusion adverse to the patient's suspicion.
 
-**Required follow-up:** source-map the original Article 18 request, controller replies and any system-level restriction/accuracy markers.
+**What remains unresolved:** exactly what source material, review questions, clinician inputs, interviews/statements, independent specialist opinion, Protest evidence, authorship chronology and later contradictions were before the PAR/SIMT process.
 
----
+**Independent examination or inherited reliance:** unresolved pending source reconstruction.
 
-## SUB-2026-001 — Data Protection Commission / HSE-GUH complaint C-25-7-2074
+**Effect on formulation:** genuine contrary evidence; weakens “no institutional reconsideration occurred”; leaves open what phenomenon the preliminary assessment actually tested.
 
-**Status:** UNDER ASSESSMENT as last verified in the live correspondence reviewed on 11 September 2026.
-
-**Recipient:** Data Protection Commission, Complaint Assessment & Early Resolution Unit.
-
-**Competence / purpose:** supervisory review of identified GDPR issues concerning HSE / University Hospital Galway.
-
-**Relevant procedural history:** the DPC has received multiple supplementary submissions and primary materials concerning Article 15, 16 and 18 issues. On 31 August 2026 the DPC confirmed that the patient remained entitled to raise further requests with the controller, while stating that complaint C-25-7-2074 would remain confined to the issues already identified by the Commission.
-
-**What the response actually resolved:** procedural scope and the fact that the existing complaint remained under assessment.
-
-**What it did not resolve:** the merits of the new 31 August and 2 September 2026 controller-facing requests or the underlying clinical/documentary suspicion.
-
-**Independent examination or inherited reliance:** regulator assessment pending.
-
-**Effect on controlling formulation:** unchanged on the underlying clinical merits; important to the live data-governance/provenance workstream.
-
-**Required follow-up:** record any substantive DPC assessment, controller referral, resolution proposal or determination when it occurs.
+**Current evidence-acquisition route:** 31 August 2026 Article 15 request seeks the PAR and its evidential genealogy.
 
 ---
 
-## SUB-2026-002 — GUH DPO / Article 15 provenance request — 31 August 2026
+## SUB-2025-004 — GUH / Article 15 records access beginning March 2025
 
-**Status:** SUBMITTED / awaiting identified substantive controller response as of 11 September 2026.
+**Status:** historic access activity; later access issues became part of DPC complaint.
 
-**Recipient:** dpo@guh.hse.ie.
+**Date:** targeted DSAR submitted 18 March 2025; follow-up correspondence with HSE data-protection and records functions followed.
 
-**Competence / purpose:** Article 15 access to personal data and contextual/source/provenance information concerning two defined processing objects.
+**Purpose:** obtain hospital Neurology records and related files.
 
-**Date submitted:** 31 August 2026.
+**What it contributed:** records access materially enabled the patient's later reconstruction of the history. The later theory therefore partly follows documentary discovery and must not be projected backwards into the patient's earlier state of knowledge.
 
-**Object A:** July 2017 Neurology discharge / clinical synthesis.
-
-**Questions/material sought:** creation and document identity; timestamps; versions and revision history; dictation/transcription workflow; audit trail; source provenance; particular patient-specific formulations; 13 July addendum and 17 July confirmation/finalisation; distribution and recipients.
-
-**Object B:** 2025 PAR / SIMT review.
-
-**Questions/material sought:** completed PAR; drafts; review questions/terms; evidence genealogy; source list; clinician/QPS communications; independent inputs; SIMT material; reviewer roles; audit trail; recipient information; and any Article 18/accuracy-dispute markers present during review.
-
-**Why it matters to the case study:** Object A can produce evidence capable of strengthening or weakening the 2017 construction/authorship-time hypothesis. Object B can reveal whether later institutional validation was independently reconstructed or substantially descended from the accumulated record.
-
-**Response date:** none identified as of 11 September 2026.
-
-**What is not yet known:** whether responsive historical versions/audit data still exist; what will be supplied; what will be withheld; what was never held; what is no longer held.
-
-**Effect on controlling formulation:** no merits change yet. This is a potentially decisive evidence-acquisition route.
-
-**Related file:** `13_LIVE_DATA_GOVERNANCE_AND_PROVENANCE_TRACK.md`.
+**Control:** the act of obtaining a record does not prove the interpretation later placed on it.
 
 ---
 
-## SUB-2026-003 — GUH DPO / Article 16 supplementary statement — 2 September 2026
+## SUB-2025-005 — GUH / Article 16 rectification-completion activity
 
-**Status:** SUBMITTED / awaiting identified substantive controller response as of 11 September 2026.
+**Status:** historic controller decisions; later DPC complaint and renewed supplementary-statement request followed.
 
-**Recipient:** dpo@guh.hse.ie.
+**Purpose:** accuracy / rectification / completion of disputed clinical and governance personal data.
 
-**Competence / purpose:** completion of allegedly incomplete personal data by supplementary statement while preserving the original clinician-authored historical record.
+**Verified later position:** hospital decisions in 2025 refused requested rectification of relevant clinical/QPS material and preserved historical professional opinions as part of the record.
 
-**Date submitted:** 2 September 2026.
+**What this establishes:** the controller's position on historical accuracy and record preservation.
 
-**Material supplied:** `Patient Supplementary Statement — July 2017 Neurology Discharge/Clinical Synthesis` dated 2 September 2026.
+**What it does not establish:** that the historical opinion was clinically correct, that every later completion request must fail, or that disputed provenance is resolved.
 
-**Core request:** durably attach or directly cross-reference the patient's supplementary account with the July 2017 Neurology synthesis so that its existence is apparent when the synthesis is subsequently accessed, reviewed, relied upon, disclosed or otherwise processed.
-
-**Patient evidence contained in the statement:** a detailed retrospective account of the alleged 10 July 2017 bedside Protest, including the presence of four medical students, the request that Dr Thomas Monaghan attend, the NCT/bald-tyres analogy, the recalled Podiatry response, and the patient's recollection that no further focused neurological reassessment occurred before discharge.
-
-**Evidential control:** the statement is direct patient evidence of a disputed historical event. It is not contemporaneous documentary proof of occurrence and does not ask the hospital to accept the patient's clinical interpretation as fact.
-
-**Why it matters to the case study:** it is a live test of whether the enduring historical information state can carry the patient's competing account without erasing the clinician's original record. It therefore tests present-day documentary corrigibility/completeness.
-
-**Response date:** none identified as of 11 September 2026.
-
-**Effect on controlling formulation:** no merits change yet; potentially important to the Protest's future documentary status and to the information-system case study.
-
-**Related file:** `13_LIVE_DATA_GOVERNANCE_AND_PROVENANCE_TRACK.md`.
+**Effect:** demonstrates documentary resilience and the institutional importance of historical continuity.
 
 ---
 
-## SUB-2026-004 — University of Galway / separate DPC complaint DPC0826812075
+## SUB-2025-006 — GUH / Article 18 restriction activity
 
-**Status:** UNDER ASSESSMENT / transferred to CAERU, awaiting assignment as of 8 September 2026.
+**Status:** historic dispute; now part of DPC assessment issues.
 
-**Controller concerned:** University of Galway — separate from HSE/GUH.
+**Date of material request:** 4 August 2025.
+
+**Purpose:** restriction/marking of disputed personal data while accuracy issues remained unresolved, including concern about reliance within the PAR/SIMT process.
+
+**Critical chronology:**
+
+> **4 August restriction request → PAR later presented to SIMT on 27 August → outcome communicated 3 September.**
+
+**What this establishes:** the accuracy/restriction dispute pre-dated the SIMT decision.
+
+**What it does not establish:** whether Article 18 legally prohibited or otherwise limited the actual processing. That remains a legal/regulatory question requiring the controller's implementation facts and the applicable law.
+
+**Required provenance:** operational flags/annotations, internal routing, what data were processed, and whether the dispute travelled with the information used in the PAR/SIMT process.
+
+---
+
+## SUB-2025-007 — Medical Council / Dr Thomas Monaghan professional-conduct complaint
+
+**Status:** historic regulatory process; complete final procedural outcome should be separately source-verified before characterisation.
+
+**Recipient:** Medical Council.
+
+**Competence:** individual professional conduct / regulatory process.
+
+**Material evidential object:** Dr Thomas Monaghan's response dated 29 July 2025.
+
+**New clinician evidence in that response includes:**
+
+- his position that management was appropriate while accepting he could be wrong;
+- explanation of levodopa caution in a very young patient and dyskinesia/behavioural risk;
+- prior dopaminergic treatment and Sinemet use;
+- acknowledgment that Sinemet affected pain;
+- treatment-service prescription of Sinemet CR in March 2025;
+- Prof Timothy Counihan's one-off advisory participation in the 2017 weekly Complex Case meeting and no further management role;
+- Prof Daniel Healy's external specialist involvement;
+- Monaghan's statement that he usually saw the patient himself over the years;
+- evidence that drafting of the Council response had begun on 28 April 2025.
+
+**Evidential significance:** this response materially strengthens several innocent/defensive propositions and same-clinician continuity. It also becomes a separate retrospective-validation object because it uses the longitudinal record generated within the same care relationship to explain the reasonableness of that care.
+
+**Control:** the clinician response is not the same thing as a Medical Council finding.
+
+**Required follow-up:** reconstruct the Council's actual final decision, precise scope and reasoning from the primary determination before summarising the regulatory outcome.
+
+---
+
+## SUB-2025-008 — Prof Timothy Counihan / direct 2025 response
+
+**Status:** response received / historic.
+
+**Material source:** GUH Neurology letter dictated 28 April, typed 29 April and signed/approved 7 May 2025.
+
+**Statement:** Counihan tells the patient, **“As I have not been involved in your care…”**, and forwards the matter to Monaghan.
+
+**Later contextual evidence:** Monaghan's Medical Council response says Counihan advised him once in 2017 through the weekly Complex Case meeting but had no further formal or informal management role.
+
+**Effect:** narrows Counihan's patient-specific role. The two statements should not be manufactured into a contradiction: one-off collegial advice may coexist with no treating/management involvement.
+
+**Residual question:** bedside application of Counihan's expertise to the unresolved feet–gait relationship remains unproved.
+
+---
+
+## SUB-2025-009 — Ombudsman / HIQA / wider April external submissions
+
+**Status:** various acknowledgements / routing responses; not presently treated as substantive merits findings.
+
+**Context:** during April 2025 the patient circulated a broad “Admission Clause” theory to multiple external bodies, including oversight bodies, lawyers and media.
+
+**Evidential treatment:** these submissions form part of the development history of the patient's theory. They do not independently corroborate the clinical allegations merely because they were received or acknowledged.
+
+**Control:** individual substantive responses should be entered separately only where they materially affect the case or clarify institutional competence.
+
+---
+
+## SUB-2026-001 — QPS continued-reliance response, 26 January 2026
+
+**Status:** institutional response received.
+
+**Recipient/source:** GUH QPS.
+
+**Verified position:** QPS stated in substance that completed complaint/SIMT processes remained valid on the information and investigations available at the time; later dystonia information did not undermine those outcomes; no present governance risk required reopening or alteration.
+
+**What this establishes:** express institutional continued reliance, not merely silence.
+
+**What it does not establish:** independent clinical proof that the underlying 2017 formulation or later care was correct.
+
+**Effect on formulation:** makes retrospective validation and institutional corrigibility concrete questions.
+
+---
+
+## SUB-2026-002 — DPC / HSE-GUH complaint C-25-7-2074
+
+**Status:** UNDER ASSESSMENT as last verified 11 September 2026.
 
 **Recipient:** Data Protection Commission.
 
-**Date of complaint referenced by DPC:** 10 August 2026.
+**Issues identified by DPC on 7 August 2026:**
 
-**DPC response:** on 8 September 2026 the DPC advised that the complaint had been transferred to its Complaint Assessment and Early Resolution Team. It stated that cases are handled in chronological order and that assignment may take considerable time.
+- Article 16 rectification;
+- Article 15 access;
+- Article 18 restriction of processing.
 
-**Control:** this complaint must not be merged with C-25-7-2074 or treated as evidence about GUH clinical care merely because the factual background overlaps.
+The DPC cautioned that rectification is not absolute, particularly where medical opinion is involved, and sought further information rather than issuing a merits finding.
 
-**Effect on controlling formulation:** contextual to the broader regulatory environment; no direct change to the hospital clinical/documentary suspicion.
+On 10 and 31 August the DPC confirmed the HSE/GUH matter remained under assessment. On 31 August it also confirmed that fresh controller-facing requests could be made but would not automatically enlarge the existing complaint's defined scope.
+
+**Effect:** active regulatory testing; no GDPR breach finding should be inferred from procedural assessment correspondence.
+
+---
+
+## SUB-2026-003 — GUH DPO / Article 15 provenance request, 31 August 2026
+
+**Status:** SUBMITTED / no substantive controller response identified as of 11 September 2026.
+
+**Object A:** July 2017 Neurology synthesis — identity, creation/modification times, versions, dictation/transcription workflow, audit history, source provenance, 13–17 July lifecycle, distribution/recipients.
+
+**Object B:** 2025 PAR/SIMT — completed PAR, drafts, review questions, evidence/source list, clinician/QPS inputs, independent inputs, SIMT material, reviewer roles, audit trail, recipients, and any accuracy/restriction markers.
+
+**Effect:** no merits change yet; potentially decisive evidence-acquisition route for construction and retrospective-validation hypotheses.
+
+---
+
+## SUB-2026-004 — GUH DPO / Article 16 supplementary statement, 2 September 2026
+
+**Status:** SUBMITTED / no substantive controller response identified as of 11 September 2026.
+
+**Purpose:** completion by supplementary patient statement without deletion or rewriting of the original clinician-authored historical synthesis.
+
+**Patient evidence supplied:** detailed retrospective account of the alleged 10 July 2017 Protest, including four medical students, request for Monaghan to attend, NCT/bald-tyres analogy, recalled Podiatry response and no recollection of a further focused neurological reassessment before discharge.
+
+**Evidential control:** direct patient evidence of a disputed historical event; not contemporaneous documentary proof.
+
+**Effect:** live test of present-day documentary completeness/corrigibility.
+
+---
+
+## SUB-2026-005 — University of Galway / DPC complaint DPC0826812075
+
+**Status:** UNDER ASSESSMENT / transferred to CAERU as of 8 September 2026.
+
+**Controller concerned:** University of Galway, separate from HSE/GUH.
+
+**Control:** do not merge with C-25-7-2074 or use it as evidence about GUH clinical care merely because background facts overlap.
+
+---
+
+# Core interpretive rules
+
+1. **Complaint submitted ≠ allegation proved.**
+2. **Clinician response ≠ regulator finding.**
+3. **PAR/SIMT conclusion ≠ necessarily full independent re-investigation.**
+4. **Institutional repetition ≠ independent confirmation.**
+5. **Regulatory acknowledgement ≠ merits agreement.**
+6. **Data-protection process ≠ clinical expert opinion.**
+7. **Later patient advocacy theory ≠ contemporaneous 2017 patient knowledge.**
+8. **External response matters according to the question actually asked and evidence actually examined.**
 
 ---
 
 # Backfill rule
 
-This register is not yet a complete transcription of every historic complaint, DPC submission, Medical Council contact, legal approach, data request or institutional response.
+This register should continue to be expanded only from the actual correspondence or verified primary record. Where final outcomes remain unverified, say so.
 
-Historic activity should be added only from the actual correspondence or verified primary record, using the following fields:
-
-> **recipient → competence → original date → exact question → material supplied → response → source basis → what was independently examined → what was inherited → what changed in the case.**
-
-Do not manufacture completeness by summarising from memory.
-
----
-
-# Audience discipline
-
-Movement-disorders experts should answer clinical examination, phenotype, reopening, treatment-calibration and medical-causation questions.
-
-Ethics reviewers should address record integrity, epistemic status, professional authority, path dependence, patient testimony, candour and patient-safety implications without being asked to decide negligence or legal liability.
-
-Professional regulators should receive conduct and professional-standard questions tied to identified individuals and evidence.
-
-Patient-safety / quality reviewers should receive propagation, error-correction, safeguarding and system-learning questions.
-
-Records / data-provenance routes should receive source, authorship, version-history, accuracy, amendment, completion, restriction and rectification questions.
-
-Complaints-process reviewers should be asked whether the complaint was fairly and adequately investigated, not to substitute for specialist neurological expertise.
-
-Legal counsel should address duty, breach, causation, limitation, disclosure, evidential architecture and the legal significance of documentary findings.
-
-Academic or scholarly reviewers may examine the wider case-study mechanism, but their conceptual agreement does not substitute for source proof or clinical expert evidence.
-
----
-
-## Core rule
-
-> **The external-testing history is part of the case study, but institutional repetition is not automatically independent confirmation.**
+The repository's task is not to maximise the number of external bodies named. It is to preserve the evidential effect of each process accurately.
