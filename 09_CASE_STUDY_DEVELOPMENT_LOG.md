@@ -218,6 +218,20 @@ The governing standard is:
 
 ---
 
+## 11 September 2026 — Medical Council PPC material-considered provenance bounded
+
+**Trigger/source:** Medical Council secure-delivery email of 16 February 2026 and the follow-up correspondence of 16–17 February 2026 concerning the PPC minute.
+
+**What changed:** the repository can now verify that an extract of a Preliminary Proceedings Committee minute dated **29 January 2026** existed and that the minute recorded consideration of Dr Monaghan's responses dated **29 July 2025 and 29 August 2025**. The Medical Council's Authorised Officer explained on 17 February that the 29 August email was Monaghan stating that he wished to use his 29 July submission as his response to the complaint. The officer also stated that the PPC had not directed that the 29 August email itself be supplied to the patient.
+
+**What this establishes:** the 29 July clinician response was expressly reaffirmed by Monaghan for use as his complaint response and was part of the material before the PPC. The 29 August item did not, on the Council's account, add a new substantive clinical explanation.
+
+**What remains unresolved:** the secure ShareFile delivery identified a 16 February 2026 Council letter and the 29 January PPC minute, but their full substantive text is not presently readable through the Gmail attachment path available in this audit. The repository therefore does not infer or state the PPC's final merits disposition.
+
+**Effect on formulation:** strengthens the provenance map of later regulatory reliance without changing the underlying clinical merits. It also reinforces the rule that **clinician response → regulator consideration** is not the same evidential step as **independent regulator verification**.
+
+---
+
 ## Entry template
 
 ### YYYY-MM-DD — short description
