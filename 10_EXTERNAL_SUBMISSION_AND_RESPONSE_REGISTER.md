@@ -139,7 +139,7 @@ Do not describe this as a full independent re-investigation unless the PAR and i
 
 ## SUB-2025-007 — Medical Council / Dr Thomas Monaghan professional-conduct complaint
 
-**Status:** historic regulatory process; complete final procedural outcome should be separately source-verified before characterisation.
+**Status:** a Preliminary Proceedings Committee (PPC) minute dated **29 January 2026** and a Council letter dated **16 February 2026** were delivered through secure ShareFile. The present Gmail audit verifies their existence and the material considered by the PPC, but the substantive disposition should not be stated without the actual decision text.
 
 **Recipient:** Medical Council.
 
@@ -159,11 +159,15 @@ Do not describe this as a full independent re-investigation unless the PAR and i
 - Monaghan's statement that he usually saw the patient himself over the years;
 - evidence that drafting of the Council response had begun on 28 April 2025.
 
-**Evidential significance:** this response materially strengthens several innocent/defensive propositions and same-clinician continuity. It also becomes a separate retrospective-validation object because it uses the longitudinal record generated within the same care relationship to explain the reasonableness of that care.
+**PPC provenance now verified from live correspondence:** the extract of the PPC minute dated 29 January 2026 records that the Committee considered Monaghan's responses dated **29 July 2025 and 29 August 2025**. On 17 February 2026 the Medical Council's Authorised Officer explained that the 29 August email was Monaghan stating that he wished to use his 29 July submission as his response to the complaint. The Council also stated that the PPC had not directed that the 29 August email itself be furnished to the patient.
 
-**Control:** the clinician response is not the same thing as a Medical Council finding.
+**Evidential significance:** this confirms that the 29 July retrospective explanation was not merely an informal side document; Monaghan reaffirmed it for use as his complaint response and it was among the material before the PPC. It materially strengthens several innocent/defensive propositions and same-clinician continuity. It also remains a retrospective-validation object because it uses the longitudinal record generated within the same care relationship to explain the reasonableness of that care.
 
-**Required follow-up:** reconstruct the Council's actual final decision, precise scope and reasoning from the primary determination before summarising the regulatory outcome.
+**Control:** clinician response ≠ PPC finding. PPC consideration of a document ≠ independent verification of every factual proposition in that document.
+
+**Unresolved source boundary:** the secure ShareFile delivery identified the 16 February 2026 Council letter and 29 January PPC minute, but their full substantive text is not available through the presently readable Gmail body/attachments. The repository therefore does **not** state the PPC's final merits disposition until the actual decision text is available and source-checked.
+
+**Required follow-up:** obtain/read the primary PPC minute and 16 February decision letter, then record the precise decision, statutory/procedural basis, scope, reasoning and evidential effect.
 
 ---
 
