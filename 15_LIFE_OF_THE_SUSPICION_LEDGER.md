@@ -6,36 +6,27 @@ This file tracks the suspicion as a **living hypothesis moving through time**.
 
 It does not ask first whether the suspicion is true. It asks what each new item of evidence does to the hypothesis that existed immediately before it.
 
-For each material event, ask:
+For each material event:
 
 > **What did the suspicion look like before this event?**
-
+>
 > **What does this event do to it?**
 
-Possible effects:
+Possible effects include strengthening, weakening, narrowing, contradiction, transformation, no material change, creation of a new evidential question, or defeat of a prior formulation.
 
-- strengthens;
-- weakens;
-- narrows;
-- contradicts;
-- transforms;
-- leaves unchanged;
-- creates a new evidential question;
-- defeats a prior formulation.
-
-The ledger must preserve innocent explanations and contrary evidence with the same discipline as supportive evidence.
+Correspondence is now a separate evidence layer through `16_CORRESPONDENCE_GENEALOGY_AND_CONTEMPORANEOUS_WITNESS.md`. It matters especially where it preserves what the patient actually thought before later complaint theory developed.
 
 ---
 
 # 1. Before specialist Neurology — no construction suspicion yet
 
-**Evidence entering the world:** longstanding painful abnormal feet, abnormal gait, structural deformity, increasing tone/movement difficulty and deteriorating function; GP progressively joins these into a neurological referral object.
+**Evidence entering the world:** longstanding painful abnormal feet, abnormal gait, structural deformity, increasing tone/movement difficulty and deteriorating function; GP progressively joins these into a neurological referral object. A June 2017 private foot-care appointment confirms the patient was independently seeking practical treatment for the feet before admission.
 
 **Effect:** gives later integration questions a real pre-specialist foundation.
 
-**Weakening/counterweight:** structural pathology is real from the outset; alcohol history is also real and pre-dates the final specialist synthesis.
+**Weakening/counterweight:** structural pathology is real from the outset; alcohol history also genuinely pre-dates the final specialist synthesis.
 
-**Suspicion after event:** the future question is what happens to an integrated feet–gait–tone problem once specialist categorisation begins.
+**Suspicion after event:** what happens to an integrated feet–gait–tone problem once specialist categorisation begins?
 
 ---
 
@@ -63,7 +54,7 @@ The ledger must preserve innocent explanations and contrary evidence with the sa
 
 # 4. Alleged pre-discharge Protest
 
-**New evidence:** patient evidence that he told Neurology, in substance, that the feet had not been dealt with; the surviving specialist record does not record the exchange.
+**New evidence:** the patient gives a specific retrospective account that he told Neurology, in substance, that the feet had not been dealt with. The surviving specialist record does not record the exchange.
 
 **Effect if accepted:** transforms possible incomplete integration into a **decision-after-notice** question.
 
@@ -91,57 +82,65 @@ The ledger must preserve innocent explanations and contrary evidence with the sa
 
 **Effect:** gives the construction suspicion specific content.
 
-**Counterweights:** alcohol history genuinely pre-existed; the wording could reflect ordinary dictation, paraphrase, unpreserved elicitation, or reasonable retrospective synthesis.
+**Counterweights:** alcohol history genuinely pre-existed; wording could reflect ordinary dictation, paraphrase, unpreserved elicitation or reasonable retrospective synthesis.
 
 **Suspicion after event:** did the final document preserve medically earned uncertainty, or create an explanatory route capable of closing an unfinished problem?
 
 ---
 
-# 7. Sophisticated young-onset/PRKN synthesis
+# 7. September 2017 — strong contemporaneous patient acceptance of diagnosis and treatment
 
-**New evidence:** high-resolution specialist reasoning about young-onset/monogenic Parkinsonism.
+**New evidence:** in a private 11 September email, the patient describes having received a **“proper diagnosis and suitable medication”** and being a **“new man.”**
 
-**Effect:** sharpens the synthesis–examination differential.
+**Effect:** materially weakens any theory that the 2017 neurological diagnosis/treatment was contemporaneously experienced as an obvious overall failure.
 
-**Control:** sophistication is not suspicious conduct in itself.
+**Residual question:** successful diagnosis/treatment of severe Parkinsonism can coexist with an unresolved painful-foot relationship.
 
-**Suspicion after event:** did expertise that enriched the theory return to the painful-foot relationship?
-
----
-
-# 8. Independent specialist support for PARK2/Parkin direction
-
-**New evidence:** independent post-discharge specialist assessment supports the Parkinsonian/Parkin direction and treatment strategy.
-
-**Effect:** weakens broad theories that depend on the Parkinsonian diagnosis being invented or fundamentally unreasonable.
-
-**Residual question:** does not independently resolve the painful-foot relationship.
-
-**Suspicion after event:** narrows from diagnostic error toward integration and ownership.
+**Suspicion after event:** narrows. The viable case is not “Neurology got everything wrong”; it is whether one important relationship remained unresolved inside otherwise successful specialist work.
 
 ---
 
-# 9. Strong patient-reported treatment benefit
+# 8. 4 October 2017 — private narrative changes the vocabulary and Protest analysis
 
-**New evidence:** patient contemporaneously reports dramatic improvement and gratitude for diagnosis/treatment.
+**New evidence A:** the patient privately describes his feet as **“scorching hot and filled with burning pain.”**
 
-**Effect:** weakens any retrospective theory of obvious total clinical failure from the outset.
+**Effect:** materially weakens any proposition that `burning` could only have been clinician-generated. It is authentic patient vocabulary by October 2017.
 
-**Residual question:** substantial successful treatment can coexist with one unresolved presenting problem.
+**What remains open:** how the same descriptor entered the earlier July synthesis.
 
-**Suspicion after event:** becomes smaller and cleaner rather than broader.
+**New evidence B:** the patient says he had previously blamed the feet for the broader problem and only **“very recently”** had begun to understand the foot problems as another aspect of Parkinsonism.
+
+**Effect:** shows the patient's explanatory model changing rapidly after diagnosis; weakens any timeless reconstruction of his causal beliefs.
+
+**New evidence C:** the detailed private narrative does not presently contain the Protest.
+
+**Effect:** limited negative evidence against overconfidence in the later recollection, because the account is detailed, close in time and not litigation-driven.
+
+**Control:** omission is not proof of non-occurrence.
+
+**Suspicion after event:** the Protest remains direct patient evidence with a real corroboration gap, now accompanied by a contemporaneous private narrative that both supports aspects of the later story and omits the Protest itself.
 
 ---
 
-# 10. Procyclidine withdrawal / feet–gait–tension co-variation
+# 9. October 2017 withdrawal — early boundary crossing
 
-**New evidence:** withdrawal changes tension, feet and walking together.
+**New evidence:** private correspondence records tension building, feet becoming restless and walking falling apart during procyclidine withdrawal while visual adverse effects improve.
 
-**Effect:** strengthens challenge to rigid independence between neurological state and foot phenomena.
+**Effect:** independently preserves neurological-treatment-state co-variation of feet, gait and tension.
 
 **Control:** does not prove all focal foot pain was neurological.
 
-**Suspicion after event:** construction question begins to become a **reopening/maintenance** question.
+**Suspicion after event:** construction begins to become a **reopening/maintenance** question.
+
+---
+
+# 10. October 2017 active multi-service care and treatment toxicity
+
+**New evidence:** contemporaneous occupational correspondence records stopping/restarting medication because of visual problems, Parkinson-nurse contact, planned Podiatry and Physiotherapy, and dramatic overall physical improvement.
+
+**Effect:** weakens abandonment, therapeutic indifference and simple undertreatment narratives.
+
+**Residual question:** active parallel care does not itself show whether anyone owned integration across the streams.
 
 ---
 
@@ -155,7 +154,7 @@ The ledger must preserve innocent explanations and contrary evidence with the sa
 
 ---
 
-# 12. April 2018 same-clinician record of rapid outside-left-foot change
+# 12. April 2018 — same-clinician record of rapid outside-left-foot change
 
 **New evidence:** treating neurologist later records rapid return of a focal outside-left-foot phenomenon during withdrawal.
 
@@ -181,7 +180,7 @@ The ledger must preserve innocent explanations and contrary evidence with the sa
 
 **New evidence:** primary care again explicitly relates foot problems to increased tone/abnormal gait/Parkinson's.
 
-**Effect:** moderately strengthens reintegration/ownership question.
+**Effect:** moderately strengthens the reintegration/ownership question.
 
 **Control:** does not prove specialist failure.
 
@@ -199,29 +198,41 @@ The ledger must preserve innocent explanations and contrary evidence with the sa
 
 ---
 
-# 16. 2022 repeatable morning foot state / changing patient vocabulary
+# 16. 2022 — repeatable morning foot state and multi-node medication flow
 
-**New evidence:** feet require 20–25 minutes to warm up; patient wonders whether pain may be neuralgic.
+**New evidence:** feet take 20–25 minutes to warm up; patient wonders whether pain may be neuralgic. Separate prescription correspondence shows a PRN Sinemet instruction moving through a Parkinson-service contact, patient, pharmacy and GP practice.
 
-**Effect:** modestly strengthens treatment-state/time-state integration question and opens a patient-language genealogy.
+**Effect:** modestly strengthens treatment-state/time-state integration and demonstrates how treatment information travels outside a single clinic letter.
 
-**Control:** later medical vocabulary cannot be assumed to have been caused by the 2017 record without proof.
+**Control:** the patient's label “Paddy Brown” should not be equated with Patrick Browne without a source bridge.
 
----
-
-# 17. 2023 severe pain and safety convergence
-
-**New evidence:** severe bilateral pain, profound functional restriction and death-associated language; urgent GP concern.
-
-**Effect:** increases the clinical consequence of getting the explanatory architecture and ownership right.
-
-**Counterweight:** patient himself reports believing pain is not Parkinson-related and reports no difference after stopping Parkinson medication for a period.
-
-**Suspicion after event:** cannot become a one-direction “everyone knew it was dopaminergic” theory.
+**Suspicion after event:** patient-language genealogy and information-flow genealogy both become relevant.
 
 ---
 
-# 18. 2023 genuine neurological reassessment
+# 17. 22 March 2023 — direct patient safety language predates later GP translation
+
+**New evidence:** the patient writes contemporaneously that his feet are “killing” him literally and that he is **“losing the will to live with them at this stage.”**
+
+**Effect:** materially strengthens the proposition that by March 2023 the pain was already a direct patient-safety signal before the later clinician-authored “death wish” wording.
+
+**Control:** this is not automatically proof of suicidal intent or plan.
+
+**Suspicion after event:** the case acquires a safety dimension independent of whether the 2017 construction hypothesis is ultimately proved.
+
+---
+
+# 18. 2023 severe pain, medication changes and contrary patient evidence
+
+**New evidence:** severe bilateral pain, profound functional restriction, urgent GP concern and later nurse “no quality of life” language; medication correspondence also records strong fear of returning to prior pain and discrepancies in understood pregabalin dosing.
+
+**Counterweight:** patient himself later reports believing pain is not Parkinson-related and reports no difference after stopping Parkinson medication for a period.
+
+**Effect:** strengthens seriousness and information-accuracy concerns while blocking a one-direction “everyone knew it was dopaminergic” theory.
+
+---
+
+# 19. 2023 genuine neurological reassessment
 
 **New evidence:** clinician questions overnight neuropathy onset, considers OFF-related walking/pain, levodopa adjustment and alternative diagnoses/investigation; disagreement with patient is documented.
 
@@ -231,7 +242,7 @@ The ledger must preserve innocent explanations and contrary evidence with the sa
 
 ---
 
-# 19. 2024 pregabalin benefit while toe curling persists
+# 20. 2024 pregabalin benefit while toe curling persists
 
 **New evidence:** pain improves substantially with pregabalin while a movement/postural phenomenon remains.
 
@@ -241,103 +252,141 @@ The ledger must preserve innocent explanations and contrary evidence with the sa
 
 ---
 
-# 20. 2025 Sinemet acknowledged to improve foot pain
+# 21. 18 March 2025 — patient asks for a mixed multidisciplinary reconstruction before complaint theory hardens
 
-**New evidence:** clinician records Sinemet-related pain benefit, expects additional Sinemet could help further, but is constrained by dyskinesia and continues to preserve a separate/local pain explanation.
+**New evidence:** in a structured pre-complaint email to his GP, the patient describes pressure-sensitive/mechanical pain, possible neurological contribution, possible neuropathic treatment, adjusted Sinemet timing, an existing prescription for half Sinemet CR at night if morning flares persisted, and asks for a **multidisciplinary** plan.
 
-**Effect:** strongly strengthens the local-update/global-reconstruction audit.
+**Effect:** important correction to later hindsight narratives.
 
-**Counterweight:** shows active treatment reasoning rather than indifference.
+- Weakens “CR was wholly outside Neurology's thinking”.
+- Weakens a one-cause retrospective theory.
+- Strengthens the proposition that the patient was explicitly seeking integration across neurological, structural and pain mechanisms before the later complaint became highly theorised.
 
-**Suspicion after event:** does treatment accommodation amount to substantive revision of the founding model?
+**Suspicion after event:** the central question becomes ownership and reconstruction, not discovery of a single obvious mechanism.
 
 ---
 
-# 21. Controlled-release Sinemet produces profound relief
+# 22. March–April 2025 — complaint and broad advocacy theory emerge
 
-**New evidence:** major treatment-state change produces major pain relief.
+**New evidence/process:** formal complaint, Article 15 records requests and a rapidly expanding “Admission Clause” theory are sent to multiple bodies.
 
-**Effect:** strongly destabilises any casual assumption that neurological treatment state is peripheral to the foot-pain story.
+**Effect:** creates a new class of evidence: **the development of the patient's theory itself**.
 
-**Control:** does not prove that every historical pain generator was dystonic/Parkinsonian; Neurology had already proposed CR, which weakens any claim that the intervention was wholly outside its thinking.
+**Control:** these submissions are not independent proof of their own allegations.
+
+Later evidence requires parts of the April theory to narrow, including proof of Healy's external involvement, Counihan's one-off advisory participation, earlier dopaminergic treatment and the pre-existing March CR plan.
+
+**Suspicion after event:** a broad professional-overreach theory begins to contract toward the more evidentially sustainable construction/maintenance/integration hypothesis.
+
+---
+
+# 23. April–May 2025 — Counihan's role becomes more precise
+
+**New evidence:** Counihan's own letter says **“As I have not been involved in your care…”** and forwards the matter to Monaghan. Monaghan later says Counihan had advised him in the 2017 weekly Complex Case meeting but had no further formal or informal management role.
+
+**Effect:** weakens theories of ongoing Counihan responsibility while strengthening evidence of one-off 2017 specialist advisory participation.
+
+**Control:** these accounts can coexist if “not involved in your care” means no treating/management role while one-off collegial advice nevertheless occurred.
+
+**Suspicion after event:** the expertise question becomes sharper: relevant expertise did enter the patient-specific case according to Monaghan, but bedside application to the painful-foot relationship remains unproved.
+
+---
+
+# 24. 2025 Sinemet and Sinemet CR — neurological pain relationship becomes explicit
+
+**New evidence:** clinician records Sinemet-related pain benefit, expects additional Sinemet could help further but is constrained by dyskinesia; controlled-release Sinemet later produces profound relief.
+
+**Effect:** strongly strengthens the local-update/global-reconstruction audit.
+
+**Counterweight:** active treatment reasoning and the pre-existing CR prescription weaken claims of therapeutic indifference or wholly patient-originated discovery.
 
 **Suspicion after event:** effective **falsifiability** becomes central — what evidence would ever require historical reconstruction?
 
 ---
 
-# 22. Same clinician's complaint response
+# 25. Monaghan's 2025 complaint and Medical Council explanations
 
-**New evidence:** originating clinician retrospectively explains the longitudinal care and invokes accumulated history to support coherence and reasonableness while preserving a mixed/separate pain model.
+**New evidence:** the originating clinician retrospectively explains the longitudinal care, treatment strategy, specialist input and ongoing record. In the Medical Council response he says he usually saw the patient himself, identifies Counihan's one-off 2017 advice, confirms Healy's involvement and relies on the longitudinal record to explain the eight-year history.
 
-**Effect:** supplies substantial innocent clinical explanation and real contrary evidence.
+**Effect:** supplies substantial innocent/defensive evidence and materially strengthens same-clinician continuity.
 
-**New question:** the response is not independent validation of the clinician's own earlier formulation merely because it is detailed.
+**New question:** the response is clinician evidence, not independent confirmation of the clinician's own historical model merely because it is detailed.
 
-**Suspicion after event:** retrospective-validation/endogenous-coherence question is born.
-
----
-
-# 23. PAR/SIMT concludes no deficit in care
-
-**New evidence:** institutional review reaches a conclusion adverse to the patient's suspicion.
-
-**Effect:** genuine contrary evidence that weakens the suspicion unless and until the review basis is understood.
-
-**Residual question:** what evidence, sources, reviewers and independent clinical inputs actually generated that conclusion?
-
-**Suspicion after event:** shifts from “review failed” to “what phenomenon did review actually test?”
+**Suspicion after event:** retrospective-validation/endogenous-coherence question becomes more concrete.
 
 ---
 
-# 24. Patient obtains records and reconstructs institutional history
+# 26. 4 August 2025 Article 18 restriction request
 
-**New evidence:** patient's present theory becomes more sophisticated after bodily treatment response, complaint activity and access to records.
+**New process:** patient asks that disputed data be restricted/marked during the accuracy dispute, including concern about use in the PAR/SIMT process.
 
-**Effect:** creates a patient-language and discovery genealogy.
+**Effect:** creates a data-governance chronology relevant to later processing.
 
-**Control:** later understanding cannot be projected backwards into the 2017 patient information state.
+**Control:** making the request does not prove that later processing was unlawful or that Article 18 had the legal effect asserted.
 
 ---
 
-# 25. Article 15 provenance request — 31 August 2026
+# 27. PAR → SIMT decision, 27 August / 3 September 2025
 
-**New evidence/process:** patient asks GUH DPO for personal data revealing the creation/revision/audit/source history of the July 2017 synthesis and the evidence genealogy of the 2025 PAR/SIMT review.
+**New evidence:** a Preliminary Assessment Report is presented to SIMT on 27 August. SIMT concludes care was appropriate / there was no deficit and decides no further review is required.
 
-**Effect:** does not strengthen the merits by itself; creates a potentially decisive external test of construction and retrospective-validation hypotheses.
+**Effect:** genuine contrary institutional evidence that weakens the suspicion unless and until its evidential basis is understood.
+
+**Process correction:** this should be described as a **preliminary assessment followed by a SIMT threshold/outcome decision**, not automatically as a full independent re-investigation.
+
+**Suspicion after event:** shifts from “review failed” to “what evidence did the PAR actually reconstruct, and what did SIMT actually test?”
+
+---
+
+# 28. January 2026 — institution expressly preserves reliance
+
+**New evidence:** QPS states that the completed complaint/SIMT processes remained valid, that later dystonia information did not undermine the outcomes, and that no current governance risk required reopening or alteration.
+
+**Effect:** stronger than institutional silence. It is evidence of continued reliance on the completed process.
+
+**Control:** it remains an institutional conclusion, not independent clinical proof of the underlying propositions.
+
+**Suspicion after event:** retrospective validation and corrigibility become active rather than purely conceptual questions.
+
+---
+
+# 29. DPC assessment in 2026
+
+**New evidence/process:** DPC complaint C-25-7-2074 is under assessment on Article 16, Article 15 and Article 18 issues identified by the Commission. The DPC cautions that rectification is not absolute and seeks further information rather than finding a breach. A separate University of Galway complaint proceeds separately.
+
+**Effect:** creates active external regulatory testing.
+
+**Control:** no DPC merits finding should be invented from procedural correspondence.
+
+---
+
+# 30. 31 August 2026 Article 15 provenance request
+
+**New process:** patient asks GUH DPO for personal data revealing creation/revision/audit/source history of the July synthesis and the evidence genealogy of the 2025 PAR/SIMT process.
+
+**Effect:** no merits change by itself; creates a potentially decisive external test of construction and retrospective-validation hypotheses.
 
 **Suspicion after event:** becomes more falsifiable because authorship time and review genealogy may become evidentially answerable.
 
 ---
 
-# 26. Article 16 supplementary statement — 2 September 2026
+# 31. 2 September 2026 Article 16 supplementary statement
 
-**New evidence/process:** patient gives a detailed retrospective account of the alleged 10 July 2017 Protest and asks that it be durably associated with the historical synthesis while leaving the original record intact.
+**New process:** patient supplies a detailed retrospective account of the alleged 10 July Protest and asks that it be durably associated with the historical synthesis while leaving the original record intact.
 
 **Effect:** particularises patient evidence and creates a live test of present-day documentary completeness/corrigibility.
 
 **Control:** does not convert the Protest into contemporaneous documentary fact or establish the legal merits of Article 16.
 
-**Suspicion after event:** the information-system hypothesis is no longer merely retrospective; the system is being asked to carry a competing patient account prospectively.
-
 ---
 
-# 27. DPC procedural activity — August/September 2026
-
-**New evidence/process:** existing HSE/GUH DPC complaint remains under assessment within defined scope; separate University of Galway complaint moves to CAERU.
-
-**Effect:** demonstrates active external regulatory testing but no substantive merits finding yet on the new provenance/completion questions.
-
-**Control:** separate controllers and complaint references must remain separate.
-
----
-
-# 28. 2026 genetic confirmation
+# 32. 2026 genetic confirmation
 
 **New evidence:** later genetics confirms Parkin/PRKN disease and Parkinsonism/dystonia.
 
 **Effect:** materially weakens any theory attacking the reality of Parkinsonism itself.
 
-**Control:** cannot be projected backward to prove what 2017 clinicians should have known or what historical foot pain mechanism was.
+**Control:** cannot be projected backward to prove what 2017 clinicians should have known or what the historical foot-pain mechanism was.
 
 **Suspicion after event:** surviving case is narrower: adequacy of integration, documentary construction, later stewardship, mixed mechanism, safety and retrospective validation.
 
@@ -345,42 +394,32 @@ The ledger must preserve innocent explanations and contrary evidence with the sa
 
 # Current surviving form
 
-The suspicion has survived only by losing weaker propositions.
+The suspicion has survived by losing weaker propositions.
 
-It no longer needs to say:
-
-- Parkinsonism was unreal;
-- structural disease was unreal;
-- neuropathy was impossible;
-- later clinicians did nothing;
-- treatment toxicity did not matter;
-- Sinemet CR was never considered by Neurology;
-- all foot pain had one mechanism.
+It no longer needs to say that Parkinsonism was unreal; structural disease was unreal; neuropathy was impossible; later clinicians did nothing; treatment toxicity did not matter; Sinemet CR was never considered by Neurology; `burning` could only have been clinician language; Counihan had ongoing management responsibility; or all foot pain had one mechanism.
 
 The surviving hypothesis is:
 
-> **An integrated painful feet–gait–tone problem entered Neurology. The lower limb was neurologically meaningful. The patient says he challenged closure because the feet remained unfinished. The final specialist record may then have created or formalised a portable explanatory separation whose exact authorship chronology remains unproved. The same clinician later encountered evidence repeatedly crossing that boundary, while genuine structural disease, neuropathic-pain response and treatment toxicity preserved a mixed phenotype. The central longitudinal question is whether those contradictions ever caused global reconstruction of the founding relationship or were repeatedly absorbed locally. Later complaint/review and current data-provenance activity test whether accumulated record coherence represents independent validation or partly reflects the information state generated at the beginning.**
+> **An integrated painful feet–gait–tone problem entered Neurology. The lower limb was neurologically meaningful. The patient now gives a specific retrospective account that he challenged closure because the feet remained unfinished; a detailed October 2017 private narrative supplies both important corroborating context and limited negative evidence because it does not record that Protest. The final specialist record may have created or formalised a portable explanatory separation whose exact authorship chronology remains unproved. The same clinician later encountered evidence repeatedly crossing that boundary, while genuine structural disease, neuropathic-pain response, active reassessment and treatment toxicity preserved a mixed phenotype. The central longitudinal question is whether those contradictions ever caused global reconstruction of the founding relationship or were repeatedly absorbed locally. Later clinician explanation, PAR/SIMT and current data-provenance activity test whether accumulated record coherence represents independent validation or partly reflects the information state generated at the beginning.**
 
 ---
 
 # Failure conditions
 
-The repository must actively look for evidence capable of killing the suspicion.
-
-## Construction limb fails or materially weakens if:
+## Construction limb materially weakens if:
 
 - consequential July wording clearly pre-dated the Protest;
 - it arose from identifiable contemporaneous clinical evidence;
 - adequate relationship-directed foot/lower-limb assessment is demonstrated;
 - post-Protest re-examination/explanation/ownership is documented.
 
-## Maintenance limb fails or materially weakens if:
+## Maintenance limb materially weakens if:
 
 - the same clinician demonstrably performed a genuine global reconstruction;
 - later mixed-mechanism reasoning expressly revised the founding architecture;
 - later independent evidence materially vindicated the original separation.
 
-## Retrospective-validation limb fails or materially weakens if:
+## Retrospective-validation limb materially weakens if:
 
 - later reviewers independently reconstructed the primary evidence, Protest, authorship chronology and later contradictions rather than relying materially on inherited summaries.
 
