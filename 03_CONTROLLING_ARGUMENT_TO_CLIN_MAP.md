@@ -4,6 +4,8 @@
 
 This is the finite proposition map. It links each argument the case is willing to make to the canonical record and identifies its evidential role.
 
+The present controlling working transcription in this repository is `REPAIRED_CANONICAL_V2.md`, subject to correction by original source documents where a discrepancy is verified.
+
 Evidence classes:
 - **CC** contemporaneous clinician
 - **CP** contemporaneous patient
@@ -28,11 +30,23 @@ Evidence classes:
 
 **Proposition:** The dystonic/pseudo-footdrop phenomenon was affirmatively recognised contemporaneously and was not a later reinterpretation.
 
-**CLIN:** `001085–001120`; DAT-scan indication at `001869`.
+**CLIN:** `001097–001106`; `001114–001120`; DAT-scan indication at `001394–001402` / duplicated at `001869`.
 
 **Status:** CC.
 
 **Role:** Duty/Breach foundation.
+
+## 2A. The dystonic-looking lower limb was used when diagnostically productive
+
+**Proposition:** The lower-limb abnormality was not merely noticed. The gait was described as “almost dystonically unusual” in the DAT-scan indication and therefore carried forward as neurological evidence within the Parkinsonian diagnostic project.
+
+**CLIN:** `001097–001099`; `001394–001402`; duplicated DAT-scan indication at `001869`.
+
+**Status:** CC.
+
+**Role:** Documentary asymmetry / Breach foundation.
+
+**Limit:** This does not itself prove that the painful feet were dystonic or that the later foot disposition was wrong.
 
 ## 3. Substantial neurological work occurred
 
@@ -44,21 +58,23 @@ Evidence classes:
 
 **Role:** Defence / calibration.
 
-## 4. Final synthesis left the feet separate / neuropathic / “Not clear”
+## 4. Final synthesis affirmatively introduced a separate / neuropathy branch and ended “Not clear”
 
-**Proposition:** The final working allocation allowed full separation, possible neuropathy, and unresolved uncertainty.
+**Proposition:** The final working allocation did more than fail to connect the feet to the movement disorder. It affirmatively introduced the possibility that the leg/foot phenomena “may have been completely separate” or perhaps represented secondary peripheral neuropathy, while leaving the relationship “Not clear.”
 
 **CLIN:** `001142–001149`.
 
 **Status:** CC.
 
-**Role:** Breach architecture.
+**Role:** Breach architecture / documentary disposition.
+
+**Precision:** Peripheral neuropathy is itself neurological. The proposition is that the painful-foot problem was made capable of being causally separate from the Parkinsonian/dystonic process identified in the lower limb.
 
 ## 5. Complete discriminative bridge is not clearly demonstrated
 
-**Proposition:** The surviving detailed record does not clearly demonstrate the full lower-limb bridge concerning distal power, directed sensory findings, ankle-specific reflexes, fixed versus dynamic/passively correctable posture, and structure–posture–loading–pain integration.
+**Proposition:** The surviving detailed July record documents a striking abnormal gait, a footdrop-like left-lower-limb phenomenon considered suggestive of dystonic posture rather than true foot drop, pes planus, hammertoes and mild/minimal sock-band pitting oedema. It does not clearly demonstrate the full lower-limb bridge concerning distal power, directed sensory findings, ankle-specific reflexes, plantar response, fixed versus dynamic/passively correctable posture, and structure–posture–loading–pain integration.
 
-**CLIN comparator:** `001084–001124`; `001142–001149`; `001429–001439`; `001518–001525`.
+**CLIN comparator:** history `000959–000976`; gait/examination `001097–001124`; final disposition `001142–001149`.
 
 **Status:** NI/EXP.
 
@@ -66,15 +82,38 @@ Evidence classes:
 
 **Limit:** Do not convert documentary absence into proof that the examination did not occur.
 
-## 6. “Not clear” may have been legitimate initially
+## 5A. Record-wide plantar check and 2020 internal Neurology comparator
 
-**Proposition:** Uncertainty itself is not the breach; adequacy depends on what work preceded it.
+**Proposition:** In the current repaired canonical, the term `plantar` is identified only in the later 2020 Neurology examination through `plantarflexion`, and in a Podiatry description of the plantar metatarsal area. No documented plantar examination has been identified in the July 2017 admission/discharge material.
 
-**CLIN:** `001142–001149` plus examination record above.
+When Neurology later resolved a similar foot-drop-like “throw,” it expressly recorded normal power for dorsiflexion, plantarflexion, inversion and eversion and used those findings to classify the phenomenon as Parkinsonian.
 
-**Status:** EXP.
+**CLIN:** later Neurology comparator `002284–002288`; Podiatry plantar-area usage `002872–002876`.
+
+**Status:** NI/CC.
+
+**Role:** Internal documentary comparator / expert calibration.
+
+**Limit:** The 2020 examination does not define the 2017 standard of care. It shows how the same Neurology record later documented directed distal motor discrimination when resolving a similar foot-drop-like appearance.
+
+## 6. “Not clear” may represent different kinds of uncertainty
+
+**Proposition:** Uncertainty itself is not the breach; adequacy depends on what work preceded it. “Not clear” can mean either that the relationship remains uncertain after adequate specialist discrimination, or that it remains uncertain because the necessary relationship-specific investigation was incomplete.
+
+**CLIN:** `001142–001149` plus July examination record above.
+
+**Status:** EXP + documentary inference.
 
 **Role:** Duty/Breach calibration.
+
+**Working distinction:**
+
+- **procedural uncertainty:** the relationship is unclear because it has not yet been adequately investigated;
+- **substantive specialist uncertainty:** appropriate specialist discriminatory work has been performed and the relationship genuinely remains unclear.
+
+**Hypothesis to test:** If the required relational work had not occurred, the sophistication and authority of the discharge account may have converted procedural uncertainty into **authoritative specialist uncertainty**.
+
+No claim should be made about what the GP actually understood without evidence. The objective comparator is what clinical work a referring GP would reasonably expect to underlie such a specialist disposition.
 
 ## 7. Podiatry was appropriate for genuine structural disease
 
@@ -105,6 +144,8 @@ Evidence classes:
 **Status:** RP + EXP.
 
 **Role:** Duty/Breach.
+
+**Control:** The core July documentary-disposition route at propositions 1–6 does **not** depend on the Protest being proved.
 
 ## 10. PARK2 became an independently favoured contemporary hypothesis
 
@@ -306,9 +347,21 @@ Evidence classes:
 
 **Role:** Retrospective plausibility / causation context.
 
-## 30. Final controlling proposition
+## 30. Documentary / informational causation route
 
-> **The feet were structurally real, neurologically modifiable, later pharmacologically consequential, and ultimately psychologically dangerous. The case asks whether that progression was adequately characterised, carried forward, treated and safeguarded.**
+**Proposition:** If expert evidence establishes that the July separate/neuropathy branch was insufficiently earned, the discharge may have changed the information environment inherited by later clinicians by presenting an unresolved relationship as a specialist disposition rather than an unfinished inquiry.
+
+**CLIN substrate:** integrated referral; July examination `001097–001124`; DAT-scan indication `001394–001402` / `001869`; final disposition `001142–001149`; later longitudinal inheritance.
+
+**Status:** reasonable inference + EXP/LEGAL for causation.
+
+**Role:** Causation architecture.
+
+**Control:** This is not proof of downstream reliance, negligence, concealment or harm. Each link must be established separately.
+
+## 31. Final controlling proposition
+
+> **The feet were structurally real, neurologically significant, later neurologically modifiable and pharmacologically consequential, and ultimately psychologically dangerous. The July record additionally requires examination of what work justified the affirmative separate/neuropathy branch placed into the specialist record. The case asks whether that founding disposition and the later progression were adequately characterised, carried forward, reopened, treated and safeguarded.**
 
 ## Freeze rule
 
