@@ -45,26 +45,32 @@ The material above is deliberately retained as the front-door statement of the p
 
 This repository has two simultaneous purposes: to establish the case with documentary discipline, and to preserve how the case is developed, challenged, corrected and externally tested. The governing method is in `01_CASE_STUDY_CHARTER.md`.
 
+A fresh reader must not mistake the finished July 2017 specialist synthesis for the evidential beginning. The document is itself an output of earlier bodily, GP, inpatient, patient-interaction and document-construction evidence. `12_WHOLE_CASE_EVIDENTIAL_GENEALOGY.md` is the whole-case orientation layer for that distinction.
+
 ## Recommended reading route
 
 1. `README.md` — strongest present suspicion and compressed longitudinal case.
 2. `00_PATIENT_GUIDING_STATEMENT.md` — the patient's experiential centre and reason for pursuing the case.
 3. `01_CASE_STUDY_CHARTER.md` — governance, evidence classes, source hierarchy and falsification discipline.
-4. `REPAIRED_CANONICAL_V2.md` — controlling working transcription, subject to verified original/native-source correction.
-5. `05_JULY_2017_FEET_ASSESSMENT_AND_DOCUMENTARY_DISPOSITION.md` — focused founding-period evidential bridge.
-6. `06_TERMINOLOGY_PROVENANCE_AUDIT.md` — active source/provenance questions concerning `leg pain`, `burning` and neuropathy terminology.
-7. `02_CASE_THEORY_AND_ARGUMENT_VAULT.md` — finite argument set, including defence evidence and safeguarding.
-8. `03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md` — proposition-to-record map and evidential status.
-9. `07_GPT_A_INTEGRATED_FORMULATION.md` — current synthesis layer; GPT agreement is not evidence.
-10. `08_THE_NEUROLOGY_NEUROPATHY_ILLUSION.md` — compact active documentary-mechanism formulation and strongest current provenance-dependent hypothesis.
-11. `11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md` — same-clinician longitudinal custody, contradiction handling, model revision and falsifiability audit.
-12. `04_FINAL_EXPERT_QUESTION_REGISTER.md` — controlling movement-disorders expert questions.
-13. `09_CASE_STUDY_DEVELOPMENT_LOG.md` — material changes, corrections and hypothesis-status changes.
-14. `10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md` — future tailored submissions, responses and their actual evidential effect.
+4. `12_WHOLE_CASE_EVIDENTIAL_GENEALOGY.md` — true evidential start, descendant information states, whole-case sequence and life-of-suspicion method.
+5. `REPAIRED_CANONICAL_V2.md` — controlling working transcription, subject to verified original/native-source correction.
+6. `14_REAL_WORLD_TEAM_AND_RESPONSIBILITY_MAP.md` — real people, information opportunity, expertise and responsibility boundaries; capability is not participation or bedside application.
+7. `05_JULY_2017_FEET_ASSESSMENT_AND_DOCUMENTARY_DISPOSITION.md` — focused founding-period evidential bridge.
+8. `06_TERMINOLOGY_PROVENANCE_AUDIT.md` — active source/provenance questions concerning `leg pain`, `burning` and neuropathy terminology.
+9. `02_CASE_THEORY_AND_ARGUMENT_VAULT.md` — finite argument set, including defence evidence and safeguarding.
+10. `03_CONTROLLING_ARGUMENT_TO_CLIN_MAP.md` — proposition-to-record map and evidential status.
+11. `07_GPT_A_INTEGRATED_FORMULATION.md` — current synthesis layer; GPT agreement is not evidence.
+12. `08_THE_NEUROLOGY_NEUROPATHY_ILLUSION.md` — compact active documentary-mechanism formulation and strongest current provenance-dependent hypothesis.
+13. `11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md` — same-clinician longitudinal custody, contradiction handling, model revision and falsifiability audit.
+14. `15_LIFE_OF_THE_SUSPICION_LEDGER.md` — event-by-event record of what strengthens, weakens, narrows, contradicts or transforms the living hypothesis.
+15. `04_FINAL_EXPERT_QUESTION_REGISTER.md` — controlling movement-disorders expert questions.
+16. `13_LIVE_DATA_GOVERNANCE_AND_PROVENANCE_TRACK.md` — Article 15/16/18, DPC and provenance/corrigibility activity relevant to the evidential case.
+17. `09_CASE_STUDY_DEVELOPMENT_LOG.md` — material changes, corrections and hypothesis-status changes.
+18. `10_EXTERNAL_SUBMISSION_AND_RESPONSE_REGISTER.md` — verified external submissions/responses, competence boundaries, independence and effect on the formulation.
 
-## Three-stage analytical architecture
+## Three-stage analytical architecture plus external testing layer
 
-The current longitudinal suspicion must be tested in three distinct stages. They are related, but none proves the next.
+The current longitudinal suspicion must be tested in three distinct substantive stages. They are related, but none proves the next. A fourth layer now tests them externally through provenance and data-governance processes.
 
 ### 1. Construction
 
@@ -86,6 +92,14 @@ The question is therefore whether the original formulation helped generate the l
 
 `11_SAME_CLINICIAN_KNOWLEDGE_CONTRADICTION_AND_REVISION_LEDGER.md` is the active audit for the maintenance/stewardship stage. It requires the record to show, contradiction by contradiction, what the clinician knew, what changed, what proposition lost confidence, and what evidence was capable of falsifying his own earlier model.
 
+### 4. Corrigibility / provenance testing
+
+The live data-governance work does not add a fourth clinical allegation. It creates an external empirical testing layer.
+
+The 31 August 2026 Article 15 request seeks personal data capable of revealing the authorship, version, source and audit history of the July 2017 synthesis and the evidential genealogy of the 2025 PAR/SIMT review. The 2 September 2026 Article 16 request asks that the patient's supplementary account of the alleged pre-discharge Protest be durably associated with the historical synthesis while leaving the clinician-authored record intact.
+
+Those processes may strengthen, weaken or leave unchanged the construction and retrospective-validation hypotheses depending on what evidence actually emerges. Their existence alone proves none of the underlying clinical allegations.
+
 ## Historical / developmental analyses retained deliberately
 
 - `THE_NEUROLOGY_NEUROPATHY_ILLUSION.md` — long-form developmental analysis. It preserves the evolution of the information-system and clinical-epistemic-governance formulation. It is not substituted for the compact active `08_...` document.
@@ -97,13 +111,15 @@ These files are not being deleted or silently consolidated because they preserve
 
 For orientation, the present architecture is:
 
-> **integrated presentation → Protest, if proved → possible documentary/dispositional closure → same-clinician longitudinal custody → repeated boundary-crossing evidence → local updating without global reconstruction, if proved → severe pain → safeguarding endpoint → complaint/review → possible use of the accumulated record as retrospective validation.**
+> **lived bodily problem → integrated GP referral → inpatient evidence → Protest evidence, if accepted → possible documentary/dispositional closure → portable specialist information state → same-clinician longitudinal custody → repeated boundary-crossing evidence → local updating without global reconstruction, if proved → severe pain → safeguarding endpoint → complaint/review → possible use of accumulated record as retrospective validation → patient documentary discovery → provenance/completeness challenge → controller/regulator response → new evidence about the genealogy and corrigibility of the information system.**
 
 Safeguarding remains at the end of the longitudinal clinical sequence. It is analytically separable where necessary, but it is also the human endpoint of the case: severe pain, functional loss and death-associated distress create a safety question regardless of whether the earlier documentary, stewardship or treatment-causation hypotheses are ultimately proved.
 
 ## What remains unproved
 
-The repository does not presently treat as established fact that the July assessment was negligent; that the Protest is independently proved; that `leg pain` or `burning` was inserted improperly; that the neuropathy branch was deliberately constructed after the Protest; that any clinician acted dishonestly; that persistence of the framework proves improper intention; that later evidence disproved every structural or neuropathic mechanism; that one mechanism explains all foot pain; or that continuity of care itself proves adequate global reconstruction.
+The repository does not presently treat as established fact that the July assessment was negligent; that the Protest is independently corroborated; that `leg pain` or `burning` was inserted improperly; that the neuropathy branch was deliberately constructed after the Protest; that any clinician acted dishonestly; that persistence of the framework proves improper intention; that later evidence disproved every structural or neuropathic mechanism; that one mechanism explains all foot pain; or that continuity of care itself proves adequate global reconstruction.
+
+The Protest is nevertheless evidence: a specific retrospective patient account of a contemporaneous event whose surviving specialist record does not contain it. Lack of contemporaneous corroboration does not make it non-evidence; it affects weight and proof.
 
 The same-clinician refinement also requires granular source discipline. Broad continuity does not establish that the neurologist personally authored, observed or received every later item at the same time. Those knowledge states must be reconstructed threshold by threshold.
 
@@ -113,4 +129,6 @@ The maintenance suspicion turns on a different evidential question: **what later
 
 The retrospective-validation suspicion requires a third proof structure: later observations must be separated into genuinely independent evidence, interpretive propositions and inherited narrative descendants before longitudinal repetition can be counted as corroboration.
 
-The repository therefore exists to make all three stages—and the strongest competing explanations—visible rather than to guarantee any one conclusion.
+The data-governance/provenance layer creates live routes by which some of these questions may become answerable. A controller or regulator response must itself be classified by what it actually establishes and must not be mistaken for clinical expert evidence.
+
+The repository therefore exists to make the whole genealogy, all three substantive stages, the external testing layer and the strongest competing explanations visible rather than to guarantee any one conclusion.
